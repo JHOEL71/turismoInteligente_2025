@@ -1,0 +1,3001 @@
+id_visitante,pais_origen,edad,genero,destino,region,fecha_visita,dias_estadia,gasto_total,medio_transporte
+V0001,EEUU,35,M,,Puno,2025-12-17,10,2614,Bus
+V0002,Ecuador,25,F,Chan Chan,Puno,2025-06-08,4,2049,Bus
+V0003,Perú,64,M,Caral,Cajamarca,2025-04-01,10,1947,Auto
+V0004,Chile,31,F,Amazonas,Loreto,2025-08-26,6,4994,Auto
+V0005,Perú,49,M,Lago Titicaca,Lima,2025-01-26,9,4015,
+V0006,Chile,47,M,Machu Picchu,Cajamarca,2025-10-17,10,704,Tren
+V0007,España,34,F,,Puno,2025-10-21,10,1325,Tren
+V0008,Argentina,26,F,Amazonas,Ica,2025-08-04,3,2523,Bus
+V0009,Argentina,39,M,Amazonas,La Libertad,2025-04-08,10,3486,
+V0010,Perú,34,F,Lago Titicaca,Cajamarca,2025-06-27,3,1402,Avión
+V0011,Francia,19,M,Amazonas,Cusco,2025-01-05,3,4387,
+V0012,Brasil,49,M,Amazonas,Ica,2025-06-20,8,3177,Bus
+V0013,Brasil,59,M,Cajamarca,Lima,2025-12-27,1,1007,Auto
+V0014,Ecuador,52,M,Caral,La Libertad,2025-02-10,1,842,Bus
+V0015,EEUU,54,M,Amazonas,Ica,2025-07-26,2,2143,Avión
+V0016,Chile,45,F,Caral,Lima,2025-07-14,5,1701,Auto
+V0017,Argentina,66,M,Cajamarca,Ica,2025-08-17,5,1749,Auto
+V0018,Francia,43,M,Líneas de Nazca,Cajamarca,2025-09-14,6,1785,Bus
+V0019,Brasil,58,F,Amazonas,Loreto,2025-05-26,3,4831,
+V0020,Argentina,68,F,Líneas de Nazca,Cajamarca,2025-07-21,6,3180,Bus
+V0021,Perú,42,M,Líneas de Nazca,Loreto,2025-08-04,2,4019,Auto
+V0022,EEUU,32,F,Lago Titicaca,Puno,2025-05-07,7,3848,Bus
+V0023,Francia,51,M,Chan Chan,Ica,2025-03-04,4,316,Tren
+V0024,EEUU,39,F,Lago Titicaca,Lima,2025-05-01,4,4000,Auto
+V0025,Ecuador,70,M,Líneas de Nazca,La Libertad,2025-10-26,7,4099,Tren
+V0026,Colombia,47,F,Caral,Cusco,2025-08-01,5,3034,Bus
+V0027,Brasil,60,F,Amazonas,Cusco,2025-02-26,7,577,Tren
+V0028,Argentina,25,F,Machu Picchu,Cusco,2025-12-20,10,3749,Auto
+V0029,Colombia,67,F,Lago Titicaca,Ica,2025-10-06,4,1708,Tren
+V0030,Francia,68,F,Líneas de Nazca,Cusco,2025-08-03,9,3715,Avión
+V0031,Ecuador,20,F,,Loreto,2025-09-16,9,4792,Tren
+V0032,Argentina,23,M,Cajamarca,Puno,2025-03-14,6,2953,
+V0033,Colombia,30,F,Lago Titicaca,Puno,2025-06-11,8,4479,Tren
+V0034,Brasil,66,F,Amazonas,Cajamarca,2025-11-16,7,416,Tren
+V0035,Brasil,45,F,Machu Picchu,Cajamarca,2025-08-19,10,2008,Bus
+V0036,España,46,M,Lago Titicaca,Ica,2025-12-26,1,2591,Auto
+V0037,Brasil,61,F,Líneas de Nazca,Puno,2025-07-08,3,1928,Avión
+V0038,EEUU,55,F,Caral,Ica,2025-12-16,7,4690,Avión
+V0039,Colombia,29,M,Cajamarca,Puno,2025-10-18,7,3237,Tren
+V0040,Colombia,51,F,Caral,La Libertad,2025-04-22,8,364,Tren
+V0041,Argentina,24,F,Caral,Lima,2025-05-08,1,3795,Bus
+V0042,Perú,62,F,Cajamarca,Lima,2025-01-06,10,1611,Bus
+V0043,Francia,55,M,Lago Titicaca,Lima,2025-04-09,9,2259,
+V0044,EEUU,19,M,Líneas de Nazca,Cajamarca,2025-04-17,8,3622,Tren
+V0045,Argentina,68,M,Cajamarca,Loreto,2025-12-26,7,1705,
+V0046,Perú,31,M,Líneas de Nazca,Puno,2025-05-04,1,3693,Bus
+V0047,EEUU,42,M,Machu Picchu,Cusco,2025-07-05,1,2737,Auto
+V0048,Perú,60,F,Machu Picchu,Cusco,2025-09-09,7,2887,Bus
+V0049,Francia,62,F,Lago Titicaca,Puno,2025-04-05,1,807,Auto
+V0050,España,37,M,Amazonas,Ica,2025-05-18,5,3333,Auto
+V0051,España,25,F,Líneas de Nazca,Puno,2025-09-08,8,3045,Tren
+V0052,Brasil,66,M,Amazonas,Ica,2025-07-15,9,1489,Auto
+V0053,Chile,58,F,Machu Picchu,Puno,2025-02-14,8,4504,Tren
+V0054,Chile,35,F,Amazonas,Lima,2025-01-22,3,2664,Tren
+V0055,Francia,34,M,Amazonas,Ica,2025-03-02,3,4392,Bus
+V0056,Brasil,49,F,Líneas de Nazca,Lima,2025-10-05,5,2038,Avión
+V0057,Brasil,19,F,Chan Chan,La Libertad,2025-01-11,2,2635,Tren
+V0058,Brasil,63,F,Cajamarca,Puno,2025-12-25,5,2558,Auto
+V0059,Perú,32,M,Chan Chan,Loreto,2025-11-22,1,3823,
+V0060,Argentina,25,F,Lago Titicaca,Ica,2025-07-27,9,3030,Bus
+V0061,Colombia,46,M,Líneas de Nazca,Loreto,2025-08-15,2,4750,
+V0062,Ecuador,55,F,Cajamarca,Cajamarca,2025-02-01,7,2295,Avión
+V0063,Ecuador,46,M,Cajamarca,Cusco,2025-06-01,5,4973,Auto
+V0064,Argentina,58,M,Cajamarca,La Libertad,2025-10-20,10,1116,Avión
+V0065,Ecuador,47,M,Caral,Cusco,2025-05-13,4,3760,Bus
+V0066,Colombia,38,M,Machu Picchu,Lima,2025-12-18,8,652,
+V0067,España,47,M,Líneas de Nazca,Cusco,2025-03-10,8,3517,
+V0068,Argentina,70,M,Cajamarca,Cusco,2025-05-10,8,480,Avión
+V0069,EEUU,60,F,Machu Picchu,Cajamarca,2025-09-14,4,1765,
+V0070,Ecuador,34,M,Líneas de Nazca,La Libertad,2025-11-15,2,2388,Avión
+V0071,Perú,62,M,Caral,Loreto,2025-06-21,5,1430,Tren
+V0072,Chile,21,F,Caral,Puno,2025-04-07,2,3316,Avión
+V0073,Chile,70,F,Chan Chan,Lima,2025-04-01,3,4362,Avión
+V0074,Argentina,63,M,Lago Titicaca,Loreto,2025-06-28,9,1761,
+V0075,España,43,M,Chan Chan,Cusco,2025-07-07,5,3432,Avión
+V0076,Argentina,48,F,Chan Chan,Loreto,2025-04-18,10,4153,Avión
+V0077,EEUU,44,M,Machu Picchu,Ica,2025-03-05,1,3865,Auto
+V0078,Brasil,25,M,Cajamarca,Loreto,2025-12-05,4,1057,Bus
+V0079,Ecuador,48,F,Lago Titicaca,La Libertad,2025-05-17,7,1505,
+V0080,Brasil,30,F,Caral,Puno,2025-09-03,8,3718,Tren
+V0081,Brasil,44,F,Caral,Cajamarca,2025-09-08,9,923,Avión
+V0082,Colombia,43,F,Lago Titicaca,Cusco,2025-02-19,4,4875,Bus
+V0083,España,53,F,Amazonas,Cajamarca,2025-11-18,4,2412,
+V0084,Colombia,40,M,Lago Titicaca,Loreto,2025-06-16,2,1146,Bus
+V0085,Ecuador,37,M,Machu Picchu,Puno,2025-05-12,9,4546,Avión
+V0086,Perú,51,M,Amazonas,Ica,2025-10-20,9,3572,Avión
+V0087,Argentina,58,M,Machu Picchu,Ica,2025-08-18,2,2908,Auto
+V0088,Argentina,34,F,Caral,Loreto,2025-05-05,5,2229,Tren
+V0089,Chile,35,F,Caral,Ica,2025-09-06,10,757,Auto
+V0090,España,36,M,Machu Picchu,Ica,2025-06-21,1,2651,
+V0091,Perú,33,M,Líneas de Nazca,Loreto,2025-08-02,5,3125,Bus
+V0092,Brasil,39,M,,Puno,2025-03-08,7,3864,Auto
+V0093,Francia,26,F,Cajamarca,Ica,2025-03-07,1,3967,Bus
+V0094,Brasil,33,M,Chan Chan,Puno,2025-03-02,6,3640,
+V0095,Francia,59,F,Machu Picchu,Ica,2025-02-25,7,545,
+V0096,España,62,M,Chan Chan,Lima,2025-11-24,4,4187,Avión
+V0097,Brasil,31,M,Chan Chan,La Libertad,2025-02-26,5,4959,Bus
+V0098,España,63,M,Machu Picchu,Ica,2025-04-10,5,4958,Avión
+V0099,Argentina,67,M,Chan Chan,Ica,2025-02-14,8,1093,
+V0100,Ecuador,62,F,Amazonas,Cusco,2025-11-21,9,2969,
+V0101,Francia,21,F,Amazonas,Loreto,2025-01-27,10,4271,Auto
+V0102,Francia,31,M,Lago Titicaca,Lima,2025-08-25,2,950,Avión
+V0103,Ecuador,64,F,Cajamarca,Cusco,2025-01-06,6,619,Auto
+V0104,Perú,52,M,Lago Titicaca,La Libertad,2025-04-19,7,2501,Tren
+V0105,Ecuador,67,F,Cajamarca,Ica,2025-01-20,5,2366,Auto
+V0106,Chile,33,M,Machu Picchu,Lima,2025-08-05,2,3545,Tren
+V0107,Chile,30,M,Líneas de Nazca,Puno,2025-03-18,1,748,Avión
+V0108,EEUU,54,M,Chan Chan,Cajamarca,2025-08-20,8,3387,Auto
+V0109,Chile,55,F,Lago Titicaca,Puno,2025-01-13,1,1313,Avión
+V0110,Brasil,34,F,Lago Titicaca,Lima,2025-04-19,3,910,Avión
+V0111,Perú,68,M,Chan Chan,Loreto,2025-06-27,2,475,Avión
+V0112,España,58,M,Machu Picchu,Loreto,2025-04-16,9,3482,Bus
+V0113,Argentina,35,M,Amazonas,Cusco,2025-08-23,10,1260,Tren
+V0114,Francia,51,M,Amazonas,Ica,2025-02-22,6,843,Auto
+V0115,Chile,29,M,Machu Picchu,Puno,2025-05-05,3,4121,Bus
+V0116,Francia,64,M,Cajamarca,Puno,2025-09-24,10,609,Tren
+V0117,Ecuador,59,F,Lago Titicaca,La Libertad,2025-03-25,3,2974,Tren
+V0118,Colombia,19,M,Caral,Loreto,2025-12-15,8,4827,Bus
+V0119,Ecuador,31,F,Machu Picchu,La Libertad,2025-08-16,8,1679,
+V0120,Francia,22,F,Cajamarca,Loreto,2025-12-28,2,3496,Tren
+V0121,Chile,58,F,Cajamarca,Loreto,2025-07-19,2,2816,Tren
+V0122,Brasil,49,F,Machu Picchu,Lima,2025-05-27,2,4911,
+V0123,Colombia,57,F,Líneas de Nazca,Loreto,2025-09-26,4,4322,
+V0124,Brasil,57,F,Machu Picchu,La Libertad,2025-07-02,9,3975,
+V0125,Ecuador,57,M,Amazonas,La Libertad,2025-04-18,5,2041,Avión
+V0126,Ecuador,46,M,Amazonas,Lima,2025-07-25,4,643,Bus
+V0127,Colombia,49,M,Lago Titicaca,Loreto,2025-10-03,9,4886,Bus
+V0128,Colombia,55,F,Amazonas,Puno,2025-03-21,4,4718,
+V0129,España,67,M,Machu Picchu,Cusco,2025-02-02,10,2096,Auto
+V0130,Colombia,70,M,Cajamarca,Loreto,2025-11-20,8,4311,
+V0131,Colombia,70,M,Líneas de Nazca,Lima,2025-10-18,2,2544,Avión
+V0132,Argentina,63,M,Chan Chan,Puno,2025-12-12,7,609,Bus
+V0133,España,45,M,Machu Picchu,Ica,2025-11-16,3,3200,Tren
+V0134,Argentina,42,M,Líneas de Nazca,La Libertad,2025-04-14,9,621,
+V0135,Brasil,18,M,Amazonas,Puno,2025-03-14,4,1828,
+V0136,Brasil,58,F,Líneas de Nazca,Lima,2025-11-17,5,2337,Bus
+V0137,Perú,18,M,,Cusco,2025-05-19,6,4879,
+V0138,Perú,69,M,Cajamarca,Ica,2025-08-23,7,2455,Tren
+V0139,EEUU,43,M,Machu Picchu,Lima,2025-10-23,9,602,
+V0140,Colombia,26,M,Chan Chan,Cajamarca,2025-01-16,7,4382,
+V0141,Francia,21,F,Cajamarca,Cajamarca,2025-02-03,1,525,
+V0142,España,61,F,Amazonas,La Libertad,2025-10-04,1,3324,Bus
+V0143,Ecuador,34,M,,La Libertad,2025-05-10,8,2447,Tren
+V0144,Brasil,30,M,Cajamarca,La Libertad,2025-02-14,7,3587,Avión
+V0145,Chile,29,M,Chan Chan,Ica,2025-02-06,10,4332,Auto
+V0146,Colombia,68,M,Chan Chan,Puno,2025-11-14,3,2640,Bus
+V0147,EEUU,65,F,Lago Titicaca,La Libertad,2025-04-10,3,4772,Avión
+V0148,España,38,M,Líneas de Nazca,Loreto,2025-03-19,7,3308,Tren
+V0149,Ecuador,60,F,Lago Titicaca,La Libertad,2025-07-03,10,3993,Avión
+V0150,Ecuador,50,F,Caral,Ica,2025-08-25,3,4406,Auto
+V0151,Colombia,34,F,Caral,Loreto,2025-08-22,7,3719,Bus
+V0152,Perú,51,M,Caral,La Libertad,2025-02-28,10,3904,Auto
+V0153,Ecuador,65,F,Cajamarca,Loreto,2025-01-20,4,4447,
+V0154,Perú,32,M,Cajamarca,Ica,2025-08-14,6,1272,Tren
+V0155,Chile,23,F,Líneas de Nazca,Puno,2025-01-08,9,307,
+V0156,Ecuador,28,M,Lago Titicaca,Puno,2025-11-23,9,525,Auto
+V0157,Colombia,44,F,Chan Chan,La Libertad,2025-05-09,6,2443,Bus
+V0158,Ecuador,18,F,Líneas de Nazca,Cusco,2025-07-27,7,2243,Auto
+V0159,Perú,42,F,Cajamarca,La Libertad,2025-06-15,8,3353,Auto
+V0160,España,54,F,Cajamarca,La Libertad,2025-10-16,1,1068,Bus
+V0161,Chile,62,M,Machu Picchu,La Libertad,2025-03-22,1,3671,Bus
+V0162,Brasil,24,F,Cajamarca,Cusco,2025-10-25,9,2378,Bus
+V0163,Colombia,48,M,Machu Picchu,La Libertad,2025-06-20,5,4198,Tren
+V0164,Ecuador,66,M,Chan Chan,Cajamarca,2025-01-02,1,3463,Bus
+V0165,España,61,F,Chan Chan,La Libertad,2025-04-08,6,3479,Tren
+V0166,Colombia,48,F,Caral,La Libertad,2025-07-05,3,3226,Tren
+V0167,España,38,F,Caral,La Libertad,2025-01-12,8,2739,
+V0168,Brasil,61,F,Chan Chan,Ica,2025-06-16,3,4047,Tren
+V0169,España,54,F,Chan Chan,Ica,2025-08-12,9,1109,Avión
+V0170,Chile,56,M,Caral,Ica,2025-07-25,2,601,Auto
+V0171,Chile,45,M,Lago Titicaca,Puno,2025-03-27,7,4714,Auto
+V0172,Ecuador,62,F,Caral,Puno,2025-05-18,8,3277,
+V0173,EEUU,23,F,Lago Titicaca,Cusco,2025-01-04,4,709,Auto
+V0174,Perú,29,M,Amazonas,Cusco,2025-03-20,10,4347,Bus
+V0175,Chile,47,F,,La Libertad,2025-01-08,1,2394,
+V0176,España,30,M,Cajamarca,Cajamarca,2025-03-28,3,1835,
+V0177,Francia,23,F,Lago Titicaca,Cajamarca,2025-01-06,6,1763,Bus
+V0178,Brasil,25,F,Líneas de Nazca,La Libertad,2025-02-18,7,380,Bus
+V0179,Perú,28,M,Machu Picchu,Puno,2025-01-25,3,2257,Avión
+V0180,EEUU,67,M,Caral,La Libertad,2025-02-23,5,2433,Tren
+V0181,Colombia,27,M,Lago Titicaca,Lima,2025-01-02,4,2046,Avión
+V0182,EEUU,44,F,Caral,Puno,2025-07-16,9,1512,
+V0183,Brasil,28,M,Chan Chan,Cajamarca,2025-04-25,4,713,Tren
+V0184,Perú,65,M,Lago Titicaca,Puno,2025-09-14,1,4444,
+V0185,España,45,M,Chan Chan,Ica,2025-12-07,1,3111,Auto
+V0186,Chile,18,M,Caral,Puno,2025-07-03,5,2431,Auto
+V0187,Francia,61,M,Caral,Puno,2025-07-27,10,2227,
+V0188,Francia,21,M,Líneas de Nazca,Ica,2025-11-25,5,2870,Tren
+V0189,Brasil,32,M,Cajamarca,Lima,2025-08-01,4,1900,Tren
+V0190,Colombia,69,F,Lago Titicaca,Lima,2025-04-07,4,3758,Auto
+V0191,Perú,67,F,Lago Titicaca,La Libertad,2025-12-25,9,1713,Bus
+V0192,Brasil,29,M,Machu Picchu,Cusco,2025-04-05,4,1544,Avión
+V0193,Perú,42,M,Cajamarca,Loreto,2025-07-23,5,1893,Auto
+V0194,Colombia,31,M,Chan Chan,Puno,2025-10-21,9,1190,Avión
+V0195,Chile,68,F,Cajamarca,Loreto,2025-09-08,8,4720,Bus
+V0196,Ecuador,26,M,Amazonas,Cusco,2025-06-10,2,4428,Tren
+V0197,Brasil,28,M,Machu Picchu,Ica,2025-01-07,3,3941,Avión
+V0198,Perú,22,M,Machu Picchu,La Libertad,2025-09-10,10,1303,
+V0199,Perú,29,M,Cajamarca,Puno,2025-02-24,7,1727,Tren
+V0200,Perú,51,F,Líneas de Nazca,Lima,2025-03-28,9,2923,Avión
+V0201,Argentina,23,F,Cajamarca,Loreto,2025-04-14,4,1732,Bus
+V0202,Colombia,45,M,Cajamarca,Loreto,2025-08-09,1,2757,
+V0203,Francia,24,M,Cajamarca,Ica,2025-04-19,1,1949,Avión
+V0204,Argentina,30,F,Machu Picchu,Loreto,2025-05-20,5,3608,
+V0205,Perú,61,M,Machu Picchu,Lima,2025-03-18,8,1638,Tren
+V0206,Ecuador,28,M,Líneas de Nazca,La Libertad,2025-06-18,10,4375,
+V0207,EEUU,67,M,Amazonas,Puno,2025-01-13,1,2072,Tren
+V0208,EEUU,55,M,Cajamarca,Lima,2025-04-21,3,2065,Tren
+V0209,Francia,51,F,Caral,Ica,2025-03-19,1,4911,Auto
+V0210,EEUU,33,F,Chan Chan,Cusco,2025-05-15,1,4940,Avión
+V0211,Argentina,34,F,Cajamarca,La Libertad,2025-12-06,8,1869,Bus
+V0212,Francia,36,F,Líneas de Nazca,Puno,2025-11-25,8,2201,
+V0213,Brasil,66,M,Machu Picchu,Cusco,2025-01-12,5,3946,Tren
+V0214,Argentina,50,M,Caral,Lima,2025-02-01,5,3762,Bus
+V0215,Brasil,20,M,Cajamarca,Cajamarca,2025-12-02,8,2561,Bus
+V0216,Brasil,20,F,Caral,Loreto,2025-10-15,7,4586,Bus
+V0217,Argentina,68,F,Lago Titicaca,Cusco,2025-06-08,5,323,
+V0218,EEUU,32,F,Líneas de Nazca,Cajamarca,2025-04-06,1,1519,Bus
+V0219,España,67,F,Chan Chan,Puno,2025-06-16,2,2901,
+V0220,Colombia,32,F,Amazonas,Loreto,2025-09-12,5,995,Bus
+V0221,Ecuador,61,M,Machu Picchu,Cajamarca,2025-03-27,2,3165,Tren
+V0222,Argentina,28,M,Caral,Puno,2025-09-25,3,3762,Auto
+V0223,Francia,49,F,Caral,Cusco,2025-06-13,4,4672,Tren
+V0224,Ecuador,61,F,Amazonas,Cusco,2025-01-20,9,2824,Avión
+V0225,España,69,M,Caral,Lima,2025-11-06,4,1456,Bus
+V0226,Perú,26,F,Caral,Puno,2025-01-12,1,3628,Avión
+V0227,Francia,68,F,Caral,Loreto,2025-02-19,2,749,
+V0228,Argentina,58,F,Amazonas,Puno,2025-05-28,9,4836,Bus
+V0229,Perú,54,F,,Ica,2025-09-02,1,988,Auto
+V0230,Argentina,47,F,Machu Picchu,Lima,2025-05-08,4,3119,Tren
+V0231,EEUU,44,M,Líneas de Nazca,Cusco,2025-10-10,5,766,
+V0232,Argentina,53,F,Caral,Ica,2025-02-26,10,1171,Bus
+V0233,Ecuador,38,M,Machu Picchu,Cajamarca,2025-07-21,3,4781,Auto
+V0234,EEUU,55,M,Amazonas,Cusco,2025-09-28,8,2313,
+V0235,EEUU,45,M,Lago Titicaca,Cajamarca,2025-06-06,8,855,Bus
+V0236,Brasil,52,M,Lago Titicaca,Puno,2025-08-15,1,2802,Bus
+V0237,Francia,29,F,Cajamarca,Puno,2025-04-21,1,432,
+V0238,Argentina,55,M,Lago Titicaca,Loreto,2025-11-25,9,2864,Tren
+V0239,EEUU,55,M,Chan Chan,La Libertad,2025-04-07,3,3242,Avión
+V0240,EEUU,24,F,Caral,Ica,2025-01-18,2,4524,Auto
+V0241,Ecuador,58,M,Caral,Cusco,2025-06-07,7,1329,Auto
+V0242,Ecuador,36,F,Lago Titicaca,Cajamarca,2025-03-21,5,372,Bus
+V0243,EEUU,35,F,Cajamarca,Puno,2025-06-23,6,874,Bus
+V0244,Ecuador,19,M,Machu Picchu,Lima,2025-01-02,9,413,Bus
+V0245,EEUU,37,F,Machu Picchu,Cajamarca,2025-10-25,6,385,
+V0246,Francia,32,F,Lago Titicaca,La Libertad,2025-02-10,7,2572,
+V0247,Perú,52,F,Lago Titicaca,Puno,2025-10-26,8,3896,Tren
+V0248,Francia,38,F,Líneas de Nazca,Puno,2025-01-25,7,1293,Tren
+V0249,España,40,M,Machu Picchu,Puno,2025-11-20,1,818,Avión
+V0250,Colombia,66,F,Caral,Cusco,2025-12-10,5,1796,Bus
+V0251,Francia,51,F,Amazonas,La Libertad,2025-04-05,7,2722,Auto
+V0252,España,37,F,Líneas de Nazca,Lima,2025-04-22,4,3852,Avión
+V0253,Francia,62,M,Cajamarca,Puno,2025-08-05,10,1013,Bus
+V0254,Chile,67,F,Amazonas,Cajamarca,2025-10-11,2,754,
+V0255,EEUU,32,M,Líneas de Nazca,Cajamarca,2025-11-21,10,1003,Auto
+V0256,Brasil,29,M,Machu Picchu,La Libertad,2025-07-20,4,4832,
+V0257,Francia,49,M,Amazonas,La Libertad,2025-12-23,6,4376,
+V0258,España,43,F,Amazonas,Puno,2025-07-14,8,4380,Avión
+V0259,Francia,34,F,Lago Titicaca,Ica,2025-03-14,9,4668,Auto
+V0260,Francia,65,M,Machu Picchu,Cusco,2025-07-24,1,1453,Auto
+V0261,EEUU,64,F,Cajamarca,Cajamarca,2025-05-20,2,4692,
+V0262,Colombia,70,M,,Cusco,2025-08-24,3,3145,
+V0263,Brasil,22,F,Líneas de Nazca,La Libertad,2025-06-11,3,3313,Avión
+V0264,Colombia,28,F,Lago Titicaca,Cusco,2025-10-27,2,3960,Bus
+V0265,Colombia,38,F,Líneas de Nazca,Puno,2025-04-08,2,2619,Bus
+V0266,Argentina,61,M,Lago Titicaca,Loreto,2025-12-01,1,1290,
+V0267,Brasil,39,F,Lago Titicaca,Puno,2025-01-14,7,427,
+V0268,Chile,68,M,Machu Picchu,Cajamarca,2025-07-12,2,4441,Bus
+V0269,EEUU,38,M,Líneas de Nazca,Cusco,2025-02-28,6,1913,Auto
+V0270,España,29,F,Líneas de Nazca,Puno,2025-07-09,4,2339,Tren
+V0271,Perú,30,M,Líneas de Nazca,Puno,2025-11-05,5,3667,Tren
+V0272,Argentina,70,F,Cajamarca,La Libertad,2025-08-23,9,2707,Avión
+V0273,Perú,47,F,Cajamarca,Puno,2025-09-24,1,3104,Tren
+V0274,EEUU,44,M,Amazonas,Lima,2025-10-14,10,1085,Bus
+V0275,Argentina,23,M,Amazonas,Lima,2025-11-08,1,2687,Auto
+V0276,Chile,20,M,Amazonas,Ica,2025-11-19,9,541,Tren
+V0277,Chile,28,F,Amazonas,Lima,2025-02-23,4,1872,
+V0278,Francia,19,F,Caral,Cusco,2025-11-11,5,2610,Tren
+V0279,Brasil,28,M,Chan Chan,Cajamarca,2025-10-05,3,810,
+V0280,Francia,54,M,Chan Chan,Lima,2025-06-26,10,4168,Tren
+V0281,España,29,F,Caral,Lima,2025-02-10,10,4378,
+V0282,EEUU,51,F,Machu Picchu,Cusco,2025-04-08,5,396,Avión
+V0283,Brasil,48,F,Chan Chan,La Libertad,2025-07-03,8,4086,Auto
+V0284,Perú,65,F,Caral,Cusco,2025-10-06,7,4250,Auto
+V0285,Chile,22,F,Cajamarca,Loreto,2025-05-16,4,4328,Avión
+V0286,Francia,43,F,Cajamarca,Puno,2025-07-14,2,364,Avión
+V0287,Ecuador,25,M,Machu Picchu,Loreto,2025-01-28,6,3215,Bus
+V0288,Brasil,62,M,Lago Titicaca,La Libertad,2025-01-08,6,1158,
+V0289,Colombia,46,F,Cajamarca,Lima,2025-04-19,3,1119,Avión
+V0290,Perú,44,M,Lago Titicaca,Cajamarca,2025-08-13,7,2077,Bus
+V0291,España,45,F,Chan Chan,Cusco,2025-08-02,5,2578,Bus
+V0292,EEUU,67,M,Machu Picchu,Cusco,2025-11-11,7,4727,
+V0293,EEUU,39,M,Cajamarca,Cajamarca,2025-03-27,9,3465,Bus
+V0294,Chile,26,F,Chan Chan,Cusco,2025-09-11,7,2366,Bus
+V0295,Colombia,51,M,Chan Chan,Loreto,2025-10-14,8,2961,Bus
+V0296,Perú,68,F,Chan Chan,Ica,2025-11-12,9,4594,
+V0297,Colombia,68,F,Chan Chan,Cusco,2025-04-16,9,935,
+V0298,Colombia,64,M,Lago Titicaca,Lima,2025-08-26,1,2283,Auto
+V0299,Perú,46,F,Chan Chan,Puno,2025-01-21,5,455,Avión
+V0300,Colombia,51,F,Chan Chan,Loreto,2025-11-15,8,1617,
+V0301,Chile,38,F,Chan Chan,Cajamarca,2025-10-14,10,2993,Tren
+V0302,España,41,M,Cajamarca,Ica,2025-04-09,4,2710,Tren
+V0303,Francia,49,M,Amazonas,Lima,2025-10-28,6,2631,Bus
+V0304,Chile,30,F,Líneas de Nazca,Puno,2025-09-07,1,1462,Bus
+V0305,Francia,70,F,Caral,Puno,2025-11-04,6,4905,Avión
+V0306,EEUU,57,F,Amazonas,Loreto,2025-09-04,2,4340,Avión
+V0307,Ecuador,34,M,Chan Chan,La Libertad,2025-12-19,9,4144,Tren
+V0308,Chile,49,F,Machu Picchu,Loreto,2025-04-02,7,1178,Bus
+V0309,Brasil,18,F,Cajamarca,Lima,2025-10-16,9,4120,Tren
+V0310,Colombia,53,F,Líneas de Nazca,Puno,2025-05-16,7,466,Tren
+V0311,Brasil,49,F,Lago Titicaca,Cusco,2025-03-13,6,2903,Tren
+V0312,Argentina,52,F,Líneas de Nazca,Loreto,2025-08-21,4,4249,Auto
+V0313,Chile,43,M,Caral,Ica,2025-02-27,8,1367,Bus
+V0314,Colombia,59,M,Lago Titicaca,Cajamarca,2025-09-22,2,3443,Auto
+V0315,Perú,42,F,Caral,Ica,2025-02-19,4,1004,
+V0316,Colombia,48,M,Lago Titicaca,Cajamarca,2025-05-21,10,419,Auto
+V0317,Argentina,57,F,Caral,Cusco,2025-07-07,8,2101,
+V0318,EEUU,56,F,Machu Picchu,Cajamarca,2025-01-12,9,837,Avión
+V0319,EEUU,48,F,Líneas de Nazca,Puno,2025-11-07,8,1077,
+V0320,Francia,59,F,Cajamarca,Ica,2025-05-08,1,3019,
+V0321,España,31,M,Chan Chan,Puno,2025-09-05,10,3483,Bus
+V0322,Ecuador,34,F,Caral,Cajamarca,2025-01-06,6,1886,Avión
+V0323,EEUU,38,F,Lago Titicaca,Puno,2025-02-27,1,3175,Bus
+V0324,Perú,31,F,Cajamarca,Cusco,2025-07-05,1,493,Avión
+V0325,Perú,37,F,Caral,La Libertad,2025-03-26,8,3183,
+V0326,España,18,F,Machu Picchu,Cajamarca,2025-04-27,2,3629,Tren
+V0327,EEUU,45,M,Machu Picchu,Lima,2025-12-16,1,3470,Tren
+V0328,Francia,33,F,Amazonas,La Libertad,2025-09-12,7,1547,Tren
+V0329,Francia,25,M,Cajamarca,La Libertad,2025-06-10,5,2273,Tren
+V0330,Perú,23,F,Cajamarca,Ica,2025-04-14,3,1315,
+V0331,España,58,F,Amazonas,Ica,2025-10-02,10,2423,Tren
+V0332,Argentina,50,M,Amazonas,La Libertad,2025-07-17,9,4342,Avión
+V0333,EEUU,45,M,Cajamarca,Lima,2025-09-18,7,434,
+V0334,Ecuador,24,F,Líneas de Nazca,Cusco,2025-11-21,4,2396,Tren
+V0335,Argentina,52,F,Cajamarca,Loreto,2025-10-10,5,544,Tren
+V0336,Ecuador,65,F,Caral,Loreto,2025-08-04,5,4658,Tren
+V0337,España,66,F,Cajamarca,La Libertad,2025-04-16,8,4343,
+V0338,Ecuador,31,M,Líneas de Nazca,Puno,2025-06-27,8,2360,Avión
+V0339,Colombia,57,M,Machu Picchu,Loreto,2025-02-17,9,3147,
+V0340,Brasil,49,F,Amazonas,Cusco,2025-02-10,1,1478,Bus
+V0341,EEUU,62,M,Chan Chan,Cajamarca,2025-09-22,2,1213,Auto
+V0342,Brasil,33,F,Chan Chan,Cajamarca,2025-07-07,7,3316,Avión
+V0343,Ecuador,62,M,Líneas de Nazca,La Libertad,2025-09-08,8,4539,Bus
+V0344,Colombia,68,F,Líneas de Nazca,Cajamarca,2025-02-04,2,4068,Avión
+V0345,Brasil,47,M,Líneas de Nazca,Loreto,2025-02-22,10,1645,Tren
+V0346,Argentina,50,F,Líneas de Nazca,Lima,2025-02-10,4,1053,Bus
+V0347,Francia,21,F,Amazonas,Cajamarca,2025-05-24,5,2016,Tren
+V0348,España,18,M,Cajamarca,Cusco,2025-11-01,2,3339,Bus
+V0349,Colombia,68,F,Chan Chan,Lima,2025-10-23,4,3892,Avión
+V0350,España,32,F,Amazonas,Lima,2025-03-02,8,3764,Auto
+V0351,Francia,56,M,Cajamarca,Cajamarca,2025-05-08,2,3896,Tren
+V0352,Ecuador,62,F,Cajamarca,Cusco,2025-07-04,3,1213,
+V0353,Colombia,24,F,Líneas de Nazca,La Libertad,2025-04-15,3,698,Tren
+V0354,Ecuador,46,F,Chan Chan,Cajamarca,2025-08-09,2,493,Auto
+V0355,EEUU,44,M,Cajamarca,Ica,2025-03-19,5,2532,Tren
+V0356,Ecuador,25,M,Amazonas,Ica,2025-06-24,9,3783,Bus
+V0357,Chile,35,M,Amazonas,Cusco,2025-05-25,3,4074,
+V0358,España,18,F,Chan Chan,Ica,2025-03-19,5,3713,Tren
+V0359,Ecuador,29,F,Amazonas,Puno,2025-07-20,7,3405,Auto
+V0360,España,52,F,Chan Chan,Loreto,2025-05-14,6,1936,Tren
+V0361,Francia,38,M,Chan Chan,Puno,2025-09-04,3,3616,Tren
+V0362,Colombia,67,F,Líneas de Nazca,Cusco,2025-02-04,3,4091,
+V0363,España,67,M,Lago Titicaca,La Libertad,2025-08-17,7,3331,Tren
+V0364,EEUU,57,F,Machu Picchu,Lima,2025-10-26,5,4009,Bus
+V0365,Francia,29,M,Amazonas,La Libertad,2025-03-15,2,2986,Auto
+V0366,España,23,F,,Cajamarca,2025-11-23,3,4214,
+V0367,EEUU,27,M,Machu Picchu,Ica,2025-01-20,3,3069,Avión
+V0368,Ecuador,25,M,Amazonas,Loreto,2025-09-05,6,465,
+V0369,Ecuador,65,F,Caral,Lima,2025-08-08,2,3847,Auto
+V0370,Colombia,23,M,Líneas de Nazca,Cusco,2025-03-24,1,4524,Avión
+V0371,Chile,40,F,Chan Chan,Loreto,2025-02-12,3,2107,
+V0372,España,64,F,Líneas de Nazca,Cajamarca,2025-11-08,5,4376,Avión
+V0373,Ecuador,45,F,Caral,Lima,2025-11-07,1,3369,
+V0374,Colombia,44,F,Cajamarca,Loreto,2025-06-02,7,3787,Bus
+V0375,España,59,M,Caral,Cajamarca,2025-04-14,9,2359,Auto
+V0376,Francia,39,M,Líneas de Nazca,La Libertad,2025-06-12,3,933,Avión
+V0377,Colombia,62,F,Lago Titicaca,La Libertad,2025-04-09,9,2961,
+V0378,Ecuador,48,F,Machu Picchu,Ica,2025-01-05,6,3199,
+V0379,Ecuador,32,F,,Ica,2025-06-22,2,4683,
+V0380,Colombia,70,M,Machu Picchu,Ica,2025-10-28,3,3472,Tren
+V0381,Colombia,28,M,Líneas de Nazca,Lima,2025-06-05,7,2581,Avión
+V0382,Chile,59,F,Líneas de Nazca,Cusco,2025-12-02,6,3442,Avión
+V0383,Colombia,23,M,Líneas de Nazca,La Libertad,2025-08-11,8,1906,
+V0384,Chile,26,M,Amazonas,Puno,2025-01-12,10,2677,Tren
+V0385,Ecuador,52,M,Lago Titicaca,Loreto,2025-01-24,5,3596,Auto
+V0386,Ecuador,52,M,Machu Picchu,Cusco,2025-12-18,9,4523,Auto
+V0387,Francia,32,F,Caral,La Libertad,2025-06-19,4,1762,Tren
+V0388,Colombia,25,M,,Puno,2025-05-02,4,1531,
+V0389,EEUU,32,M,Caral,La Libertad,2025-11-11,2,1430,Tren
+V0390,Ecuador,27,F,Chan Chan,Ica,2025-08-15,3,4072,Avión
+V0391,EEUU,22,M,Machu Picchu,La Libertad,2025-02-17,7,2301,Auto
+V0392,Brasil,46,F,Lago Titicaca,Puno,2025-12-15,10,3180,Auto
+V0393,Argentina,25,F,,La Libertad,2025-05-27,4,3831,Bus
+V0394,Francia,66,M,Machu Picchu,Ica,2025-08-07,8,348,Auto
+V0395,Colombia,38,M,Lago Titicaca,Loreto,2025-04-15,5,3448,Bus
+V0396,España,39,M,Chan Chan,Lima,2025-06-17,5,412,Tren
+V0397,Ecuador,68,M,Chan Chan,La Libertad,2025-09-24,8,4065,Auto
+V0398,Colombia,60,F,Lago Titicaca,Ica,2025-05-11,10,607,Auto
+V0399,Ecuador,58,M,Cajamarca,Loreto,2025-02-28,1,1815,Auto
+V0400,Perú,34,F,Líneas de Nazca,Cajamarca,2025-02-19,1,4573,Avión
+V0401,EEUU,25,M,Cajamarca,Lima,2025-01-21,10,4154,
+V0402,Argentina,62,M,Amazonas,Cusco,2025-12-05,8,4361,Bus
+V0403,Francia,50,F,Amazonas,Lima,2025-01-14,7,2178,Auto
+V0404,Argentina,46,M,,Ica,2025-04-03,2,3932,Bus
+V0405,EEUU,30,F,,Cusco,2025-11-14,8,2517,Avión
+V0406,Chile,43,F,Cajamarca,Cajamarca,2025-08-19,9,1283,Bus
+V0407,EEUU,63,M,Amazonas,Lima,2025-03-06,1,3928,Bus
+V0408,Chile,46,F,Caral,Loreto,2025-07-08,10,4944,Bus
+V0409,Argentina,67,F,Machu Picchu,Ica,2025-11-28,2,749,
+V0410,Ecuador,20,M,Caral,Lima,2025-04-17,1,741,Bus
+V0411,Francia,28,F,Amazonas,Lima,2025-06-19,6,936,Avión
+V0412,España,55,F,Chan Chan,Lima,2025-02-07,9,3995,
+V0413,Ecuador,61,F,Amazonas,Lima,2025-06-10,4,4107,
+V0414,Brasil,63,F,Caral,Ica,2025-04-07,2,496,Auto
+V0415,Chile,26,M,Lago Titicaca,Puno,2025-10-11,2,3263,Bus
+V0416,Perú,23,F,Machu Picchu,Loreto,2025-09-18,1,1759,
+V0417,Colombia,60,M,Lago Titicaca,Ica,2025-03-24,9,418,Tren
+V0418,EEUU,53,F,Amazonas,Ica,2025-11-01,7,3923,
+V0419,Perú,64,F,Caral,Lima,2025-11-01,1,458,Avión
+V0420,EEUU,41,M,Amazonas,La Libertad,2025-01-28,4,1239,
+V0421,Colombia,23,F,Chan Chan,Puno,2025-07-15,6,1787,Bus
+V0422,Ecuador,50,M,Cajamarca,Puno,2025-10-18,1,2714,Bus
+V0423,Colombia,32,F,Lago Titicaca,Ica,2025-12-13,3,971,
+V0424,Colombia,57,F,Líneas de Nazca,Cajamarca,2025-10-21,3,3422,Avión
+V0425,Perú,58,F,Amazonas,Lima,2025-04-12,8,2715,Avión
+V0426,EEUU,32,M,Chan Chan,Cajamarca,2025-04-19,7,2648,Tren
+V0427,Chile,34,F,Líneas de Nazca,La Libertad,2025-03-26,10,3783,Tren
+V0428,Ecuador,52,M,Lago Titicaca,Cajamarca,2025-10-25,3,845,
+V0429,Colombia,59,M,,Cajamarca,2025-05-16,5,4337,Tren
+V0430,Francia,46,F,Machu Picchu,Ica,2025-03-05,4,1330,Tren
+V0431,Francia,63,F,Machu Picchu,La Libertad,2025-02-02,2,1327,
+V0432,Argentina,59,F,Cajamarca,Cusco,2025-10-01,10,3025,
+V0433,Ecuador,65,M,Machu Picchu,Loreto,2025-01-10,9,4404,Bus
+V0434,Perú,58,F,Amazonas,La Libertad,2025-05-12,1,5000,
+V0435,Ecuador,47,F,Machu Picchu,Lima,2025-11-03,7,419,
+V0436,Ecuador,51,M,Caral,Loreto,2025-04-01,9,3805,Tren
+V0437,EEUU,19,M,Líneas de Nazca,Ica,2025-03-24,2,2234,Avión
+V0438,Colombia,22,F,Cajamarca,Cajamarca,2025-04-04,8,2691,Auto
+V0439,Francia,70,F,Caral,Ica,2025-06-11,5,1543,Auto
+V0440,Argentina,22,F,Caral,Loreto,2025-09-15,5,4431,Tren
+V0441,Colombia,26,M,Amazonas,La Libertad,2025-03-07,9,2374,Bus
+V0442,Chile,58,M,Líneas de Nazca,La Libertad,2025-04-19,9,2036,Tren
+V0443,España,18,M,Caral,Puno,2025-03-20,9,1601,
+V0444,Argentina,33,M,Amazonas,Cusco,2025-01-24,7,4782,Auto
+V0445,Brasil,69,M,Chan Chan,Loreto,2025-12-15,5,3031,Bus
+V0446,Brasil,62,F,Lago Titicaca,La Libertad,2025-09-23,7,888,Bus
+V0447,Ecuador,57,M,Amazonas,Cusco,2025-11-02,9,3862,Bus
+V0448,Brasil,18,M,Líneas de Nazca,Loreto,2025-02-03,9,547,Avión
+V0449,Ecuador,50,F,Cajamarca,Lima,2025-03-03,3,393,Avión
+V0450,Brasil,18,M,Líneas de Nazca,Cajamarca,2025-01-03,10,3332,Tren
+V0451,Argentina,18,F,Líneas de Nazca,Cajamarca,2025-10-01,4,2970,Avión
+V0452,Colombia,49,M,Chan Chan,Cajamarca,2025-10-08,6,3672,Tren
+V0453,Ecuador,22,F,Amazonas,Lima,2025-08-19,1,3575,Tren
+V0454,Colombia,64,F,Cajamarca,Cajamarca,2025-11-21,2,3517,Tren
+V0455,Ecuador,57,F,,La Libertad,2025-08-21,6,2387,Tren
+V0456,Brasil,25,M,Machu Picchu,Loreto,2025-01-10,5,1251,Tren
+V0457,Colombia,40,F,Lago Titicaca,La Libertad,2025-05-07,4,2108,Avión
+V0458,Francia,34,M,Lago Titicaca,Puno,2025-12-26,2,2281,Tren
+V0459,Colombia,29,F,Chan Chan,Puno,2025-11-07,10,1257,
+V0460,España,23,M,Cajamarca,Puno,2025-01-05,6,2927,Tren
+V0461,Ecuador,57,M,Cajamarca,Lima,2025-02-14,2,408,
+V0462,Colombia,24,M,Chan Chan,Loreto,2025-07-01,4,4324,Bus
+V0463,Brasil,38,M,Amazonas,Cajamarca,2025-04-23,4,4501,Avión
+V0464,EEUU,50,M,Caral,La Libertad,2025-07-28,4,1603,Bus
+V0465,EEUU,43,M,Cajamarca,Cusco,2025-02-19,1,4144,
+V0466,Perú,68,F,Machu Picchu,La Libertad,2025-10-13,4,4713,Auto
+V0467,EEUU,31,M,Cajamarca,Lima,2025-07-24,2,1140,Tren
+V0468,EEUU,39,M,Cajamarca,Loreto,2025-03-18,3,4395,
+V0469,Francia,44,M,Cajamarca,Puno,2025-09-16,1,2085,Avión
+V0470,Chile,48,F,Lago Titicaca,Cusco,2025-12-08,3,2526,Tren
+V0471,Perú,61,M,Caral,Loreto,2025-01-07,3,4425,
+V0472,Chile,44,F,Machu Picchu,Cajamarca,2025-02-19,8,2844,Auto
+V0473,Perú,67,F,Amazonas,La Libertad,2025-07-18,5,4876,Auto
+V0474,España,47,M,Machu Picchu,Puno,2025-06-23,8,4745,Tren
+V0475,Colombia,35,M,Lago Titicaca,Cusco,2025-01-15,1,1326,Avión
+V0476,Chile,64,F,Chan Chan,Cajamarca,2025-04-21,6,3181,Tren
+V0477,Brasil,41,F,Caral,Ica,2025-06-10,10,1832,Tren
+V0478,Colombia,62,M,Machu Picchu,Puno,2025-08-13,1,2605,
+V0479,Ecuador,31,F,Cajamarca,Ica,2025-10-27,5,483,Avión
+V0480,Chile,55,M,Líneas de Nazca,Cajamarca,2025-09-19,5,4946,Tren
+V0481,Brasil,63,F,Amazonas,Puno,2025-06-18,9,419,Tren
+V0482,Chile,58,M,Amazonas,Lima,2025-03-19,5,4912,Auto
+V0483,Chile,36,F,Líneas de Nazca,Lima,2025-10-13,7,3268,
+V0484,Chile,32,M,Lago Titicaca,Loreto,2025-11-10,6,4676,
+V0485,Brasil,54,M,Caral,Ica,2025-07-11,6,3253,Tren
+V0486,Ecuador,31,F,Chan Chan,Cusco,2025-01-05,4,3881,Avión
+V0487,Ecuador,52,F,Caral,Lima,2025-04-08,5,3684,
+V0488,Ecuador,56,F,Líneas de Nazca,Cusco,2025-06-05,6,4957,
+V0489,EEUU,46,F,Caral,Puno,2025-02-07,5,2247,Bus
+V0490,Francia,46,F,Líneas de Nazca,La Libertad,2025-02-09,10,3345,Avión
+V0491,España,47,M,Caral,Lima,2025-02-25,4,4575,Tren
+V0492,Brasil,50,M,Machu Picchu,Ica,2025-11-04,9,1997,
+V0493,España,26,M,Caral,Puno,2025-07-25,9,1089,
+V0494,Ecuador,70,M,Amazonas,Loreto,2025-08-19,3,4750,Auto
+V0495,Ecuador,65,M,,Puno,2025-06-04,2,842,Auto
+V0496,España,59,M,Machu Picchu,Puno,2025-04-21,1,532,Tren
+V0497,Argentina,47,F,Líneas de Nazca,Cajamarca,2025-05-22,6,2822,Bus
+V0498,Ecuador,50,F,Lago Titicaca,Cajamarca,2025-11-16,7,2418,Auto
+V0499,Ecuador,35,F,Chan Chan,Cusco,2025-12-28,4,1353,Tren
+V0500,Brasil,25,F,Cajamarca,Ica,2025-01-17,6,3891,Tren
+V0501,Perú,20,F,Cajamarca,Ica,2025-04-17,8,334,Auto
+V0502,Chile,69,F,Cajamarca,Ica,2025-12-08,5,2544,
+V0503,Ecuador,30,F,Amazonas,Lima,2025-05-03,2,4477,
+V0504,Brasil,56,M,Amazonas,La Libertad,2025-10-02,1,4976,Auto
+V0505,Brasil,58,M,Amazonas,Lima,2025-12-08,5,1794,Bus
+V0506,EEUU,22,F,Caral,Loreto,2025-11-08,1,3999,Avión
+V0507,Perú,23,F,Cajamarca,Lima,2025-07-02,5,1820,Auto
+V0508,España,38,F,Machu Picchu,Cusco,2025-01-05,7,4199,Bus
+V0509,Ecuador,51,F,Amazonas,La Libertad,2025-02-20,1,2660,Tren
+V0510,Brasil,20,M,Caral,Loreto,2025-06-18,9,3542,Auto
+V0511,Argentina,64,M,Líneas de Nazca,La Libertad,2025-04-25,7,3678,Auto
+V0512,Francia,21,M,Cajamarca,Ica,2025-12-06,7,811,Tren
+V0513,EEUU,59,F,Lago Titicaca,Lima,2025-08-11,2,4257,Avión
+V0514,Ecuador,67,F,Chan Chan,Cajamarca,2025-08-05,9,3092,
+V0515,Argentina,59,F,Machu Picchu,Ica,2025-07-13,2,4177,Avión
+V0516,Colombia,21,F,Líneas de Nazca,Puno,2025-05-12,8,3711,Auto
+V0517,Chile,62,F,Chan Chan,Cusco,2025-08-21,6,2637,Avión
+V0518,Colombia,52,M,Amazonas,La Libertad,2025-12-03,10,4214,Auto
+V0519,Brasil,59,M,Chan Chan,La Libertad,2025-02-02,6,468,Tren
+V0520,Argentina,27,F,Machu Picchu,Loreto,2025-03-10,1,2854,Tren
+V0521,Argentina,45,M,,Loreto,2025-11-16,4,330,Auto
+V0522,España,33,M,Líneas de Nazca,Ica,2025-12-16,3,1046,Tren
+V0523,Brasil,30,F,Amazonas,Ica,2025-06-25,1,1629,Avión
+V0524,Argentina,41,M,Machu Picchu,Puno,2025-06-13,4,4399,Bus
+V0525,Colombia,41,M,Lago Titicaca,Ica,2025-10-06,5,1947,Bus
+V0526,Brasil,39,M,Chan Chan,La Libertad,2025-01-22,7,2182,Bus
+V0527,Francia,32,F,Amazonas,Puno,2025-02-13,9,518,Avión
+V0528,Ecuador,36,M,Cajamarca,La Libertad,2025-05-23,3,568,Auto
+V0529,Chile,62,M,Líneas de Nazca,Loreto,2025-10-22,1,1904,Bus
+V0530,Chile,50,F,Líneas de Nazca,La Libertad,2025-07-20,9,1806,Avión
+V0531,Colombia,52,F,Líneas de Nazca,La Libertad,2025-07-03,2,3836,Auto
+V0532,Colombia,44,M,Líneas de Nazca,Ica,2025-10-07,10,1943,
+V0533,Argentina,30,M,Chan Chan,Ica,2025-03-04,7,2341,Tren
+V0534,Chile,42,F,Lago Titicaca,Ica,2025-06-20,7,1795,Bus
+V0535,EEUU,51,M,Lago Titicaca,Loreto,2025-02-23,1,3429,
+V0536,Francia,60,F,Amazonas,Cajamarca,2025-08-10,9,3809,Bus
+V0537,Brasil,62,M,,Ica,2025-04-22,3,1359,Tren
+V0538,Ecuador,31,F,Cajamarca,Loreto,2025-10-15,3,4124,
+V0539,Colombia,46,M,Cajamarca,Lima,2025-12-24,6,701,Bus
+V0540,Brasil,20,F,Lago Titicaca,La Libertad,2025-04-09,9,3619,Bus
+V0541,EEUU,67,M,Machu Picchu,Loreto,2025-04-18,9,1986,
+V0542,España,63,M,Machu Picchu,Lima,2025-09-13,6,3671,Bus
+V0543,Chile,49,F,Machu Picchu,Ica,2025-01-21,1,1691,Auto
+V0544,Ecuador,53,M,Amazonas,La Libertad,2025-02-09,1,4922,
+V0545,Argentina,51,F,Cajamarca,Lima,2025-01-11,8,1979,Auto
+V0546,EEUU,35,M,Amazonas,Cusco,2025-03-12,6,1730,Tren
+V0547,Brasil,54,M,Líneas de Nazca,Cajamarca,2025-01-24,8,794,Auto
+V0548,EEUU,62,F,Cajamarca,Cajamarca,2025-05-16,4,2741,
+V0549,Colombia,28,F,Caral,Cajamarca,2025-09-15,5,1916,
+V0550,Ecuador,70,M,Cajamarca,Cajamarca,2025-06-02,3,3640,Avión
+V0551,Ecuador,57,M,Lago Titicaca,Loreto,2025-11-12,5,4500,Bus
+V0552,EEUU,54,M,Caral,Cajamarca,2025-01-06,7,4197,Bus
+V0553,Colombia,28,F,Caral,Loreto,2025-01-05,10,1928,Tren
+V0554,Perú,47,M,Chan Chan,Puno,2025-04-04,1,368,Avión
+V0555,Ecuador,46,F,,Ica,2025-05-03,9,3512,Bus
+V0556,Brasil,37,M,Líneas de Nazca,Cusco,2025-07-14,10,4902,Auto
+V0557,Colombia,64,M,Líneas de Nazca,Puno,2025-12-28,7,2003,Bus
+V0558,Francia,25,F,Caral,Cajamarca,2025-11-13,1,541,
+V0559,Argentina,35,M,Cajamarca,La Libertad,2025-01-10,7,3090,
+V0560,Francia,35,F,Machu Picchu,La Libertad,2025-02-02,5,3978,
+V0561,Brasil,32,F,Cajamarca,Loreto,2025-06-19,1,3153,
+V0562,Colombia,64,F,Cajamarca,La Libertad,2025-05-01,10,4848,
+V0563,Brasil,38,F,Amazonas,Ica,2025-06-01,6,2311,Avión
+V0564,Chile,63,M,Chan Chan,La Libertad,2025-03-08,4,1742,Avión
+V0565,Colombia,44,F,Cajamarca,Ica,2025-09-23,6,3877,Avión
+V0566,Francia,42,M,Chan Chan,Lima,2025-04-11,3,1650,Bus
+V0567,EEUU,22,F,Chan Chan,Lima,2025-10-27,10,4354,Auto
+V0568,Colombia,31,F,Machu Picchu,Cajamarca,2025-06-18,9,729,Tren
+V0569,EEUU,32,M,Amazonas,Cajamarca,2025-05-15,6,1918,Bus
+V0570,Brasil,68,F,Cajamarca,Cajamarca,2025-07-20,9,412,Tren
+V0571,Colombia,29,M,Chan Chan,Loreto,2025-02-14,6,3684,
+V0572,EEUU,47,F,Cajamarca,Puno,2025-02-04,6,2241,Avión
+V0573,Ecuador,21,F,Cajamarca,Lima,2025-01-09,8,1585,Bus
+V0574,Ecuador,69,M,Cajamarca,Lima,2025-08-03,8,3856,
+V0575,Colombia,41,M,Caral,Ica,2025-11-15,8,4815,Bus
+V0576,Francia,29,M,Chan Chan,Ica,2025-04-03,8,2392,Tren
+V0577,España,33,M,Chan Chan,Cajamarca,2025-10-23,9,725,Bus
+V0578,Brasil,57,M,Caral,Puno,2025-04-14,5,2767,Auto
+V0579,Brasil,52,M,Cajamarca,Cusco,2025-11-23,8,4469,
+V0580,EEUU,43,F,Caral,Puno,2025-08-17,9,2145,Tren
+V0581,Perú,69,M,Amazonas,Lima,2025-08-28,6,611,
+V0582,Argentina,61,F,Caral,Puno,2025-07-22,5,1671,Tren
+V0583,Brasil,28,M,Lago Titicaca,La Libertad,2025-01-26,4,2713,Tren
+V0584,Chile,48,M,Chan Chan,La Libertad,2025-08-23,2,1406,Auto
+V0585,Ecuador,70,F,Machu Picchu,Cusco,2025-07-24,8,2985,
+V0586,Chile,58,M,Machu Picchu,Puno,2025-03-23,3,1546,Auto
+V0587,España,22,M,Lago Titicaca,Loreto,2025-05-15,8,1193,
+V0588,Colombia,35,F,Chan Chan,Loreto,2025-10-06,9,1109,Tren
+V0589,EEUU,67,F,Machu Picchu,Puno,2025-06-16,4,2535,Auto
+V0590,Perú,21,F,Chan Chan,Ica,2025-09-21,2,2124,
+V0591,Francia,37,F,Caral,Ica,2025-01-22,1,3855,Tren
+V0592,EEUU,69,F,Caral,Cusco,2025-01-20,1,1144,Avión
+V0593,Francia,42,F,Lago Titicaca,Lima,2025-09-15,1,4985,Avión
+V0594,Brasil,52,F,Lago Titicaca,La Libertad,2025-12-12,1,1680,Avión
+V0595,Francia,32,F,Caral,Ica,2025-01-14,3,4840,Bus
+V0596,EEUU,54,F,Cajamarca,Loreto,2025-10-18,8,2439,Tren
+V0597,Argentina,36,M,Líneas de Nazca,Puno,2025-05-24,7,4634,Auto
+V0598,EEUU,45,F,Lago Titicaca,Ica,2025-06-20,2,2376,Tren
+V0599,Ecuador,40,M,Chan Chan,Puno,2025-04-14,9,1740,
+V0600,Ecuador,27,M,Caral,Ica,2025-10-21,1,1845,Avión
+V0601,EEUU,20,F,Líneas de Nazca,Puno,2025-09-27,1,3895,
+V0602,Brasil,56,M,Caral,Puno,2025-12-27,8,1271,
+V0603,Perú,37,F,Caral,Puno,2025-06-13,5,2129,Tren
+V0604,Colombia,45,F,Caral,Loreto,2025-07-02,6,4482,Auto
+V0605,Francia,37,M,Amazonas,Cajamarca,2025-06-16,5,4742,Bus
+V0606,Argentina,38,F,Líneas de Nazca,Ica,2025-05-17,10,2483,Avión
+V0607,España,44,M,Lago Titicaca,Ica,2025-02-04,5,3023,
+V0608,España,37,F,Machu Picchu,La Libertad,2025-01-05,6,1048,
+V0609,Francia,45,M,Lago Titicaca,Puno,2025-06-02,2,354,
+V0610,Colombia,51,M,Caral,Cajamarca,2025-10-03,7,4835,Auto
+V0611,Colombia,51,F,,Loreto,2025-04-15,3,2787,Bus
+V0612,España,54,M,Chan Chan,Puno,2025-03-14,7,657,Auto
+V0613,Francia,69,F,Líneas de Nazca,Loreto,2025-10-12,3,3307,Auto
+V0614,Ecuador,47,F,Chan Chan,Cusco,2025-07-22,3,3226,Auto
+V0615,Colombia,62,F,Cajamarca,Cusco,2025-06-28,6,3728,Avión
+V0616,Chile,34,M,Amazonas,Ica,2025-12-13,1,3619,
+V0617,Colombia,57,M,Lago Titicaca,Loreto,2025-05-20,9,326,Bus
+V0618,Ecuador,46,M,Caral,Puno,2025-10-28,4,842,Bus
+V0619,Francia,69,F,Machu Picchu,Ica,2025-02-08,10,1493,
+V0620,Perú,55,F,Lago Titicaca,Loreto,2025-07-23,10,1625,Bus
+V0621,Ecuador,31,F,Cajamarca,Ica,2025-08-24,8,913,
+V0622,Perú,18,F,Lago Titicaca,La Libertad,2025-03-23,2,1744,Tren
+V0623,España,66,M,Cajamarca,Loreto,2025-02-23,9,3391,Bus
+V0624,Francia,60,F,Chan Chan,La Libertad,2025-07-17,9,313,Auto
+V0625,Francia,64,F,Lago Titicaca,Puno,2025-01-03,1,459,Auto
+V0626,Brasil,19,F,Machu Picchu,Loreto,2025-02-08,4,1207,Tren
+V0627,España,65,M,,Ica,2025-05-11,1,4926,Auto
+V0628,España,21,M,Amazonas,Cusco,2025-10-01,3,1274,
+V0629,Chile,41,M,Machu Picchu,Cusco,2025-04-13,7,3860,Auto
+V0630,EEUU,53,F,Chan Chan,Loreto,2025-02-08,1,3273,Auto
+V0631,Colombia,23,F,Machu Picchu,Puno,2025-02-17,8,1584,Auto
+V0632,Ecuador,44,F,Caral,Cajamarca,2025-05-20,4,789,
+V0633,España,70,F,Amazonas,Cajamarca,2025-03-09,3,1359,Auto
+V0634,Colombia,50,F,Líneas de Nazca,Lima,2025-07-19,4,2495,Tren
+V0635,Perú,29,F,Lago Titicaca,Loreto,2025-04-06,10,772,Bus
+V0636,España,38,F,Líneas de Nazca,Loreto,2025-03-09,5,3381,Tren
+V0637,EEUU,24,M,Cajamarca,Cajamarca,2025-04-24,9,3538,
+V0638,Perú,66,F,Líneas de Nazca,Lima,2025-02-23,4,3569,Auto
+V0639,Chile,57,F,Cajamarca,Ica,2025-06-04,4,4733,
+V0640,España,51,M,Lago Titicaca,Cusco,2025-07-14,10,2407,
+V0641,Ecuador,39,F,Cajamarca,Puno,2025-05-27,2,4101,
+V0642,Argentina,43,M,Machu Picchu,Cajamarca,2025-02-27,6,4344,Auto
+V0643,Argentina,70,M,Machu Picchu,Cusco,2025-07-07,9,1648,Tren
+V0644,Colombia,44,F,Lago Titicaca,Lima,2025-06-19,6,4852,Bus
+V0645,Argentina,64,M,Chan Chan,Puno,2025-09-06,6,4815,Tren
+V0646,EEUU,46,F,Amazonas,Ica,2025-01-13,8,3378,Auto
+V0647,Brasil,34,F,Machu Picchu,Cajamarca,2025-07-22,5,3763,Bus
+V0648,España,51,M,Líneas de Nazca,Cusco,2025-10-03,4,1154,Auto
+V0649,EEUU,62,M,Caral,Cusco,2025-05-21,3,3935,
+V0650,Brasil,53,F,Líneas de Nazca,Lima,2025-11-14,3,1980,Bus
+V0651,Ecuador,37,F,Amazonas,Puno,2025-09-27,3,3128,Bus
+V0652,EEUU,32,M,Chan Chan,Cajamarca,2025-12-11,9,3883,Auto
+V0653,EEUU,46,M,Amazonas,Cusco,2025-09-20,6,4218,Bus
+V0654,EEUU,48,F,Machu Picchu,Cusco,2025-07-01,6,1708,Auto
+V0655,EEUU,50,M,Lago Titicaca,Lima,2025-03-04,6,2133,Avión
+V0656,Chile,47,F,Lago Titicaca,Puno,2025-05-01,9,1678,
+V0657,Ecuador,48,M,Cajamarca,Puno,2025-08-24,1,1521,Auto
+V0658,EEUU,34,F,Líneas de Nazca,Cajamarca,2025-06-14,6,4860,Bus
+V0659,Colombia,32,M,Amazonas,Puno,2025-08-11,5,1882,
+V0660,Francia,43,M,Amazonas,Cusco,2025-01-14,10,3720,Bus
+V0661,Francia,60,F,Machu Picchu,Cajamarca,2025-10-16,4,1682,Bus
+V0662,Francia,40,M,Amazonas,Cajamarca,2025-11-19,7,4613,Bus
+V0663,Argentina,35,F,Lago Titicaca,Lima,2025-06-26,9,3118,Auto
+V0664,Chile,51,M,Líneas de Nazca,La Libertad,2025-06-15,7,3277,Auto
+V0665,Argentina,61,M,Caral,Cajamarca,2025-09-25,7,2232,
+V0666,Francia,63,F,Líneas de Nazca,Puno,2025-11-27,6,1008,Tren
+V0667,EEUU,66,M,Machu Picchu,Cajamarca,2025-08-25,2,580,Avión
+V0668,Brasil,51,F,Líneas de Nazca,Cajamarca,2025-10-01,9,2091,
+V0669,España,66,F,Líneas de Nazca,Ica,2025-11-27,8,3544,Avión
+V0670,EEUU,47,M,Amazonas,Cusco,2025-01-21,10,839,
+V0671,Colombia,37,F,Líneas de Nazca,Loreto,2025-06-12,5,2106,
+V0672,Ecuador,26,F,Amazonas,La Libertad,2025-07-23,7,3345,
+V0673,Argentina,67,F,Caral,Ica,2025-02-03,7,1291,Tren
+V0674,Brasil,48,M,Caral,Loreto,2025-10-24,7,2256,
+V0675,Argentina,37,F,Líneas de Nazca,Loreto,2025-09-10,9,520,Tren
+V0676,Colombia,46,M,Cajamarca,Loreto,2025-11-25,8,1323,Auto
+V0677,Chile,47,M,Caral,Cajamarca,2025-06-07,4,4800,Avión
+V0678,Perú,21,M,Lago Titicaca,Cusco,2025-05-21,2,3254,Avión
+V0679,Perú,45,M,Caral,La Libertad,2025-08-27,9,3645,Auto
+V0680,Colombia,62,F,Amazonas,Ica,2025-05-28,6,4079,
+V0681,EEUU,22,F,Amazonas,Cusco,2025-08-04,1,4473,Auto
+V0682,EEUU,35,M,Lago Titicaca,Puno,2025-05-14,6,3210,Avión
+V0683,EEUU,62,M,Machu Picchu,Lima,2025-10-27,6,932,Auto
+V0684,Brasil,35,F,Chan Chan,Cusco,2025-05-23,1,2007,Tren
+V0685,Colombia,22,M,Machu Picchu,Ica,2025-08-12,8,372,Bus
+V0686,Ecuador,34,F,Chan Chan,Lima,2025-02-01,4,3230,Bus
+V0687,Perú,40,M,Amazonas,Puno,2025-11-18,9,356,Avión
+V0688,Brasil,21,F,Amazonas,Puno,2025-09-09,7,469,
+V0689,EEUU,20,F,Lago Titicaca,Ica,2025-01-19,9,1905,Tren
+V0690,EEUU,60,M,,Cajamarca,2025-09-02,9,772,Tren
+V0691,España,22,F,Machu Picchu,Lima,2025-09-23,8,2647,Auto
+V0692,España,28,M,,Ica,2025-07-28,9,2252,Bus
+V0693,Colombia,61,F,Líneas de Nazca,Cajamarca,2025-01-11,2,4604,Avión
+V0694,España,64,M,Chan Chan,Ica,2025-01-17,5,4494,Tren
+V0695,EEUU,39,F,Caral,La Libertad,2025-10-05,9,1989,
+V0696,Argentina,28,M,Chan Chan,Cajamarca,2025-05-16,4,633,Avión
+V0697,Perú,31,M,Amazonas,Cajamarca,2025-07-28,1,1543,Auto
+V0698,EEUU,33,M,Lago Titicaca,Puno,2025-01-08,10,968,Bus
+V0699,Ecuador,62,F,Amazonas,Puno,2025-12-08,2,2419,
+V0700,Brasil,56,M,,Cajamarca,2025-09-28,4,4426,Avión
+V0701,Argentina,40,M,Chan Chan,Cusco,2025-06-20,8,3313,Bus
+V0702,Colombia,53,M,Machu Picchu,La Libertad,2025-08-08,6,4251,Bus
+V0703,Brasil,34,F,Líneas de Nazca,Cusco,2025-05-23,2,2935,Tren
+V0704,Argentina,50,F,Amazonas,Cusco,2025-06-18,6,1712,
+V0705,Francia,22,F,Amazonas,Ica,2025-01-15,1,3049,Auto
+V0706,Perú,19,F,Chan Chan,Ica,2025-04-27,10,2006,Avión
+V0707,Argentina,19,M,Chan Chan,Cajamarca,2025-11-25,4,4982,
+V0708,Brasil,60,F,,La Libertad,2025-10-13,2,3104,Avión
+V0709,Colombia,43,M,Líneas de Nazca,Cusco,2025-02-01,2,4923,
+V0710,Perú,52,F,Amazonas,Puno,2025-10-19,3,309,Avión
+V0711,Brasil,25,F,Amazonas,Ica,2025-02-23,9,4226,Auto
+V0712,Perú,69,M,Líneas de Nazca,Loreto,2025-04-20,2,3358,Auto
+V0713,Brasil,55,F,Machu Picchu,Ica,2025-12-04,10,1132,Auto
+V0714,Brasil,23,M,Machu Picchu,Lima,2025-04-14,1,1848,Bus
+V0715,Brasil,70,M,Amazonas,La Libertad,2025-11-24,3,1992,Tren
+V0716,Francia,36,M,Líneas de Nazca,Loreto,2025-01-02,6,3962,
+V0717,EEUU,36,F,Amazonas,Puno,2025-03-07,6,490,Auto
+V0718,Perú,34,F,Líneas de Nazca,Loreto,2025-02-20,8,1095,Avión
+V0719,Perú,33,F,Líneas de Nazca,Ica,2025-07-25,3,4289,
+V0720,Brasil,24,F,Cajamarca,Puno,2025-08-22,1,2310,
+V0721,Colombia,68,M,Amazonas,Puno,2025-12-11,2,3854,Tren
+V0722,Perú,40,F,Machu Picchu,Cajamarca,2025-04-28,9,4199,Bus
+V0723,Argentina,67,F,Lago Titicaca,Puno,2025-04-06,8,3772,Tren
+V0724,EEUU,46,F,Chan Chan,Cajamarca,2025-03-11,3,1844,Auto
+V0725,Brasil,19,F,Machu Picchu,Ica,2025-05-15,2,4518,
+V0726,Francia,51,F,Amazonas,Lima,2025-11-22,8,2000,Bus
+V0727,España,59,M,Líneas de Nazca,Loreto,2025-01-21,8,3518,Avión
+V0728,Colombia,46,M,Cajamarca,Cajamarca,2025-11-08,6,365,
+V0729,Perú,70,F,Caral,La Libertad,2025-12-28,3,1953,Tren
+V0730,Perú,68,M,Caral,La Libertad,2025-09-26,3,4016,Avión
+V0731,Francia,63,F,Líneas de Nazca,Lima,2025-04-18,6,933,Auto
+V0732,Chile,33,M,Amazonas,Ica,2025-10-19,5,4028,
+V0733,EEUU,59,M,Cajamarca,Ica,2025-07-02,8,2901,
+V0734,Brasil,33,M,Cajamarca,La Libertad,2025-11-11,2,881,Auto
+V0735,Colombia,19,M,Lago Titicaca,La Libertad,2025-12-17,7,4359,Auto
+V0736,Francia,31,F,Caral,Cusco,2025-11-15,3,305,
+V0737,Francia,62,M,Caral,La Libertad,2025-11-12,5,4581,Auto
+V0738,España,19,F,Machu Picchu,Cajamarca,2025-06-03,10,4710,Tren
+V0739,Perú,28,F,Líneas de Nazca,Loreto,2025-06-08,4,1895,
+V0740,Ecuador,48,F,Chan Chan,Cajamarca,2025-12-04,7,2563,Tren
+V0741,Argentina,32,M,Cajamarca,Cajamarca,2025-10-19,1,2380,
+V0742,Chile,56,M,Lago Titicaca,Cusco,2025-06-18,10,4643,Auto
+V0743,Brasil,59,M,Líneas de Nazca,Cajamarca,2025-12-25,3,2193,Avión
+V0744,Colombia,67,M,Caral,La Libertad,2025-02-09,4,2534,Bus
+V0745,Perú,51,M,Chan Chan,Cusco,2025-08-25,6,967,Bus
+V0746,Brasil,49,M,Líneas de Nazca,Puno,2025-12-15,6,3612,Tren
+V0747,EEUU,52,F,Cajamarca,Lima,2025-03-19,7,486,Auto
+V0748,Brasil,31,F,Amazonas,Loreto,2025-01-28,10,1387,Tren
+V0749,EEUU,46,M,Amazonas,Puno,2025-03-21,5,2877,Bus
+V0750,España,40,F,Machu Picchu,Loreto,2025-03-20,2,1639,Bus
+V0751,EEUU,41,M,Caral,Loreto,2025-08-24,1,3819,Avión
+V0752,Argentina,22,M,Líneas de Nazca,Cusco,2025-08-16,10,4566,Auto
+V0753,España,30,F,Lago Titicaca,Cajamarca,2025-03-19,3,4383,
+V0754,EEUU,62,M,Chan Chan,Loreto,2025-04-09,8,3970,Bus
+V0755,Ecuador,56,M,Lago Titicaca,Puno,2025-06-09,8,4562,
+V0756,Perú,65,M,Lago Titicaca,Puno,2025-07-24,9,462,Avión
+V0757,Ecuador,35,F,Líneas de Nazca,La Libertad,2025-03-10,2,2602,
+V0758,Colombia,52,M,Cajamarca,Loreto,2025-12-04,1,2199,Bus
+V0759,España,70,F,Chan Chan,Puno,2025-08-22,4,1720,Avión
+V0760,Chile,22,M,Líneas de Nazca,Puno,2025-10-23,1,1481,
+V0761,Chile,21,F,Lago Titicaca,Cusco,2025-02-04,8,4857,
+V0762,Brasil,51,F,Amazonas,Ica,2025-02-28,9,702,Tren
+V0763,Perú,62,M,Lago Titicaca,Cajamarca,2025-08-15,2,927,Avión
+V0764,Argentina,59,F,Cajamarca,La Libertad,2025-04-06,2,4855,Avión
+V0765,Colombia,60,F,Líneas de Nazca,Ica,2025-12-21,6,2143,Avión
+V0766,Argentina,20,F,Lago Titicaca,La Libertad,2025-05-26,2,4966,Tren
+V0767,Colombia,23,F,,Ica,2025-10-01,3,2176,Auto
+V0768,Francia,44,F,Lago Titicaca,Loreto,2025-06-25,4,618,Bus
+V0769,Brasil,31,F,Cajamarca,La Libertad,2025-01-12,9,2662,Avión
+V0770,Argentina,45,M,Líneas de Nazca,Puno,2025-09-02,5,1844,Auto
+V0771,Ecuador,48,M,Lago Titicaca,Loreto,2025-12-03,9,2051,Tren
+V0772,Francia,63,M,Machu Picchu,La Libertad,2025-07-24,9,2838,Avión
+V0773,España,24,M,Caral,Ica,2025-07-14,7,3232,Auto
+V0774,Ecuador,65,F,Amazonas,Lima,2025-03-09,2,1129,
+V0775,España,32,M,Líneas de Nazca,Cusco,2025-08-20,5,725,Avión
+V0776,Ecuador,28,M,Caral,Loreto,2025-09-15,1,4845,
+V0777,España,63,F,Cajamarca,Cusco,2025-01-07,3,2093,Tren
+V0778,España,65,F,Líneas de Nazca,Ica,2025-07-22,8,1468,Avión
+V0779,Colombia,56,M,,Cusco,2025-05-16,4,743,Avión
+V0780,Perú,45,M,,Cajamarca,2025-04-01,10,932,Tren
+V0781,Francia,47,F,Amazonas,La Libertad,2025-09-18,2,2487,Avión
+V0782,Colombia,55,F,Líneas de Nazca,La Libertad,2025-03-10,6,2015,Bus
+V0783,Argentina,52,M,Lago Titicaca,Puno,2025-08-24,10,1941,Tren
+V0784,España,24,M,Amazonas,Lima,2025-06-22,1,4270,Tren
+V0785,Chile,58,F,Lago Titicaca,Lima,2025-09-13,4,920,Auto
+V0786,Brasil,50,F,Caral,Loreto,2025-12-05,7,4972,Tren
+V0787,Francia,33,M,Lago Titicaca,Ica,2025-05-15,10,1412,Avión
+V0788,EEUU,23,F,Amazonas,Loreto,2025-08-12,4,4366,Auto
+V0789,Perú,70,F,,Loreto,2025-07-06,2,1810,Bus
+V0790,Perú,42,M,Machu Picchu,Lima,2025-07-26,8,719,Tren
+V0791,Brasil,39,M,Cajamarca,Puno,2025-10-07,2,3285,Auto
+V0792,Argentina,46,F,Amazonas,Ica,2025-08-15,2,4437,Bus
+V0793,Ecuador,18,F,Caral,Puno,2025-10-05,3,4670,Auto
+V0794,Chile,28,M,Cajamarca,La Libertad,2025-05-16,7,3013,Tren
+V0795,Colombia,20,M,Lago Titicaca,Lima,2025-03-19,10,2050,Auto
+V0796,Colombia,67,M,Chan Chan,Loreto,2025-06-23,6,4876,Tren
+V0797,Chile,61,M,Lago Titicaca,Puno,2025-08-25,4,2888,
+V0798,Colombia,46,M,Chan Chan,Ica,2025-09-22,5,2226,Avión
+V0799,Ecuador,32,F,Caral,Cusco,2025-07-28,1,4910,Tren
+V0800,Chile,37,M,Chan Chan,Cusco,2025-08-12,6,4313,
+V0801,Argentina,29,F,Caral,Ica,2025-03-03,2,4880,Tren
+V0802,Francia,55,M,Líneas de Nazca,La Libertad,2025-06-27,10,2072,Tren
+V0803,Colombia,60,M,Chan Chan,Puno,2025-10-01,9,1267,Bus
+V0804,Chile,28,F,Caral,Cusco,2025-06-23,6,4174,Bus
+V0805,Argentina,67,M,Cajamarca,Puno,2025-08-19,10,3341,Auto
+V0806,Ecuador,39,F,Machu Picchu,Cajamarca,2025-09-06,3,4278,Auto
+V0807,Chile,39,F,Machu Picchu,La Libertad,2025-11-13,9,3538,Auto
+V0808,España,68,F,Amazonas,Cusco,2025-03-22,10,4428,Tren
+V0809,Brasil,51,M,Líneas de Nazca,Cajamarca,2025-03-24,7,4442,Auto
+V0810,Colombia,59,F,Líneas de Nazca,Ica,2025-10-06,5,2289,Bus
+V0811,España,48,F,Machu Picchu,Puno,2025-12-09,10,660,Tren
+V0812,Chile,55,F,Lago Titicaca,Cusco,2025-10-20,4,3070,Avión
+V0813,EEUU,39,M,Cajamarca,Ica,2025-11-14,10,325,
+V0814,Francia,30,M,Machu Picchu,Ica,2025-10-18,5,614,
+V0815,España,70,M,Líneas de Nazca,Lima,2025-01-28,6,1309,
+V0816,Chile,67,M,Lago Titicaca,Cajamarca,2025-04-11,2,2722,
+V0817,Argentina,49,M,Líneas de Nazca,Ica,2025-11-16,5,1279,
+V0818,España,66,M,Cajamarca,Lima,2025-07-01,7,451,Avión
+V0819,Francia,31,F,Cajamarca,Cajamarca,2025-10-17,8,401,Avión
+V0820,Colombia,36,M,Machu Picchu,Puno,2025-01-15,4,3468,Bus
+V0821,Colombia,47,F,Chan Chan,Cusco,2025-08-10,4,3133,Avión
+V0822,España,29,F,Cajamarca,Ica,2025-09-02,10,1948,Auto
+V0823,Colombia,66,M,Cajamarca,La Libertad,2025-12-28,7,3463,Tren
+V0824,Argentina,36,M,Machu Picchu,Loreto,2025-10-14,6,1814,
+V0825,Chile,53,F,Caral,Cusco,2025-06-02,4,4949,Tren
+V0826,Ecuador,57,F,Chan Chan,Ica,2025-03-14,1,3319,Auto
+V0827,España,40,F,Machu Picchu,La Libertad,2025-05-17,3,1955,Bus
+V0828,Brasil,70,F,Machu Picchu,La Libertad,2025-12-18,1,3785,Bus
+V0829,Argentina,52,M,,La Libertad,2025-12-14,2,3836,Tren
+V0830,Colombia,55,M,Lago Titicaca,Puno,2025-11-17,1,1204,Tren
+V0831,Ecuador,39,F,Lago Titicaca,Puno,2025-03-24,7,2377,Avión
+V0832,Francia,45,M,Caral,Loreto,2025-11-10,7,3511,Auto
+V0833,Ecuador,28,M,Machu Picchu,Lima,2025-06-02,4,3721,Tren
+V0834,EEUU,39,F,Lago Titicaca,Puno,2025-09-07,5,3785,
+V0835,Colombia,53,F,Líneas de Nazca,La Libertad,2025-02-18,2,922,Avión
+V0836,EEUU,38,F,Machu Picchu,Loreto,2025-02-15,9,361,Avión
+V0837,Chile,56,F,Cajamarca,Puno,2025-08-24,8,3905,
+V0838,Francia,44,M,Caral,Ica,2025-05-27,4,2745,Bus
+V0839,Francia,23,F,Amazonas,Cajamarca,2025-07-25,4,3864,Bus
+V0840,Argentina,56,F,Lago Titicaca,Cajamarca,2025-04-09,10,4375,Avión
+V0841,Ecuador,52,M,Lago Titicaca,Loreto,2025-06-02,7,4034,Tren
+V0842,Perú,44,M,Chan Chan,Cajamarca,2025-07-28,2,372,Tren
+V0843,Brasil,33,M,Machu Picchu,Cusco,2025-05-16,3,534,Avión
+V0844,Brasil,68,F,Caral,Lima,2025-01-16,1,2385,
+V0845,EEUU,56,F,Amazonas,Cusco,2025-09-07,4,478,
+V0846,Argentina,35,M,Cajamarca,Cajamarca,2025-05-22,5,2840,Bus
+V0847,Perú,61,F,Cajamarca,La Libertad,2025-04-28,7,4088,Bus
+V0848,Argentina,62,F,Líneas de Nazca,Puno,2025-06-08,4,3056,Tren
+V0849,Argentina,35,F,Cajamarca,Puno,2025-05-28,6,1338,Bus
+V0850,EEUU,18,F,Lago Titicaca,Lima,2025-02-10,8,4327,Tren
+V0851,Francia,50,F,Caral,Puno,2025-07-24,1,3226,Auto
+V0852,Francia,48,M,Caral,Cajamarca,2025-09-16,2,3108,Avión
+V0853,Brasil,27,M,Cajamarca,Cajamarca,2025-06-28,3,2687,Bus
+V0854,España,19,M,Líneas de Nazca,La Libertad,2025-08-01,10,3792,Tren
+V0855,EEUU,22,F,,Loreto,2025-05-09,3,1880,Avión
+V0856,Chile,65,M,Chan Chan,Loreto,2025-09-25,2,2755,Tren
+V0857,Francia,38,F,Machu Picchu,Cajamarca,2025-08-04,5,1896,
+V0858,Brasil,50,M,Lago Titicaca,Cajamarca,2025-01-19,2,4093,Bus
+V0859,Colombia,29,F,Machu Picchu,Puno,2025-06-24,5,3833,Auto
+V0860,España,25,M,Caral,Lima,2025-02-21,6,3324,Auto
+V0861,Chile,55,M,Machu Picchu,Puno,2025-06-21,9,676,Bus
+V0862,Argentina,33,M,Líneas de Nazca,Ica,2025-07-23,1,2576,Tren
+V0863,España,36,F,Lago Titicaca,Puno,2025-03-08,10,2453,Bus
+V0864,España,23,F,Machu Picchu,Lima,2025-03-05,6,4507,Avión
+V0865,España,56,F,Chan Chan,Cusco,2025-03-23,5,839,Bus
+V0866,Argentina,43,M,Lago Titicaca,Cajamarca,2025-11-14,1,1303,Tren
+V0867,Francia,51,F,Líneas de Nazca,Cajamarca,2025-10-20,2,2418,Avión
+V0868,Perú,51,M,Machu Picchu,Puno,2025-06-08,2,3336,Auto
+V0869,Ecuador,52,F,Lago Titicaca,Lima,2025-12-12,10,4465,Avión
+V0870,España,65,F,Lago Titicaca,Cusco,2025-02-25,10,4306,Avión
+V0871,EEUU,60,F,Caral,Loreto,2025-07-17,6,1256,Auto
+V0872,Argentina,28,M,Chan Chan,Ica,2025-07-13,7,4166,Avión
+V0873,España,61,M,Chan Chan,Cusco,2025-03-04,3,4230,
+V0874,Argentina,39,M,Machu Picchu,Ica,2025-12-02,7,780,Bus
+V0875,Chile,58,M,Lago Titicaca,Puno,2025-09-05,8,1310,
+V0876,Ecuador,68,M,Amazonas,Ica,2025-12-09,9,4819,Avión
+V0877,Perú,22,F,Lago Titicaca,Lima,2025-05-14,10,1966,Bus
+V0878,España,54,F,Amazonas,Cusco,2025-03-18,8,2403,Auto
+V0879,Francia,21,M,Machu Picchu,Lima,2025-10-05,8,582,Auto
+V0880,Francia,58,F,Líneas de Nazca,Cusco,2025-12-12,9,2631,Tren
+V0881,Chile,67,M,Machu Picchu,La Libertad,2025-05-16,6,1614,Bus
+V0882,Brasil,66,F,Amazonas,Ica,2025-09-02,9,4969,Auto
+V0883,EEUU,64,M,Cajamarca,Lima,2025-07-06,9,990,Tren
+V0884,Chile,58,M,Lago Titicaca,Lima,2025-06-01,9,3254,Auto
+V0885,Argentina,60,M,Caral,Ica,2025-08-04,9,2143,Bus
+V0886,Perú,70,M,Amazonas,Lima,2025-02-13,7,712,Bus
+V0887,Chile,54,F,Amazonas,Cusco,2025-01-27,3,2245,Auto
+V0888,España,33,M,Cajamarca,La Libertad,2025-11-26,3,1231,Bus
+V0889,Ecuador,66,M,Chan Chan,Ica,2025-12-18,3,3790,
+V0890,EEUU,54,M,Cajamarca,Cajamarca,2025-11-16,6,620,Avión
+V0891,Brasil,44,F,Lago Titicaca,Cajamarca,2025-12-15,2,2557,
+V0892,Brasil,24,F,,Loreto,2025-03-26,3,3576,Tren
+V0893,Perú,61,F,Líneas de Nazca,Cajamarca,2025-05-09,8,4718,Bus
+V0894,Ecuador,59,F,Líneas de Nazca,La Libertad,2025-07-28,7,2516,Avión
+V0895,Francia,44,M,Lago Titicaca,Lima,2025-08-21,7,1034,Avión
+V0896,Francia,29,F,Cajamarca,Puno,2025-11-09,8,3414,Bus
+V0897,Ecuador,46,M,Amazonas,Cusco,2025-04-17,2,3544,Auto
+V0898,Colombia,46,F,Amazonas,Cajamarca,2025-10-24,3,2819,
+V0899,Colombia,40,F,Chan Chan,Puno,2025-03-27,9,2148,Bus
+V0900,Chile,61,F,Chan Chan,Puno,2025-11-20,7,2501,Auto
+V0901,Brasil,69,M,Machu Picchu,Cusco,2025-06-14,1,957,
+V0902,Chile,57,F,Amazonas,Cusco,2025-04-20,7,4520,Avión
+V0903,Chile,33,M,Chan Chan,Cusco,2025-12-27,1,1991,Auto
+V0904,Argentina,64,F,,Cusco,2025-12-08,8,4666,Avión
+V0905,Brasil,60,F,Amazonas,Cajamarca,2025-09-23,8,3657,Avión
+V0906,Argentina,33,F,Cajamarca,Ica,2025-11-20,6,1731,Avión
+V0907,Argentina,19,M,Amazonas,La Libertad,2025-05-11,1,713,
+V0908,Argentina,42,F,Machu Picchu,Puno,2025-12-16,7,1304,Bus
+V0909,Chile,31,M,Amazonas,Cajamarca,2025-08-11,5,3266,Bus
+V0910,España,42,M,Machu Picchu,Ica,2025-03-08,3,2713,Bus
+V0911,España,26,F,Lago Titicaca,Cajamarca,2025-12-23,8,4728,Tren
+V0912,Francia,45,F,Machu Picchu,Loreto,2025-10-06,5,3774,Bus
+V0913,España,63,F,Líneas de Nazca,Puno,2025-11-27,5,2666,Auto
+V0914,EEUU,51,M,Amazonas,Ica,2025-05-13,2,2805,Tren
+V0915,Brasil,60,M,Machu Picchu,Cajamarca,2025-04-19,9,4134,Bus
+V0916,Argentina,48,M,Caral,Lima,2025-03-26,1,2452,Avión
+V0917,España,29,M,Cajamarca,Lima,2025-09-14,4,2623,Avión
+V0918,España,44,F,Lago Titicaca,Lima,2025-08-02,10,3921,Tren
+V0919,Ecuador,52,F,Chan Chan,Lima,2025-10-17,5,417,Bus
+V0920,EEUU,26,F,Cajamarca,Puno,2025-09-25,5,1074,Auto
+V0921,España,21,F,Líneas de Nazca,Cusco,2025-06-16,5,526,Bus
+V0922,Brasil,51,F,Machu Picchu,Cajamarca,2025-09-03,10,1653,Avión
+V0923,Perú,44,F,Amazonas,Cajamarca,2025-01-24,3,2201,Auto
+V0924,España,19,M,Amazonas,Cusco,2025-08-10,5,2360,Auto
+V0925,Argentina,65,F,Amazonas,Puno,2025-03-04,1,4201,Auto
+V0926,Francia,35,F,Chan Chan,Lima,2025-08-01,10,1461,
+V0927,Ecuador,19,M,Amazonas,Cusco,2025-06-07,9,675,Bus
+V0928,España,53,M,Amazonas,Puno,2025-07-15,10,4925,Auto
+V0929,Argentina,69,M,Líneas de Nazca,Lima,2025-02-13,9,3610,Tren
+V0930,Brasil,51,F,Cajamarca,Cajamarca,2025-07-23,9,4335,Auto
+V0931,Ecuador,54,F,Amazonas,Cusco,2025-12-28,6,3208,Auto
+V0932,Colombia,49,M,Amazonas,Puno,2025-08-08,8,2851,Auto
+V0933,Brasil,32,F,Chan Chan,Cajamarca,2025-11-03,3,4930,
+V0934,EEUU,57,F,Machu Picchu,Loreto,2025-11-13,3,1840,Bus
+V0935,Brasil,31,F,Chan Chan,Cusco,2025-11-21,3,1344,Avión
+V0936,Colombia,27,M,Lago Titicaca,Ica,2025-03-18,5,1474,Tren
+V0937,Colombia,46,F,Lago Titicaca,Ica,2025-02-19,2,3211,Avión
+V0938,Argentina,52,M,Machu Picchu,Loreto,2025-10-24,1,4219,Auto
+V0939,Francia,35,M,Amazonas,Ica,2025-08-24,9,4651,Auto
+V0940,España,39,F,Cajamarca,Puno,2025-02-21,8,1886,Tren
+V0941,Chile,45,M,Chan Chan,Puno,2025-07-28,9,3027,
+V0942,Perú,38,M,Cajamarca,Loreto,2025-04-27,8,1111,Bus
+V0943,Francia,58,F,Caral,Cajamarca,2025-10-06,9,1078,Bus
+V0944,España,19,M,Caral,Ica,2025-05-06,7,1324,Tren
+V0945,Brasil,47,M,Lago Titicaca,Puno,2025-04-19,9,3544,
+V0946,Colombia,42,M,Machu Picchu,Lima,2025-10-18,1,1450,
+V0947,Argentina,48,F,Machu Picchu,Loreto,2025-11-02,5,1879,Avión
+V0948,Perú,66,F,Chan Chan,Cusco,2025-08-16,4,1523,Avión
+V0949,Brasil,38,M,Cajamarca,Loreto,2025-08-26,1,1395,Avión
+V0950,Brasil,21,F,Cajamarca,Loreto,2025-08-22,7,4365,Bus
+V0951,Brasil,39,F,Líneas de Nazca,Lima,2025-05-17,1,840,Auto
+V0952,España,55,M,Amazonas,Cusco,2025-01-07,8,2928,
+V0953,Colombia,49,F,Lago Titicaca,Cusco,2025-11-01,10,4438,Tren
+V0954,Colombia,50,M,Líneas de Nazca,Lima,2025-04-11,10,870,Bus
+V0955,Argentina,55,F,,Cusco,2025-06-24,8,1359,Tren
+V0956,Brasil,34,M,Amazonas,Loreto,2025-01-28,10,1697,Bus
+V0957,Chile,39,F,Machu Picchu,Ica,2025-03-15,4,864,Tren
+V0958,EEUU,53,M,Machu Picchu,Puno,2025-05-27,10,1899,Tren
+V0959,España,39,M,Líneas de Nazca,Ica,2025-03-28,1,1973,
+V0960,España,58,M,Machu Picchu,Ica,2025-05-01,5,2666,Auto
+V0961,EEUU,46,M,Amazonas,La Libertad,2025-04-18,2,4136,Avión
+V0962,Chile,61,F,Caral,Cusco,2025-02-01,9,2862,Avión
+V0963,España,49,M,Chan Chan,Loreto,2025-04-12,6,2076,
+V0964,Perú,21,F,Lago Titicaca,Lima,2025-04-11,10,3703,
+V0965,España,56,M,Amazonas,Cajamarca,2025-11-19,6,3475,Avión
+V0966,Perú,33,M,Lago Titicaca,Puno,2025-02-13,6,4927,Auto
+V0967,Ecuador,63,F,Líneas de Nazca,Loreto,2025-11-07,9,2736,Bus
+V0968,Francia,37,F,Machu Picchu,Cusco,2025-04-21,10,4344,
+V0969,Colombia,62,M,Caral,Cajamarca,2025-08-07,6,1699,Tren
+V0970,Brasil,50,M,Amazonas,Puno,2025-02-19,9,3384,Auto
+V0971,Perú,59,M,Líneas de Nazca,Loreto,2025-09-06,2,625,Bus
+V0972,EEUU,26,F,Lago Titicaca,Ica,2025-05-24,9,690,
+V0973,Argentina,55,M,Amazonas,Loreto,2025-12-26,9,850,Bus
+V0974,EEUU,68,F,Caral,Cusco,2025-06-15,9,3887,
+V0975,Perú,32,M,Caral,Cajamarca,2025-10-21,8,4647,Auto
+V0976,Ecuador,69,M,Chan Chan,Cusco,2025-08-01,9,3601,Tren
+V0977,Francia,46,F,Cajamarca,La Libertad,2025-01-14,9,4701,Auto
+V0978,Perú,40,M,Caral,Cusco,2025-05-13,10,1325,Tren
+V0979,Chile,53,F,Amazonas,Ica,2025-11-01,6,401,Bus
+V0980,Brasil,27,M,Lago Titicaca,Cajamarca,2025-01-24,5,2313,Auto
+V0981,Francia,25,F,Caral,Cajamarca,2025-06-17,9,2783,
+V0982,Chile,68,M,Caral,Cajamarca,2025-06-14,6,4160,Auto
+V0983,Argentina,25,F,Cajamarca,Ica,2025-04-23,4,4233,
+V0984,Colombia,30,F,Chan Chan,Lima,2025-03-24,6,1676,Avión
+V0985,Ecuador,37,M,Cajamarca,Cusco,2025-09-12,6,4294,Avión
+V0986,Francia,30,F,Líneas de Nazca,Loreto,2025-03-04,10,4886,Auto
+V0987,Chile,49,F,Líneas de Nazca,Loreto,2025-02-16,8,1525,Tren
+V0988,España,59,F,Caral,Cusco,2025-12-15,5,2788,Bus
+V0989,Argentina,31,M,Machu Picchu,Cajamarca,2025-12-02,2,2217,Avión
+V0990,Perú,46,M,Chan Chan,Lima,2025-03-19,1,4113,
+V0991,Ecuador,68,F,Caral,Puno,2025-08-01,6,1103,Auto
+V0992,España,29,F,Amazonas,Puno,2025-11-22,7,4987,Auto
+V0993,Argentina,58,F,Lago Titicaca,Cusco,2025-08-10,10,4060,Auto
+V0994,Colombia,62,F,Cajamarca,Loreto,2025-03-01,10,3595,Bus
+V0995,Perú,39,M,Líneas de Nazca,Cusco,2025-05-07,10,1429,Tren
+V0996,Francia,23,M,Cajamarca,Ica,2025-11-06,1,2471,
+V0997,Chile,54,M,Caral,La Libertad,2025-12-09,10,1883,Avión
+V0998,Argentina,61,F,Chan Chan,Cajamarca,2025-04-03,2,4088,Bus
+V0999,España,38,F,Machu Picchu,Loreto,2025-05-08,9,1992,Bus
+V1000,Perú,61,M,Cajamarca,Ica,2025-10-28,4,1680,Avión
+V1001,Colombia,65,F,Amazonas,La Libertad,2025-01-24,10,1417,Bus
+V1002,Brasil,65,F,Lago Titicaca,Ica,2025-08-18,1,4373,Avión
+V1003,EEUU,23,F,Amazonas,Puno,2025-05-27,7,2189,Tren
+V1004,EEUU,41,F,Machu Picchu,Cajamarca,2025-08-15,2,307,Avión
+V1005,EEUU,45,M,Cajamarca,Lima,2025-01-08,2,4782,
+V1006,Argentina,24,M,Chan Chan,Lima,2025-07-15,6,1847,Auto
+V1007,Francia,49,M,Cajamarca,La Libertad,2025-12-13,10,4078,Auto
+V1008,Chile,41,F,Líneas de Nazca,Loreto,2025-03-22,1,4873,Bus
+V1009,Brasil,60,M,Machu Picchu,Lima,2025-07-07,8,1836,Avión
+V1010,Perú,51,F,Caral,Ica,2025-06-09,5,2477,Bus
+V1011,Brasil,56,M,Chan Chan,Cajamarca,2025-04-28,2,2231,Tren
+V1012,Argentina,65,F,Caral,Ica,2025-01-18,10,2581,Bus
+V1013,EEUU,22,F,Chan Chan,La Libertad,2025-10-11,4,2550,
+V1014,Perú,67,F,Machu Picchu,Puno,2025-04-06,10,2765,Bus
+V1015,EEUU,59,M,Chan Chan,Cajamarca,2025-01-18,1,1336,Bus
+V1016,Ecuador,26,M,Amazonas,Lima,2025-03-21,10,2152,Bus
+V1017,Argentina,63,F,Caral,La Libertad,2025-05-13,3,4395,Avión
+V1018,Chile,38,F,Caral,La Libertad,2025-03-03,9,1684,Tren
+V1019,Perú,20,F,Caral,Loreto,2025-02-11,10,2911,Avión
+V1020,Argentina,23,M,Cajamarca,Ica,2025-02-23,7,1208,Tren
+V1021,EEUU,48,M,Líneas de Nazca,La Libertad,2025-07-24,2,2194,Tren
+V1022,Argentina,69,M,Amazonas,Cusco,2025-10-01,2,1741,Auto
+V1023,EEUU,43,M,Líneas de Nazca,Cajamarca,2025-03-17,1,4575,Avión
+V1024,Ecuador,22,F,Lago Titicaca,Ica,2025-04-06,7,933,Bus
+V1025,Brasil,64,M,Amazonas,Lima,2025-03-27,10,4902,
+V1026,Ecuador,55,F,Cajamarca,Cusco,2025-08-03,1,2857,Avión
+V1027,Colombia,58,F,Chan Chan,Lima,2025-11-06,7,2795,Tren
+V1028,Argentina,41,F,Chan Chan,Puno,2025-07-14,9,1153,Tren
+V1029,Colombia,21,F,Machu Picchu,Loreto,2025-02-22,10,2998,Avión
+V1030,Argentina,62,M,Chan Chan,Cajamarca,2025-09-07,5,4635,Tren
+V1031,Colombia,50,M,Chan Chan,La Libertad,2025-08-04,4,881,
+V1032,Perú,42,F,Líneas de Nazca,Loreto,2025-01-16,5,4318,
+V1033,Brasil,66,F,Líneas de Nazca,Cajamarca,2025-12-25,8,2817,Auto
+V1034,EEUU,50,F,Caral,Cajamarca,2025-03-02,1,4282,Auto
+V1035,Argentina,62,F,Lago Titicaca,Cusco,2025-09-02,1,3524,Tren
+V1036,Perú,54,F,Chan Chan,La Libertad,2025-11-07,6,2285,Tren
+V1037,Francia,50,M,Chan Chan,Puno,2025-02-09,1,2491,Avión
+V1038,España,24,M,Amazonas,Lima,2025-11-09,4,2111,Avión
+V1039,Colombia,21,F,Chan Chan,Cajamarca,2025-05-01,1,4766,Bus
+V1040,Chile,49,F,Caral,Ica,2025-10-06,6,3582,Auto
+V1041,EEUU,54,M,Caral,La Libertad,2025-09-25,8,3368,Bus
+V1042,Ecuador,57,M,Lago Titicaca,Lima,2025-09-03,1,4333,Avión
+V1043,Francia,58,M,Caral,Lima,2025-03-03,10,2497,Avión
+V1044,Colombia,51,F,Amazonas,Cusco,2025-10-18,2,2768,Auto
+V1045,Argentina,49,F,Líneas de Nazca,La Libertad,2025-04-18,9,1368,Bus
+V1046,España,70,F,Chan Chan,Lima,2025-10-09,1,4191,
+V1047,España,61,F,Líneas de Nazca,Puno,2025-02-14,8,4022,Avión
+V1048,Chile,36,F,Cajamarca,La Libertad,2025-05-28,8,4650,Tren
+V1049,Argentina,32,F,Caral,Cusco,2025-08-28,8,1329,Auto
+V1050,España,47,M,Chan Chan,Lima,2025-09-02,6,1823,Avión
+V1051,Ecuador,67,F,Cajamarca,Loreto,2025-10-02,7,1327,Avión
+V1052,Francia,19,M,Amazonas,Loreto,2025-05-27,5,1020,Bus
+V1053,Perú,50,M,Machu Picchu,Loreto,2025-04-16,7,4333,Auto
+V1054,Argentina,46,M,Líneas de Nazca,Cajamarca,2025-05-08,9,4712,Avión
+V1055,España,53,M,Amazonas,Cusco,2025-03-06,8,3869,Tren
+V1056,España,37,M,Chan Chan,La Libertad,2025-05-13,9,3368,Tren
+V1057,Argentina,34,M,Machu Picchu,Loreto,2025-03-21,6,1236,
+V1058,Perú,57,M,Lago Titicaca,La Libertad,2025-09-21,3,3945,Tren
+V1059,Colombia,60,F,Chan Chan,Lima,2025-05-07,5,4677,Bus
+V1060,Perú,47,M,,Lima,2025-05-02,7,2966,Tren
+V1061,España,39,F,Machu Picchu,Puno,2025-03-12,4,737,Bus
+V1062,Colombia,50,M,Chan Chan,Ica,2025-12-11,4,3539,Tren
+V1063,Perú,67,F,Cajamarca,La Libertad,2025-10-24,7,3494,Bus
+V1064,España,59,M,Machu Picchu,Cajamarca,2025-08-01,2,3703,
+V1065,Francia,30,M,Cajamarca,Ica,2025-04-18,1,4949,Auto
+V1066,España,22,F,Machu Picchu,Ica,2025-02-02,8,4902,Bus
+V1067,Brasil,49,F,Amazonas,Loreto,2025-12-19,3,891,Bus
+V1068,Argentina,19,M,Líneas de Nazca,Lima,2025-05-05,1,3656,Tren
+V1069,Chile,36,M,Cajamarca,Lima,2025-03-06,3,3073,
+V1070,España,47,F,Machu Picchu,Cusco,2025-01-22,4,2876,Avión
+V1071,Ecuador,70,F,Cajamarca,Loreto,2025-09-24,10,1310,Bus
+V1072,Perú,67,M,Chan Chan,Ica,2025-09-28,4,2827,
+V1073,Argentina,65,F,Machu Picchu,La Libertad,2025-03-22,4,3947,Tren
+V1074,Ecuador,63,M,Líneas de Nazca,Lima,2025-02-25,2,2063,Tren
+V1075,España,61,F,Lago Titicaca,Ica,2025-04-22,9,303,Tren
+V1076,Argentina,24,F,Lago Titicaca,La Libertad,2025-06-03,7,2183,Avión
+V1077,Ecuador,37,F,Amazonas,Lima,2025-08-22,10,4363,Auto
+V1078,Ecuador,39,M,Caral,Puno,2025-03-20,6,1512,Bus
+V1079,Colombia,37,M,Machu Picchu,La Libertad,2025-06-14,9,462,Bus
+V1080,Brasil,57,M,Cajamarca,La Libertad,2025-01-01,4,4200,Tren
+V1081,Chile,44,F,Amazonas,Lima,2025-01-05,6,2406,
+V1082,EEUU,54,M,Lago Titicaca,Puno,2025-01-06,10,4266,Tren
+V1083,Perú,64,M,Machu Picchu,Cusco,2025-04-05,1,2916,Auto
+V1084,Ecuador,19,F,Amazonas,Cusco,2025-03-25,9,3392,
+V1085,Chile,55,M,Cajamarca,Loreto,2025-06-23,4,1879,Tren
+V1086,Perú,25,M,Líneas de Nazca,Lima,2025-02-27,3,1501,Auto
+V1087,Colombia,51,M,Líneas de Nazca,Cajamarca,2025-05-25,2,1548,Avión
+V1088,Ecuador,70,M,Amazonas,Cajamarca,2025-09-06,1,349,
+V1089,Francia,50,M,Machu Picchu,Cusco,2025-12-11,3,2122,Tren
+V1090,Chile,26,M,Machu Picchu,Puno,2025-04-14,8,1455,Bus
+V1091,EEUU,32,M,Líneas de Nazca,La Libertad,2025-07-05,10,4054,
+V1092,Brasil,25,M,Amazonas,Puno,2025-02-27,10,4598,Avión
+V1093,Brasil,43,M,Lago Titicaca,Lima,2025-09-06,5,1473,
+V1094,Chile,60,M,Caral,Lima,2025-07-20,6,1163,Tren
+V1095,Colombia,60,M,Cajamarca,Lima,2025-01-21,4,1306,
+V1096,Argentina,24,M,Caral,Loreto,2025-02-09,6,2094,Bus
+V1097,Colombia,26,F,Machu Picchu,Loreto,2025-02-22,6,4240,Bus
+V1098,Ecuador,43,F,Chan Chan,Cusco,2025-12-05,10,1341,Tren
+V1099,Argentina,64,F,Amazonas,Loreto,2025-09-06,10,1380,
+V1100,Ecuador,35,M,Chan Chan,Puno,2025-12-14,7,4016,
+V1101,Chile,50,M,Chan Chan,La Libertad,2025-12-08,4,1807,Avión
+V1102,EEUU,66,F,Machu Picchu,Cusco,2025-07-08,4,3436,Bus
+V1103,Brasil,61,F,Amazonas,Cajamarca,2025-02-01,4,891,
+V1104,Francia,66,F,Amazonas,Cusco,2025-10-07,10,4236,
+V1105,España,47,F,Cajamarca,Loreto,2025-02-27,1,1232,Bus
+V1106,España,34,F,Lago Titicaca,Cusco,2025-11-26,10,4285,Avión
+V1107,Chile,68,M,Caral,Lima,2025-01-28,6,3928,Tren
+V1108,Chile,27,F,Machu Picchu,La Libertad,2025-11-18,10,597,Auto
+V1109,Colombia,40,M,Machu Picchu,Ica,2025-12-25,4,2166,Avión
+V1110,Argentina,34,F,Caral,Loreto,2025-01-20,10,1982,Bus
+V1111,EEUU,68,F,Caral,Lima,2025-08-17,3,2802,Auto
+V1112,Colombia,61,M,Cajamarca,Puno,2025-06-21,5,2287,Avión
+V1113,Perú,63,F,Chan Chan,Lima,2025-06-04,3,307,Tren
+V1114,Chile,42,M,Lago Titicaca,Puno,2025-05-11,8,4091,Auto
+V1115,Francia,59,M,Cajamarca,Cusco,2025-08-17,1,3550,
+V1116,España,40,M,Líneas de Nazca,Cajamarca,2025-03-27,2,554,Auto
+V1117,Perú,41,F,Amazonas,Cusco,2025-04-08,1,3594,Auto
+V1118,Chile,35,F,Machu Picchu,Cajamarca,2025-07-22,6,3498,Bus
+V1119,Perú,70,F,Lago Titicaca,Cusco,2025-03-04,3,3456,Avión
+V1120,Perú,18,F,Caral,Lima,2025-11-19,6,2330,Avión
+V1121,Perú,20,M,Chan Chan,Cusco,2025-01-09,4,3118,
+V1122,Colombia,53,M,Líneas de Nazca,Lima,2025-02-17,2,1455,
+V1123,España,42,M,Amazonas,Ica,2025-04-18,6,3090,
+V1124,Argentina,65,F,Lago Titicaca,Loreto,2025-02-06,5,2853,Avión
+V1125,Francia,63,M,Lago Titicaca,Puno,2025-10-05,6,1222,Auto
+V1126,Brasil,56,F,Chan Chan,Lima,2025-04-02,1,3352,
+V1127,Francia,41,F,Amazonas,Cusco,2025-02-24,10,3733,Tren
+V1128,Brasil,59,F,Lago Titicaca,Puno,2025-06-16,5,1345,Tren
+V1129,Chile,70,F,Cajamarca,Cusco,2025-06-07,1,2841,Bus
+V1130,Francia,45,F,Amazonas,Cajamarca,2025-03-12,3,2877,Tren
+V1131,España,59,F,Amazonas,Loreto,2025-11-13,8,1050,Avión
+V1132,EEUU,70,F,Lago Titicaca,Puno,2025-10-22,10,2066,
+V1133,EEUU,59,F,Caral,Ica,2025-11-19,6,3051,Tren
+V1134,Francia,39,F,Amazonas,Lima,2025-04-10,5,4807,Avión
+V1135,España,47,F,,Cajamarca,2025-10-04,2,3708,Avión
+V1136,EEUU,20,M,Cajamarca,Loreto,2025-04-28,7,4393,Tren
+V1137,Brasil,70,F,Chan Chan,La Libertad,2025-11-27,1,2582,
+V1138,Colombia,43,F,Amazonas,Lima,2025-12-10,10,427,
+V1139,Ecuador,18,M,Chan Chan,Lima,2025-12-19,9,717,Tren
+V1140,Argentina,57,M,Caral,Lima,2025-05-10,8,1197,Avión
+V1141,España,58,M,Chan Chan,Ica,2025-01-28,9,626,Bus
+V1142,Perú,20,M,Caral,Lima,2025-10-13,9,3131,Tren
+V1143,Francia,40,F,Líneas de Nazca,La Libertad,2025-06-01,1,4662,Avión
+V1144,EEUU,39,M,Cajamarca,La Libertad,2025-10-23,9,3857,Avión
+V1145,Francia,70,M,,Ica,2025-10-16,9,3595,Avión
+V1146,Francia,48,F,Chan Chan,Puno,2025-06-24,3,4552,Auto
+V1147,Chile,50,M,Machu Picchu,La Libertad,2025-01-20,8,1221,Auto
+V1148,Ecuador,54,F,Líneas de Nazca,Lima,2025-07-02,2,1636,Auto
+V1149,Brasil,54,M,Cajamarca,Loreto,2025-10-07,10,3154,Tren
+V1150,Chile,64,M,,Puno,2025-02-10,6,3822,Bus
+V1151,Argentina,67,M,Machu Picchu,Cusco,2025-07-25,6,3337,Avión
+V1152,Perú,58,F,Cajamarca,Cusco,2025-07-24,2,2103,
+V1153,Brasil,23,M,Amazonas,La Libertad,2025-08-24,8,1828,Avión
+V1154,España,18,M,Amazonas,Lima,2025-12-22,5,1165,Avión
+V1155,Colombia,66,M,Cajamarca,Cajamarca,2025-08-19,2,3574,Auto
+V1156,Ecuador,44,M,Machu Picchu,Cusco,2025-07-23,1,4944,
+V1157,EEUU,65,M,Lago Titicaca,Ica,2025-04-27,3,337,
+V1158,Argentina,56,M,,Ica,2025-10-14,5,4801,Auto
+V1159,EEUU,40,M,Lago Titicaca,Lima,2025-04-19,9,2541,Auto
+V1160,Argentina,68,F,Cajamarca,Cajamarca,2025-08-11,10,1284,
+V1161,Chile,39,F,Chan Chan,Ica,2025-01-24,8,2470,Tren
+V1162,Ecuador,63,M,Lago Titicaca,Loreto,2025-06-23,6,965,Bus
+V1163,Chile,50,F,Chan Chan,La Libertad,2025-03-21,6,889,Tren
+V1164,Perú,45,F,Caral,La Libertad,2025-10-20,10,1912,Bus
+V1165,Argentina,36,M,Amazonas,Cusco,2025-08-13,9,419,Bus
+V1166,EEUU,42,M,Cajamarca,Cusco,2025-12-08,7,4803,Avión
+V1167,Colombia,41,F,Amazonas,Puno,2025-07-26,10,3958,Avión
+V1168,Chile,53,M,Lago Titicaca,Ica,2025-01-18,6,1167,Auto
+V1169,Francia,18,M,Amazonas,Loreto,2025-09-24,3,3571,
+V1170,Colombia,32,M,Chan Chan,Lima,2025-03-24,2,3988,
+V1171,Francia,19,M,Amazonas,Puno,2025-01-14,10,4906,Avión
+V1172,EEUU,42,F,Líneas de Nazca,Cajamarca,2025-12-23,7,3401,
+V1173,Colombia,27,F,,Cusco,2025-01-22,6,1219,Avión
+V1174,Argentina,43,F,Amazonas,Loreto,2025-11-15,5,4249,Bus
+V1175,Colombia,65,F,Machu Picchu,La Libertad,2025-05-03,6,4314,
+V1176,Brasil,62,M,Lago Titicaca,Ica,2025-01-27,10,3384,Auto
+V1177,Brasil,19,M,Machu Picchu,Lima,2025-11-23,3,4093,Auto
+V1178,Ecuador,21,M,Chan Chan,Ica,2025-07-18,2,3716,Tren
+V1179,Argentina,60,F,Lago Titicaca,Ica,2025-10-11,6,4566,Auto
+V1180,Argentina,36,F,Cajamarca,La Libertad,2025-09-14,5,3471,Tren
+V1181,Francia,28,M,Líneas de Nazca,Puno,2025-11-04,6,423,
+V1182,Francia,46,M,Líneas de Nazca,Loreto,2025-01-27,10,1876,Bus
+V1183,España,53,M,Machu Picchu,Loreto,2025-06-08,6,2481,
+V1184,España,64,M,Cajamarca,Lima,2025-07-19,2,1349,Tren
+V1185,Chile,60,F,Cajamarca,La Libertad,2025-08-07,7,1172,Auto
+V1186,Chile,23,M,Chan Chan,Puno,2025-04-14,4,3402,Avión
+V1187,Colombia,59,M,,La Libertad,2025-03-28,2,4509,Bus
+V1188,España,26,M,Machu Picchu,Lima,2025-05-05,1,993,Auto
+V1189,Argentina,45,F,Lago Titicaca,Loreto,2025-12-15,2,1779,Bus
+V1190,Ecuador,49,M,,Puno,2025-03-17,4,2031,Avión
+V1191,España,67,M,Amazonas,Cajamarca,2025-05-25,5,645,Bus
+V1192,Francia,36,F,Chan Chan,Loreto,2025-06-14,1,894,Avión
+V1193,Colombia,34,M,Líneas de Nazca,Lima,2025-07-28,10,3621,Bus
+V1194,Perú,41,F,Cajamarca,Lima,2025-03-14,5,1575,Auto
+V1195,EEUU,45,F,Caral,Loreto,2025-11-05,10,2109,Auto
+V1196,Francia,20,M,Cajamarca,Lima,2025-01-07,5,2709,
+V1197,España,63,M,Amazonas,Cusco,2025-01-14,2,419,Tren
+V1198,Perú,43,M,Líneas de Nazca,Loreto,2025-11-07,1,1550,Avión
+V1199,Ecuador,63,F,Cajamarca,Cajamarca,2025-10-01,10,3982,Tren
+V1200,Chile,59,M,Lago Titicaca,Ica,2025-07-19,4,2537,Tren
+V1201,Argentina,53,M,Caral,Ica,2025-01-02,1,354,Tren
+V1202,Perú,64,F,Caral,Lima,2025-04-24,1,4703,
+V1203,Argentina,20,M,Machu Picchu,Ica,2025-07-07,1,1414,Auto
+V1204,Perú,48,F,Machu Picchu,Cusco,2025-01-16,7,3504,Tren
+V1205,Ecuador,58,F,Caral,Ica,2025-05-25,1,4744,Auto
+V1206,Argentina,56,F,Cajamarca,Cusco,2025-02-01,5,1263,Tren
+V1207,Francia,38,M,Chan Chan,Lima,2025-04-22,1,934,Bus
+V1208,Chile,22,F,Machu Picchu,Cajamarca,2025-03-12,8,3737,Tren
+V1209,España,55,F,Machu Picchu,Ica,2025-01-09,2,2012,Avión
+V1210,Brasil,39,F,Líneas de Nazca,Ica,2025-01-09,7,4413,Tren
+V1211,España,59,F,Cajamarca,Lima,2025-04-15,5,2464,Tren
+V1212,Colombia,33,M,Líneas de Nazca,Puno,2025-12-17,5,319,Tren
+V1213,Ecuador,55,M,Lago Titicaca,Lima,2025-06-22,1,2111,
+V1214,Ecuador,57,F,Caral,Ica,2025-01-06,9,1248,
+V1215,Chile,70,F,Cajamarca,La Libertad,2025-03-19,7,533,
+V1216,Argentina,32,F,,Cusco,2025-11-22,10,968,Auto
+V1217,Brasil,47,M,Cajamarca,Ica,2025-07-14,9,2430,Auto
+V1218,Francia,62,M,Caral,Loreto,2025-07-14,10,2892,
+V1219,Argentina,70,M,Lago Titicaca,Cusco,2025-04-02,4,1043,Avión
+V1220,Francia,61,F,Caral,Ica,2025-03-27,1,3943,
+V1221,Perú,49,M,Líneas de Nazca,Cajamarca,2025-10-23,9,2945,Bus
+V1222,Perú,64,M,Líneas de Nazca,Lima,2025-06-09,2,3760,Tren
+V1223,Brasil,68,F,Chan Chan,Loreto,2025-12-22,5,4626,
+V1224,España,46,M,Amazonas,Loreto,2025-03-10,4,2469,Avión
+V1225,EEUU,65,M,Amazonas,Loreto,2025-08-27,10,638,
+V1226,España,21,F,Lago Titicaca,Puno,2025-04-13,9,539,Bus
+V1227,Brasil,66,M,Líneas de Nazca,La Libertad,2025-03-01,8,4272,
+V1228,Ecuador,58,F,Machu Picchu,Loreto,2025-09-07,10,3745,Bus
+V1229,Perú,57,M,Líneas de Nazca,Cusco,2025-05-28,1,2502,Bus
+V1230,Brasil,19,F,Amazonas,La Libertad,2025-12-23,10,2782,Bus
+V1231,Argentina,27,M,Caral,Cajamarca,2025-08-02,8,1843,Avión
+V1232,Ecuador,34,F,Machu Picchu,Lima,2025-06-02,4,2853,Avión
+V1233,Ecuador,65,M,Lago Titicaca,Lima,2025-10-28,3,4047,Avión
+V1234,Ecuador,40,M,Líneas de Nazca,La Libertad,2025-09-28,4,1486,Auto
+V1235,Chile,58,F,Líneas de Nazca,Puno,2025-11-17,10,4623,
+V1236,Argentina,42,F,Cajamarca,Puno,2025-08-28,10,328,Avión
+V1237,Brasil,52,F,Chan Chan,Loreto,2025-12-19,7,3207,Bus
+V1238,Chile,51,F,Cajamarca,La Libertad,2025-07-18,8,469,Avión
+V1239,Argentina,29,F,Lago Titicaca,Puno,2025-11-16,3,635,Auto
+V1240,Colombia,26,F,Machu Picchu,Cajamarca,2025-12-11,4,3993,Avión
+V1241,Colombia,60,F,Cajamarca,Lima,2025-03-15,3,1967,Bus
+V1242,EEUU,58,F,Amazonas,Puno,2025-05-06,3,788,Bus
+V1243,Brasil,33,M,Caral,Puno,2025-01-28,5,3238,Auto
+V1244,España,18,F,Cajamarca,Cajamarca,2025-12-01,3,4580,Auto
+V1245,Chile,21,F,Líneas de Nazca,Cajamarca,2025-11-19,7,2656,
+V1246,Brasil,57,F,Machu Picchu,La Libertad,2025-04-28,2,3229,Bus
+V1247,EEUU,64,M,,Cajamarca,2025-12-07,8,3740,Tren
+V1248,Colombia,37,F,Chan Chan,Puno,2025-12-16,2,3856,Auto
+V1249,Chile,28,F,Lago Titicaca,Cajamarca,2025-12-22,10,3295,
+V1250,Perú,41,F,Chan Chan,Lima,2025-12-19,3,666,Auto
+V1251,EEUU,28,F,Líneas de Nazca,Cajamarca,2025-09-15,2,2066,
+V1252,EEUU,24,F,Amazonas,Puno,2025-08-05,10,2427,
+V1253,Francia,21,M,Caral,Loreto,2025-10-28,3,2693,Auto
+V1254,Argentina,35,F,Líneas de Nazca,Lima,2025-04-27,8,2406,Avión
+V1255,Brasil,20,F,Líneas de Nazca,Ica,2025-04-20,7,4038,Bus
+V1256,Perú,65,F,Machu Picchu,Ica,2025-10-25,8,599,
+V1257,Argentina,21,F,Chan Chan,Cusco,2025-05-24,1,1513,Bus
+V1258,Perú,68,M,Lago Titicaca,La Libertad,2025-02-23,2,4784,Avión
+V1259,Argentina,21,F,Caral,Cusco,2025-11-06,7,4470,
+V1260,Chile,65,F,Cajamarca,Loreto,2025-09-11,2,1447,
+V1261,Chile,23,F,Machu Picchu,Cusco,2025-11-18,8,367,Tren
+V1262,Argentina,53,F,Cajamarca,Lima,2025-08-13,9,1327,Tren
+V1263,Perú,35,M,Amazonas,Puno,2025-02-10,3,670,Bus
+V1264,Argentina,63,M,Amazonas,Loreto,2025-07-08,10,878,Auto
+V1265,Chile,33,M,Caral,Lima,2025-10-17,9,4638,Avión
+V1266,EEUU,46,M,Líneas de Nazca,Cusco,2025-02-25,1,2008,Avión
+V1267,Brasil,44,F,Machu Picchu,La Libertad,2025-02-05,10,4168,Tren
+V1268,Ecuador,51,F,Lago Titicaca,Puno,2025-02-19,10,1817,Avión
+V1269,Colombia,65,M,Cajamarca,Ica,2025-10-07,4,3688,Bus
+V1270,Colombia,34,M,Líneas de Nazca,Puno,2025-07-27,5,1598,Tren
+V1271,Perú,23,M,Lago Titicaca,Lima,2025-11-09,9,3355,Bus
+V1272,EEUU,45,M,Chan Chan,Cusco,2025-06-28,9,2113,
+V1273,Chile,67,M,Cajamarca,Lima,2025-11-12,5,2513,Avión
+V1274,España,53,F,Machu Picchu,Puno,2025-09-04,8,2137,Auto
+V1275,Chile,68,M,Lago Titicaca,Cusco,2025-05-26,6,369,Avión
+V1276,España,42,M,Machu Picchu,Puno,2025-10-28,6,3282,Auto
+V1277,Francia,57,F,Líneas de Nazca,Puno,2025-02-26,3,3018,
+V1278,Argentina,31,M,Caral,Loreto,2025-09-18,2,3272,
+V1279,Brasil,40,F,Machu Picchu,Lima,2025-04-21,1,4263,Auto
+V1280,Ecuador,32,M,Chan Chan,Cusco,2025-05-08,5,970,Auto
+V1281,EEUU,69,M,Cajamarca,Lima,2025-09-12,2,3811,Tren
+V1282,Francia,66,F,Chan Chan,Ica,2025-01-09,4,1694,
+V1283,Chile,38,M,Líneas de Nazca,Lima,2025-05-12,6,1418,Tren
+V1284,España,55,M,Cajamarca,Cusco,2025-10-17,4,1702,
+V1285,Francia,33,M,Lago Titicaca,Cusco,2025-04-01,6,423,Avión
+V1286,Colombia,39,M,Cajamarca,Cusco,2025-03-23,6,4205,
+V1287,Perú,48,F,Líneas de Nazca,Puno,2025-09-24,7,4982,Tren
+V1288,Perú,48,F,Machu Picchu,La Libertad,2025-09-02,4,1627,Bus
+V1289,Colombia,24,F,Lago Titicaca,Loreto,2025-03-17,1,3779,Avión
+V1290,Perú,30,M,Chan Chan,Cusco,2025-05-20,1,4960,
+V1291,EEUU,56,F,Líneas de Nazca,La Libertad,2025-12-22,8,2843,
+V1292,Francia,28,M,Líneas de Nazca,La Libertad,2025-11-10,8,3903,Bus
+V1293,Francia,53,M,Líneas de Nazca,Ica,2025-08-18,1,1278,Tren
+V1294,Ecuador,57,F,Machu Picchu,Ica,2025-04-11,5,577,Tren
+V1295,Argentina,60,M,Amazonas,Cajamarca,2025-12-21,4,2844,Tren
+V1296,Chile,56,M,Caral,Ica,2025-06-17,2,2193,Avión
+V1297,Colombia,29,M,Chan Chan,Ica,2025-03-20,1,4220,Auto
+V1298,EEUU,54,F,Chan Chan,Loreto,2025-04-22,4,2698,Tren
+V1299,Brasil,65,M,Cajamarca,Cusco,2025-06-24,9,1973,Bus
+V1300,Francia,26,F,Amazonas,Ica,2025-02-24,8,371,Auto
+V1301,Francia,62,F,Chan Chan,Loreto,2025-02-18,9,4774,
+V1302,Colombia,47,M,Cajamarca,Ica,2025-08-06,6,1948,
+V1303,Colombia,26,F,Machu Picchu,Ica,2025-10-19,5,4124,Tren
+V1304,España,50,F,Lago Titicaca,Ica,2025-10-12,6,1676,Bus
+V1305,Chile,39,M,Amazonas,Cusco,2025-02-11,2,3416,
+V1306,Francia,31,F,Caral,Puno,2025-02-14,4,3148,Avión
+V1307,Perú,43,F,Cajamarca,La Libertad,2025-03-02,3,1742,Tren
+V1308,Chile,21,F,Lago Titicaca,La Libertad,2025-12-11,3,2469,Tren
+V1309,España,30,M,Lago Titicaca,Lima,2025-05-20,2,4014,Tren
+V1310,España,28,F,Machu Picchu,Puno,2025-07-18,6,2194,Bus
+V1311,EEUU,61,F,Cajamarca,Loreto,2025-03-07,9,2461,Auto
+V1312,Argentina,23,M,Líneas de Nazca,La Libertad,2025-02-17,3,3811,Avión
+V1313,Perú,62,M,Amazonas,Loreto,2025-05-21,1,874,
+V1314,EEUU,23,M,Líneas de Nazca,La Libertad,2025-08-07,1,3503,
+V1315,Colombia,38,M,Líneas de Nazca,Cajamarca,2025-02-17,8,4275,Auto
+V1316,Brasil,22,M,Líneas de Nazca,Lima,2025-01-11,10,577,Bus
+V1317,España,46,M,Lago Titicaca,Lima,2025-08-11,2,4919,Tren
+V1318,Francia,46,F,Líneas de Nazca,Ica,2025-04-24,10,4409,Tren
+V1319,Francia,58,F,Amazonas,Cusco,2025-06-28,7,1542,Bus
+V1320,Colombia,40,M,Caral,Loreto,2025-11-21,3,510,Tren
+V1321,Argentina,61,M,Amazonas,Lima,2025-08-22,9,581,
+V1322,Brasil,26,F,Amazonas,Puno,2025-08-16,3,987,
+V1323,Francia,63,M,Caral,Ica,2025-12-27,6,1308,Auto
+V1324,Chile,30,F,Líneas de Nazca,Lima,2025-02-18,7,4534,Bus
+V1325,Chile,23,F,Cajamarca,Cajamarca,2025-03-22,6,3616,Tren
+V1326,Francia,65,M,Lago Titicaca,Cajamarca,2025-01-03,1,3015,Tren
+V1327,España,67,M,Machu Picchu,Ica,2025-01-02,9,4386,
+V1328,Brasil,65,M,Lago Titicaca,Cusco,2025-10-07,6,2363,Auto
+V1329,Chile,37,M,Caral,Cajamarca,2025-04-26,1,1618,Tren
+V1330,Argentina,36,M,Machu Picchu,Loreto,2025-02-10,3,3829,Avión
+V1331,Ecuador,67,M,Caral,Cusco,2025-03-16,1,3323,Tren
+V1332,Argentina,56,F,Caral,Lima,2025-01-05,8,4471,Bus
+V1333,EEUU,42,M,Cajamarca,Loreto,2025-04-28,10,1126,Avión
+V1334,Argentina,26,M,Caral,La Libertad,2025-02-12,10,2005,Auto
+V1335,Chile,35,F,Lago Titicaca,Cajamarca,2025-01-12,9,899,
+V1336,Brasil,22,F,Caral,Loreto,2025-08-05,7,3575,Bus
+V1337,Argentina,41,M,Amazonas,La Libertad,2025-07-25,10,597,Auto
+V1338,Perú,58,F,Cajamarca,Loreto,2025-11-12,6,2403,Tren
+V1339,Chile,43,F,Lago Titicaca,Lima,2025-08-22,7,4499,Auto
+V1340,Brasil,64,F,Caral,La Libertad,2025-11-15,9,2586,
+V1341,Chile,39,F,Chan Chan,Puno,2025-03-20,4,3889,Auto
+V1342,Brasil,19,F,Chan Chan,Cusco,2025-02-28,4,3423,Bus
+V1343,España,49,F,Machu Picchu,Cusco,2025-03-06,4,3741,
+V1344,EEUU,53,M,Amazonas,Lima,2025-03-15,9,4400,Tren
+V1345,EEUU,24,M,Chan Chan,La Libertad,2025-04-14,4,1363,
+V1346,Colombia,35,F,Machu Picchu,Puno,2025-05-01,7,4333,Avión
+V1347,Perú,68,F,Amazonas,Cusco,2025-09-05,6,2754,Avión
+V1348,Francia,67,M,Machu Picchu,Loreto,2025-10-19,6,1397,Bus
+V1349,Brasil,32,M,Machu Picchu,La Libertad,2025-03-02,4,3486,
+V1350,Perú,18,F,Lago Titicaca,Puno,2025-05-01,7,3691,Bus
+V1351,Francia,18,M,Lago Titicaca,La Libertad,2025-04-07,1,2259,Avión
+V1352,Ecuador,29,M,Cajamarca,La Libertad,2025-09-06,9,4276,Avión
+V1353,Colombia,48,F,Lago Titicaca,La Libertad,2025-09-06,4,3625,
+V1354,Perú,53,F,Lago Titicaca,Loreto,2025-02-19,6,580,
+V1355,Colombia,62,M,Líneas de Nazca,Puno,2025-12-16,5,4554,
+V1356,Brasil,61,M,Caral,Ica,2025-10-07,9,3475,Auto
+V1357,Ecuador,70,M,Caral,Ica,2025-07-01,2,1553,Bus
+V1358,Perú,33,M,Cajamarca,Cusco,2025-12-15,4,3404,Avión
+V1359,Ecuador,34,M,Cajamarca,Lima,2025-06-12,7,1931,Tren
+V1360,Chile,31,M,Caral,Cusco,2025-02-27,10,3172,Bus
+V1361,EEUU,33,F,Líneas de Nazca,Cajamarca,2025-03-08,7,3461,Avión
+V1362,EEUU,60,F,Amazonas,Cajamarca,2025-03-18,7,4399,
+V1363,EEUU,34,M,Cajamarca,Puno,2025-04-21,9,4814,Auto
+V1364,EEUU,53,F,Lago Titicaca,Puno,2025-02-17,6,3544,Auto
+V1365,EEUU,54,F,Machu Picchu,Puno,2025-09-27,7,4985,
+V1366,Argentina,37,F,Caral,Lima,2025-08-14,4,998,Bus
+V1367,España,20,M,Chan Chan,Loreto,2025-06-17,3,4525,Avión
+V1368,Colombia,35,M,Líneas de Nazca,Lima,2025-04-23,3,4639,
+V1369,Chile,38,M,Amazonas,Puno,2025-10-12,10,3609,
+V1370,Brasil,43,F,Lago Titicaca,Ica,2025-01-02,7,1398,Bus
+V1371,España,33,M,Chan Chan,Ica,2025-02-18,2,3095,
+V1372,Colombia,44,F,Amazonas,Cusco,2025-12-23,3,4447,Avión
+V1373,Perú,55,M,Lago Titicaca,Ica,2025-05-08,1,485,Avión
+V1374,Chile,54,F,Machu Picchu,Lima,2025-10-16,6,1559,Auto
+V1375,Ecuador,55,F,Líneas de Nazca,Ica,2025-10-01,7,1651,Tren
+V1376,Perú,48,M,Cajamarca,Cusco,2025-11-19,10,697,Bus
+V1377,Colombia,40,M,Amazonas,Ica,2025-01-28,8,2663,Bus
+V1378,Francia,19,M,Chan Chan,Cusco,2025-02-23,8,2095,Tren
+V1379,España,55,M,Amazonas,La Libertad,2025-08-14,2,647,Auto
+V1380,Chile,18,F,Cajamarca,Cusco,2025-09-15,1,1068,Tren
+V1381,Francia,19,F,Machu Picchu,Puno,2025-11-17,5,1007,
+V1382,Perú,62,F,Amazonas,La Libertad,2025-04-23,2,1618,
+V1383,Francia,67,M,Machu Picchu,Cusco,2025-01-20,3,993,Bus
+V1384,EEUU,28,F,Caral,Puno,2025-12-22,3,483,Tren
+V1385,Colombia,30,M,Cajamarca,Cusco,2025-12-22,9,1375,
+V1386,Francia,29,F,Líneas de Nazca,Lima,2025-01-17,3,1247,
+V1387,Perú,53,F,Lago Titicaca,Cajamarca,2025-04-13,1,3476,Auto
+V1388,España,48,F,Amazonas,Puno,2025-12-23,6,4064,Bus
+V1389,Brasil,18,M,Lago Titicaca,La Libertad,2025-09-19,5,3500,Auto
+V1390,Francia,46,M,Lago Titicaca,Lima,2025-09-10,7,2560,Avión
+V1391,Colombia,55,M,Lago Titicaca,Cusco,2025-02-22,7,630,Avión
+V1392,Perú,65,M,Líneas de Nazca,La Libertad,2025-09-20,10,1641,
+V1393,Ecuador,50,F,Cajamarca,Cajamarca,2025-06-12,2,4476,
+V1394,Colombia,33,M,Caral,La Libertad,2025-04-26,1,2073,Auto
+V1395,Perú,40,M,Cajamarca,Lima,2025-12-11,9,3539,Auto
+V1396,España,50,M,Machu Picchu,Cusco,2025-10-14,6,1402,Auto
+V1397,Brasil,48,M,Líneas de Nazca,Cusco,2025-09-17,7,1045,Tren
+V1398,Brasil,56,F,Cajamarca,La Libertad,2025-01-07,8,3978,Tren
+V1399,Ecuador,33,F,Cajamarca,La Libertad,2025-07-04,7,406,Tren
+V1400,Perú,57,F,Caral,Loreto,2025-06-26,4,4985,Auto
+V1401,Francia,43,F,Lago Titicaca,La Libertad,2025-01-11,4,1258,Auto
+V1402,Argentina,42,F,Líneas de Nazca,Cajamarca,2025-04-26,6,1946,Bus
+V1403,Perú,24,F,Cajamarca,Loreto,2025-04-28,7,2810,Bus
+V1404,EEUU,48,M,Líneas de Nazca,Loreto,2025-09-15,5,2920,Bus
+V1405,EEUU,55,F,,Loreto,2025-05-07,2,1211,Bus
+V1406,Chile,18,F,Machu Picchu,Cusco,2025-07-04,5,2978,Bus
+V1407,Francia,69,M,Lago Titicaca,Ica,2025-08-27,10,2131,Bus
+V1408,Colombia,34,F,Chan Chan,Lima,2025-04-10,5,1298,Auto
+V1409,Ecuador,20,M,Machu Picchu,Loreto,2025-11-20,7,4066,Avión
+V1410,Francia,47,F,Amazonas,Puno,2025-01-19,10,3181,Avión
+V1411,España,64,F,Caral,Ica,2025-03-24,4,4104,Auto
+V1412,Perú,66,F,Lago Titicaca,Cajamarca,2025-12-27,10,2014,Bus
+V1413,Brasil,40,M,Líneas de Nazca,La Libertad,2025-05-18,2,4349,Tren
+V1414,Argentina,26,F,Lago Titicaca,Cusco,2025-03-08,10,987,Auto
+V1415,Perú,60,M,Cajamarca,Cusco,2025-05-02,6,4357,
+V1416,EEUU,25,M,Machu Picchu,Loreto,2025-09-03,4,1067,Avión
+V1417,EEUU,26,F,Lago Titicaca,La Libertad,2025-10-15,1,2953,Bus
+V1418,España,26,M,Lago Titicaca,Ica,2025-09-05,2,2323,Avión
+V1419,EEUU,32,M,Líneas de Nazca,Ica,2025-08-06,7,4642,Tren
+V1420,Brasil,20,F,Cajamarca,Loreto,2025-03-15,4,1232,
+V1421,Chile,24,M,Lago Titicaca,Lima,2025-10-11,7,3514,Avión
+V1422,Perú,26,M,Cajamarca,Lima,2025-06-18,2,766,
+V1423,Argentina,28,M,Machu Picchu,Loreto,2025-08-01,1,4715,Tren
+V1424,Ecuador,46,F,Machu Picchu,Ica,2025-02-03,4,1936,Tren
+V1425,España,22,F,Líneas de Nazca,Loreto,2025-10-27,6,4265,Tren
+V1426,Argentina,63,M,Machu Picchu,Puno,2025-05-24,4,4646,
+V1427,Argentina,46,F,Cajamarca,Ica,2025-11-08,4,4954,Tren
+V1428,Ecuador,23,M,Chan Chan,Lima,2025-06-19,7,2456,Auto
+V1429,España,64,F,Caral,Cusco,2025-06-04,4,1454,Avión
+V1430,Colombia,68,F,Amazonas,Lima,2025-10-17,1,3928,Bus
+V1431,Francia,21,M,Amazonas,Lima,2025-03-21,10,4537,Avión
+V1432,España,67,M,Cajamarca,Lima,2025-03-09,5,4296,Tren
+V1433,Perú,31,F,Amazonas,Cajamarca,2025-06-02,10,3484,Tren
+V1434,Perú,66,F,Lago Titicaca,Loreto,2025-09-14,6,4987,Auto
+V1435,Chile,50,M,Amazonas,Ica,2025-04-10,3,4324,Bus
+V1436,Argentina,68,M,Caral,La Libertad,2025-06-28,9,2205,Bus
+V1437,Brasil,49,M,Líneas de Nazca,Lima,2025-10-19,5,2466,Avión
+V1438,Argentina,22,F,Líneas de Nazca,Ica,2025-01-16,7,1858,Auto
+V1439,Chile,65,F,Chan Chan,Cusco,2025-08-23,2,1619,Auto
+V1440,Chile,50,M,Machu Picchu,Lima,2025-12-18,10,3740,
+V1441,EEUU,62,M,Lago Titicaca,Ica,2025-10-14,8,3350,Avión
+V1442,Chile,18,F,Cajamarca,Lima,2025-11-10,8,409,Auto
+V1443,Perú,45,F,Cajamarca,Puno,2025-04-03,9,4165,Tren
+V1444,Colombia,50,F,Chan Chan,Cusco,2025-08-12,4,1693,Avión
+V1445,Colombia,61,F,Cajamarca,Loreto,2025-07-17,4,3726,Tren
+V1446,Perú,23,F,Chan Chan,La Libertad,2025-04-24,8,1051,Bus
+V1447,Colombia,23,M,Lago Titicaca,Cusco,2025-10-15,8,2492,
+V1448,Ecuador,57,M,Caral,Cajamarca,2025-01-23,1,642,Auto
+V1449,Brasil,25,M,Machu Picchu,Ica,2025-03-25,10,3917,Bus
+V1450,Ecuador,26,F,Machu Picchu,Cusco,2025-01-20,1,2354,Tren
+V1451,Brasil,18,M,Líneas de Nazca,Cusco,2025-10-07,3,3644,
+V1452,Ecuador,70,F,Líneas de Nazca,Lima,2025-09-04,1,2651,Bus
+V1453,Chile,55,M,Amazonas,Puno,2025-09-16,8,3640,Avión
+V1454,Perú,24,F,Machu Picchu,La Libertad,2025-07-05,2,791,Bus
+V1455,España,36,M,Amazonas,Cusco,2025-07-24,3,2225,
+V1456,EEUU,29,M,Líneas de Nazca,Cajamarca,2025-11-24,1,3637,Avión
+V1457,Colombia,55,M,Líneas de Nazca,Puno,2025-01-15,9,2700,Tren
+V1458,Francia,53,F,Amazonas,Loreto,2025-07-09,10,3177,
+V1459,Francia,32,F,Amazonas,Loreto,2025-03-01,10,2101,Auto
+V1460,Perú,56,M,Chan Chan,Cusco,2025-10-11,1,4549,Avión
+V1461,Colombia,67,F,Machu Picchu,Cajamarca,2025-04-27,5,4209,Auto
+V1462,Colombia,56,F,Machu Picchu,La Libertad,2025-01-26,1,2204,Avión
+V1463,EEUU,39,F,Amazonas,Cajamarca,2025-03-20,5,2644,
+V1464,Colombia,19,F,,La Libertad,2025-02-21,4,3040,Bus
+V1465,Ecuador,37,F,Chan Chan,La Libertad,2025-02-26,3,394,Avión
+V1466,Brasil,49,F,Amazonas,La Libertad,2025-03-16,9,1321,Bus
+V1467,Chile,49,M,Lago Titicaca,La Libertad,2025-01-08,7,778,Auto
+V1468,Argentina,50,M,Lago Titicaca,Loreto,2025-01-04,9,704,Auto
+V1469,Argentina,42,M,Cajamarca,La Libertad,2025-08-11,10,3857,Tren
+V1470,Perú,34,M,Líneas de Nazca,Lima,2025-04-18,10,435,Auto
+V1471,España,37,M,Cajamarca,Puno,2025-01-15,10,1089,Avión
+V1472,Brasil,37,F,Lago Titicaca,Loreto,2025-02-15,6,589,Tren
+V1473,Chile,25,M,Líneas de Nazca,Cusco,2025-03-21,9,3299,Bus
+V1474,Ecuador,63,M,Amazonas,Cajamarca,2025-04-24,5,2004,Tren
+V1475,Perú,69,F,Líneas de Nazca,Cusco,2025-05-28,4,2145,Avión
+V1476,Perú,49,F,Lago Titicaca,Cusco,2025-07-17,5,3807,
+V1477,Ecuador,61,F,Líneas de Nazca,La Libertad,2025-03-23,2,4078,
+V1478,España,23,M,Líneas de Nazca,La Libertad,2025-01-24,9,971,Avión
+V1479,Ecuador,24,M,Chan Chan,La Libertad,2025-03-25,1,715,Avión
+V1480,Colombia,55,M,Caral,Loreto,2025-08-12,9,3566,Auto
+V1481,Francia,24,M,Chan Chan,Lima,2025-01-16,3,1082,Avión
+V1482,Chile,29,M,Caral,Cusco,2025-02-26,10,4400,
+V1483,EEUU,49,M,Cajamarca,Cusco,2025-12-05,7,3922,Auto
+V1484,Argentina,33,M,Amazonas,Cusco,2025-09-09,1,504,Auto
+V1485,Ecuador,25,M,Cajamarca,Loreto,2025-08-09,1,1863,
+V1486,Francia,24,F,Amazonas,Cajamarca,2025-05-23,5,966,Tren
+V1487,Colombia,27,M,Machu Picchu,Cusco,2025-07-24,3,1898,Tren
+V1488,EEUU,24,F,Lago Titicaca,Puno,2025-06-27,3,1930,
+V1489,Perú,23,F,Amazonas,Puno,2025-07-06,3,4231,Auto
+V1490,Brasil,18,M,Chan Chan,Loreto,2025-10-04,7,2148,
+V1491,EEUU,26,F,Machu Picchu,Cajamarca,2025-06-25,2,716,Tren
+V1492,Colombia,57,F,Machu Picchu,Puno,2025-12-21,8,4160,
+V1493,Argentina,55,M,Líneas de Nazca,Lima,2025-05-20,5,2971,Bus
+V1494,Chile,70,M,Amazonas,Cusco,2025-09-01,3,4565,Avión
+V1495,Argentina,60,M,Amazonas,Loreto,2025-05-03,3,3631,Bus
+V1496,Argentina,26,F,,Puno,2025-11-11,8,3636,Avión
+V1497,Francia,18,M,Chan Chan,Cusco,2025-07-10,3,3829,Auto
+V1498,Colombia,35,M,Lago Titicaca,Ica,2025-05-04,1,3290,Tren
+V1499,Francia,26,F,Lago Titicaca,Loreto,2025-02-27,2,1148,Auto
+V1500,Ecuador,46,M,Chan Chan,La Libertad,2025-01-14,8,4743,Bus
+V1501,Brasil,32,M,Cajamarca,Cusco,2025-03-21,6,3041,Auto
+V1502,Ecuador,20,M,Machu Picchu,Ica,2025-06-08,10,3135,Tren
+V1503,Colombia,49,F,Machu Picchu,Ica,2025-09-09,8,521,Avión
+V1504,EEUU,58,F,Machu Picchu,Lima,2025-01-15,3,2136,
+V1505,Ecuador,18,F,Lago Titicaca,Lima,2025-10-21,3,540,Tren
+V1506,España,32,F,Lago Titicaca,Cusco,2025-10-06,5,1354,
+V1507,Perú,54,M,Cajamarca,Loreto,2025-12-14,1,4095,Bus
+V1508,Chile,21,F,Cajamarca,Ica,2025-06-04,9,2855,Tren
+V1509,Ecuador,33,M,Amazonas,Puno,2025-02-04,2,2379,Bus
+V1510,EEUU,37,F,Caral,La Libertad,2025-07-14,6,4178,
+V1511,EEUU,63,F,Caral,Loreto,2025-12-01,5,3355,
+V1512,Perú,28,M,Amazonas,Ica,2025-09-04,2,3144,Auto
+V1513,Chile,47,M,Cajamarca,Cusco,2025-04-17,4,2155,
+V1514,EEUU,38,F,Cajamarca,La Libertad,2025-10-19,4,730,Bus
+V1515,Argentina,63,M,Lago Titicaca,Lima,2025-04-13,8,4100,
+V1516,España,69,M,Caral,Cajamarca,2025-08-05,10,2567,
+V1517,Perú,63,F,Lago Titicaca,La Libertad,2025-02-26,3,2653,Auto
+V1518,Francia,57,M,,Ica,2025-01-24,2,3193,Auto
+V1519,Brasil,42,M,Cajamarca,Puno,2025-01-04,10,1540,Bus
+V1520,Francia,28,M,Caral,Cusco,2025-03-03,3,2976,
+V1521,Brasil,22,M,Machu Picchu,La Libertad,2025-03-28,5,4309,Bus
+V1522,Perú,26,M,Machu Picchu,Loreto,2025-02-09,5,3977,Auto
+V1523,Colombia,20,M,Lago Titicaca,Cajamarca,2025-08-16,1,4428,Tren
+V1524,Brasil,50,M,Chan Chan,Cajamarca,2025-03-17,1,1165,Tren
+V1525,Brasil,56,F,Amazonas,Cusco,2025-12-19,9,945,Bus
+V1526,Argentina,19,F,Líneas de Nazca,Puno,2025-12-12,2,800,Tren
+V1527,Chile,26,M,Chan Chan,Loreto,2025-10-17,1,1423,Auto
+V1528,Colombia,67,M,Líneas de Nazca,Cajamarca,2025-10-24,2,4176,
+V1529,Francia,29,F,Lago Titicaca,Cajamarca,2025-06-27,7,3996,Tren
+V1530,EEUU,23,F,Cajamarca,Cusco,2025-02-25,5,1398,
+V1531,Perú,36,M,Chan Chan,Cajamarca,2025-08-10,9,336,Bus
+V1532,Francia,59,M,Caral,La Libertad,2025-02-19,4,656,Auto
+V1533,Brasil,26,F,Cajamarca,Cajamarca,2025-03-19,9,2498,Avión
+V1534,Brasil,65,F,Lago Titicaca,La Libertad,2025-05-17,8,647,Auto
+V1535,Francia,59,M,Cajamarca,Puno,2025-04-06,6,1908,Avión
+V1536,Chile,40,F,Líneas de Nazca,Cajamarca,2025-12-23,10,3204,Auto
+V1537,EEUU,67,F,Caral,La Libertad,2025-03-25,9,1382,Bus
+V1538,Chile,40,F,Líneas de Nazca,Cusco,2025-09-04,9,4290,Auto
+V1539,Brasil,33,F,Amazonas,Lima,2025-11-13,5,806,
+V1540,Francia,47,M,,Cajamarca,2025-10-02,1,594,
+V1541,Colombia,18,F,Amazonas,Cusco,2025-01-16,3,3381,Bus
+V1542,Ecuador,36,M,Caral,Cusco,2025-05-01,10,2369,Auto
+V1543,Ecuador,47,F,Líneas de Nazca,Loreto,2025-05-14,10,2719,Tren
+V1544,Colombia,49,F,Amazonas,Ica,2025-07-22,10,2689,Tren
+V1545,Perú,32,M,Chan Chan,Lima,2025-07-20,1,3475,Auto
+V1546,Chile,45,F,Lago Titicaca,Lima,2025-04-06,3,1306,Auto
+V1547,EEUU,57,F,Líneas de Nazca,Cajamarca,2025-04-19,7,1475,Tren
+V1548,Francia,29,M,Machu Picchu,La Libertad,2025-06-21,10,4599,Bus
+V1549,Colombia,37,F,Líneas de Nazca,Cusco,2025-05-26,1,4455,Tren
+V1550,Brasil,29,M,Chan Chan,La Libertad,2025-04-24,9,3059,Avión
+V1551,Chile,25,M,Caral,Cajamarca,2025-02-05,3,2220,Tren
+V1552,Argentina,59,M,Lago Titicaca,Lima,2025-09-04,7,1453,Bus
+V1553,Argentina,19,F,Líneas de Nazca,Lima,2025-03-12,7,2677,Avión
+V1554,Ecuador,67,M,Líneas de Nazca,Puno,2025-08-03,9,3569,Avión
+V1555,Francia,65,M,Amazonas,La Libertad,2025-02-05,7,4363,
+V1556,España,23,F,Machu Picchu,Lima,2025-03-20,9,1202,Tren
+V1557,Francia,65,F,Chan Chan,La Libertad,2025-07-04,6,3383,Auto
+V1558,Colombia,46,M,Líneas de Nazca,Puno,2025-08-02,6,1254,Tren
+V1559,Ecuador,27,F,Cajamarca,Cajamarca,2025-02-07,3,4037,Tren
+V1560,Argentina,65,F,Lago Titicaca,Ica,2025-01-25,6,3020,Bus
+V1561,Francia,23,F,Chan Chan,Cusco,2025-08-20,2,2826,
+V1562,Perú,65,F,Machu Picchu,Puno,2025-07-05,5,2145,Tren
+V1563,Ecuador,30,M,Caral,La Libertad,2025-09-28,6,1963,Avión
+V1564,España,67,F,Amazonas,Lima,2025-12-05,1,4866,Bus
+V1565,Perú,25,M,Caral,Puno,2025-08-04,2,1640,Auto
+V1566,EEUU,57,M,Lago Titicaca,Puno,2025-02-01,3,3804,Auto
+V1567,Francia,56,M,Líneas de Nazca,Loreto,2025-11-27,2,1152,Avión
+V1568,España,19,M,Líneas de Nazca,Cusco,2025-08-06,8,4488,Auto
+V1569,España,66,M,Machu Picchu,Puno,2025-07-23,6,1623,Auto
+V1570,EEUU,60,F,Machu Picchu,Loreto,2025-12-04,1,4812,Tren
+V1571,Perú,64,M,Lago Titicaca,Puno,2025-07-22,9,3777,Auto
+V1572,Brasil,29,M,Líneas de Nazca,Loreto,2025-03-04,9,685,Tren
+V1573,EEUU,42,F,Machu Picchu,La Libertad,2025-04-21,7,951,
+V1574,Perú,44,M,Amazonas,Cajamarca,2025-06-12,1,4655,Tren
+V1575,Perú,37,M,Líneas de Nazca,Cajamarca,2025-08-03,9,2918,Bus
+V1576,España,67,M,Amazonas,Cajamarca,2025-05-05,6,3772,Auto
+V1577,Ecuador,54,M,Chan Chan,Cajamarca,2025-05-08,7,2595,Auto
+V1578,Perú,20,M,Lago Titicaca,Ica,2025-10-10,9,1666,Bus
+V1579,Argentina,65,M,Líneas de Nazca,Cusco,2025-08-28,1,632,Tren
+V1580,Chile,67,F,Machu Picchu,Cusco,2025-11-15,2,2902,Auto
+V1581,Ecuador,57,M,Líneas de Nazca,Cajamarca,2025-03-02,8,1564,Avión
+V1582,Francia,23,F,Amazonas,Puno,2025-07-03,4,3990,
+V1583,Chile,70,M,Lago Titicaca,Puno,2025-12-13,8,1406,Tren
+V1584,EEUU,40,F,Lago Titicaca,Loreto,2025-02-05,1,1216,Tren
+V1585,Colombia,35,M,Cajamarca,Loreto,2025-01-04,5,4418,Avión
+V1586,Brasil,59,M,Machu Picchu,Ica,2025-05-03,4,2883,Auto
+V1587,Argentina,67,M,Lago Titicaca,Cusco,2025-01-01,7,679,Tren
+V1588,Francia,46,M,Líneas de Nazca,Loreto,2025-04-07,7,2739,Auto
+V1589,Perú,56,M,Lago Titicaca,La Libertad,2025-04-28,4,927,
+V1590,Colombia,21,M,Líneas de Nazca,Cajamarca,2025-06-12,2,874,Bus
+V1591,Colombia,31,M,Caral,Cusco,2025-05-07,10,2219,Avión
+V1592,Colombia,70,M,Líneas de Nazca,Puno,2025-04-06,4,3005,Tren
+V1593,Ecuador,48,F,Chan Chan,Cusco,2025-11-09,1,2264,Bus
+V1594,Ecuador,25,F,Caral,Cusco,2025-08-26,5,2687,
+V1595,Francia,18,F,Caral,Cajamarca,2025-03-15,6,2232,Bus
+V1596,Brasil,44,M,Líneas de Nazca,Puno,2025-03-27,7,2545,Tren
+V1597,EEUU,33,F,Lago Titicaca,Lima,2025-05-03,9,3083,Tren
+V1598,España,35,M,Chan Chan,Cajamarca,2025-08-22,5,3873,Tren
+V1599,Francia,21,M,Líneas de Nazca,Puno,2025-08-20,6,4573,
+V1600,EEUU,64,M,Chan Chan,La Libertad,2025-05-16,6,4496,Avión
+V1601,Perú,51,M,Líneas de Nazca,Cusco,2025-05-14,8,3569,
+V1602,Brasil,53,M,Amazonas,Cusco,2025-12-17,7,4331,Tren
+V1603,Argentina,41,M,Caral,Loreto,2025-02-01,10,3912,Bus
+V1604,Chile,20,M,Líneas de Nazca,Puno,2025-08-07,7,4046,Avión
+V1605,Chile,18,M,Líneas de Nazca,Cajamarca,2025-09-17,1,1020,Auto
+V1606,Colombia,43,F,Machu Picchu,La Libertad,2025-05-03,8,3367,Bus
+V1607,EEUU,23,F,Líneas de Nazca,Loreto,2025-07-13,10,2519,Bus
+V1608,Colombia,23,F,Chan Chan,Ica,2025-07-06,4,1270,
+V1609,Chile,32,M,Machu Picchu,La Libertad,2025-06-12,3,2431,Bus
+V1610,Ecuador,67,F,Caral,Cusco,2025-05-15,4,3146,Bus
+V1611,Chile,53,F,Líneas de Nazca,Lima,2025-05-01,2,1631,Bus
+V1612,Colombia,39,M,Líneas de Nazca,Puno,2025-02-26,10,2670,Tren
+V1613,España,30,F,Cajamarca,Cusco,2025-04-15,1,1932,Tren
+V1614,España,45,M,Chan Chan,La Libertad,2025-05-17,9,4912,Auto
+V1615,Francia,61,F,Amazonas,Puno,2025-05-03,2,3087,Avión
+V1616,Colombia,34,M,Cajamarca,La Libertad,2025-07-09,9,1847,Tren
+V1617,Chile,49,F,Amazonas,Lima,2025-07-01,3,2143,
+V1618,Colombia,70,M,Cajamarca,La Libertad,2025-11-11,8,1088,Tren
+V1619,Brasil,36,F,Cajamarca,Cajamarca,2025-12-24,8,3907,Auto
+V1620,Brasil,27,M,Líneas de Nazca,Cajamarca,2025-09-07,1,1013,
+V1621,España,44,M,Caral,Lima,2025-12-01,1,2727,Auto
+V1622,España,64,F,Caral,La Libertad,2025-12-06,6,306,
+V1623,EEUU,20,M,Amazonas,La Libertad,2025-02-13,3,2633,Auto
+V1624,Francia,41,F,,Cusco,2025-09-12,5,2178,
+V1625,España,62,M,Caral,Lima,2025-07-08,3,579,Avión
+V1626,Chile,29,M,Cajamarca,Puno,2025-06-23,4,2501,Bus
+V1627,Brasil,37,M,Cajamarca,La Libertad,2025-01-23,8,1389,Bus
+V1628,Colombia,56,F,Chan Chan,Loreto,2025-07-02,3,4581,
+V1629,Brasil,38,M,Amazonas,La Libertad,2025-02-11,5,1431,Tren
+V1630,Chile,35,M,Líneas de Nazca,Cajamarca,2025-11-26,6,3422,
+V1631,EEUU,53,F,Machu Picchu,Puno,2025-10-11,2,684,Auto
+V1632,Chile,45,M,Amazonas,Lima,2025-02-28,4,3286,Auto
+V1633,EEUU,39,M,,Lima,2025-09-08,4,4831,Auto
+V1634,Francia,39,M,Lago Titicaca,Loreto,2025-04-27,8,844,Bus
+V1635,EEUU,38,F,Cajamarca,Ica,2025-11-25,8,2479,Bus
+V1636,Brasil,36,F,Machu Picchu,Lima,2025-02-12,4,2430,Avión
+V1637,EEUU,70,M,Líneas de Nazca,Puno,2025-02-09,5,619,Bus
+V1638,Ecuador,60,M,Amazonas,Loreto,2025-04-24,7,841,Auto
+V1639,Brasil,65,M,Líneas de Nazca,Cusco,2025-03-25,7,3235,Tren
+V1640,Perú,29,M,Caral,La Libertad,2025-08-01,5,1832,Bus
+V1641,Francia,59,M,Lago Titicaca,Loreto,2025-03-27,9,4871,Auto
+V1642,España,24,M,Chan Chan,Cusco,2025-11-02,2,373,Bus
+V1643,Chile,47,M,Cajamarca,Ica,2025-12-23,4,1773,Auto
+V1644,Brasil,62,M,Lago Titicaca,Lima,2025-08-24,1,2246,
+V1645,España,66,M,Líneas de Nazca,Cajamarca,2025-03-13,4,1756,Bus
+V1646,Ecuador,35,M,Cajamarca,Cusco,2025-09-03,9,2810,Bus
+V1647,Perú,31,M,Cajamarca,Cajamarca,2025-01-19,4,3257,Bus
+V1648,Ecuador,58,F,Lago Titicaca,Ica,2025-08-22,2,339,Bus
+V1649,España,27,F,Lago Titicaca,Cusco,2025-08-17,6,1381,Avión
+V1650,Francia,25,F,Machu Picchu,Cajamarca,2025-01-19,2,437,Bus
+V1651,Brasil,49,F,Machu Picchu,Cusco,2025-12-18,3,2376,Auto
+V1652,Chile,38,M,Cajamarca,Lima,2025-03-15,7,2822,Auto
+V1653,España,37,F,Cajamarca,Cajamarca,2025-12-24,6,2804,Auto
+V1654,Colombia,25,F,Líneas de Nazca,Cusco,2025-09-09,4,4883,Tren
+V1655,Perú,70,M,Cajamarca,Lima,2025-06-17,3,3979,Avión
+V1656,Francia,53,F,Caral,Cajamarca,2025-06-16,5,1690,Avión
+V1657,Ecuador,45,F,Lago Titicaca,Ica,2025-05-04,8,4410,Tren
+V1658,Argentina,59,M,Cajamarca,Loreto,2025-12-14,4,1472,Tren
+V1659,Francia,25,F,Cajamarca,Cusco,2025-11-20,1,4923,Avión
+V1660,Ecuador,50,F,,Loreto,2025-10-12,5,869,Auto
+V1661,EEUU,63,F,Cajamarca,Lima,2025-10-09,10,3240,Avión
+V1662,Brasil,41,F,Líneas de Nazca,Loreto,2025-12-13,6,4018,Auto
+V1663,España,59,F,Amazonas,Cajamarca,2025-10-19,7,1520,Bus
+V1664,Ecuador,67,F,Chan Chan,Lima,2025-12-07,6,616,Avión
+V1665,Perú,45,F,Amazonas,Cajamarca,2025-06-25,3,3970,Auto
+V1666,EEUU,58,M,Cajamarca,Cajamarca,2025-02-05,9,1278,
+V1667,Brasil,27,F,Amazonas,Cajamarca,2025-07-16,10,2851,
+V1668,Brasil,40,M,Cajamarca,Cajamarca,2025-01-04,2,4559,Tren
+V1669,EEUU,18,F,Amazonas,Cajamarca,2025-10-06,1,4602,
+V1670,Argentina,52,F,Chan Chan,Cusco,2025-11-27,7,4704,Tren
+V1671,Perú,58,F,Líneas de Nazca,Puno,2025-10-28,10,3418,
+V1672,Colombia,20,M,Caral,La Libertad,2025-01-18,6,818,Auto
+V1673,Argentina,62,F,Machu Picchu,Loreto,2025-05-19,5,1632,
+V1674,España,23,F,Cajamarca,Cajamarca,2025-01-19,5,3765,Bus
+V1675,España,60,M,Chan Chan,Cusco,2025-03-02,2,3400,
+V1676,Chile,64,F,Amazonas,Cajamarca,2025-12-03,7,4084,Tren
+V1677,España,28,M,Amazonas,Cajamarca,2025-11-14,1,404,Bus
+V1678,España,47,F,Caral,Puno,2025-01-20,7,2611,Auto
+V1679,España,28,M,Cajamarca,Cusco,2025-04-04,6,1682,Avión
+V1680,EEUU,49,F,Caral,Lima,2025-07-21,1,2056,Avión
+V1681,España,39,F,Líneas de Nazca,Cajamarca,2025-06-16,3,3729,Tren
+V1682,Chile,41,F,Lago Titicaca,Cusco,2025-07-23,3,1380,
+V1683,Colombia,62,F,Amazonas,Ica,2025-07-27,1,4974,Bus
+V1684,España,43,F,Lago Titicaca,Cusco,2025-10-14,4,4778,Avión
+V1685,Chile,49,F,Chan Chan,Cusco,2025-04-24,2,3158,Tren
+V1686,Brasil,47,F,Caral,Cajamarca,2025-12-02,7,2364,Avión
+V1687,Ecuador,48,F,Chan Chan,Loreto,2025-07-20,7,4349,Bus
+V1688,Argentina,38,M,Cajamarca,Cusco,2025-08-13,4,4471,Auto
+V1689,Ecuador,68,F,Lago Titicaca,Cusco,2025-12-18,7,1372,Tren
+V1690,Chile,34,F,Lago Titicaca,Loreto,2025-03-24,6,3584,Auto
+V1691,Argentina,20,F,Cajamarca,La Libertad,2025-03-12,5,4604,
+V1692,Chile,35,M,Líneas de Nazca,Cajamarca,2025-10-09,7,4927,Tren
+V1693,Chile,54,M,Caral,Puno,2025-11-13,8,2841,Auto
+V1694,Argentina,29,F,Machu Picchu,Cusco,2025-12-18,9,1485,Avión
+V1695,España,44,F,Cajamarca,Ica,2025-10-01,7,4421,Tren
+V1696,Chile,55,M,Machu Picchu,Cusco,2025-10-12,7,598,
+V1697,Chile,22,M,Caral,Ica,2025-07-03,6,3974,
+V1698,España,40,M,Líneas de Nazca,Cusco,2025-03-18,2,1092,Tren
+V1699,España,58,M,,Puno,2025-05-01,2,1027,
+V1700,Argentina,54,M,Cajamarca,Ica,2025-06-01,7,3508,Bus
+V1701,Francia,64,M,Amazonas,Cajamarca,2025-11-19,5,2304,Auto
+V1702,Brasil,49,M,Lago Titicaca,Ica,2025-06-19,4,4083,Avión
+V1703,Ecuador,21,M,Chan Chan,Puno,2025-10-16,6,644,
+V1704,Colombia,27,F,Lago Titicaca,Loreto,2025-09-03,9,980,Tren
+V1705,EEUU,57,M,Amazonas,Cusco,2025-10-21,8,941,
+V1706,España,53,F,Amazonas,La Libertad,2025-11-16,8,1896,Tren
+V1707,Francia,52,M,Amazonas,Ica,2025-10-07,9,2679,
+V1708,Perú,67,M,Lago Titicaca,Cajamarca,2025-08-10,9,1159,Bus
+V1709,Chile,51,M,Amazonas,Cajamarca,2025-05-27,7,3538,Bus
+V1710,Perú,35,F,Machu Picchu,Loreto,2025-06-03,5,1532,Tren
+V1711,EEUU,57,M,Cajamarca,Lima,2025-01-01,10,3260,Tren
+V1712,Ecuador,57,M,Lago Titicaca,Ica,2025-03-08,10,1565,Bus
+V1713,Francia,27,F,Machu Picchu,Cajamarca,2025-08-06,4,4401,Avión
+V1714,Colombia,47,M,,La Libertad,2025-03-11,7,4213,Auto
+V1715,España,46,M,Líneas de Nazca,La Libertad,2025-01-19,2,3687,
+V1716,Perú,59,F,Machu Picchu,Ica,2025-04-09,6,1002,Avión
+V1717,Brasil,22,F,Chan Chan,Cajamarca,2025-10-18,9,669,Tren
+V1718,Ecuador,29,M,Lago Titicaca,Cusco,2025-11-24,2,4566,Auto
+V1719,Perú,49,F,Chan Chan,Ica,2025-09-20,1,727,
+V1720,Ecuador,62,M,Cajamarca,Loreto,2025-08-28,8,4298,
+V1721,Ecuador,60,M,Machu Picchu,Ica,2025-07-03,6,3663,Bus
+V1722,EEUU,63,F,Amazonas,Cusco,2025-01-21,5,2106,Avión
+V1723,EEUU,40,M,Chan Chan,Loreto,2025-09-28,5,3382,Avión
+V1724,Chile,41,M,Lago Titicaca,La Libertad,2025-12-01,4,900,
+V1725,Argentina,20,F,Machu Picchu,Loreto,2025-10-02,9,1651,Bus
+V1726,Argentina,56,F,Lago Titicaca,Cajamarca,2025-11-19,3,2419,
+V1727,Brasil,45,F,Lago Titicaca,Cajamarca,2025-08-27,1,762,Avión
+V1728,Argentina,31,F,Cajamarca,Ica,2025-08-18,8,4425,Avión
+V1729,Brasil,52,F,Chan Chan,Cusco,2025-12-10,4,4580,
+V1730,Argentina,37,F,Caral,Lima,2025-01-23,4,507,Bus
+V1731,Brasil,43,M,Caral,Cajamarca,2025-03-17,6,1080,Auto
+V1732,Perú,62,F,Líneas de Nazca,Ica,2025-06-27,1,1658,Avión
+V1733,Argentina,69,M,Lago Titicaca,Puno,2025-04-21,10,4712,Bus
+V1734,Argentina,47,M,Caral,Cajamarca,2025-12-02,2,4790,Tren
+V1735,España,19,M,Machu Picchu,Cusco,2025-11-08,5,561,Avión
+V1736,Chile,55,F,Chan Chan,Cusco,2025-12-11,5,914,Avión
+V1737,Perú,31,F,Chan Chan,Puno,2025-03-21,10,2598,Auto
+V1738,EEUU,52,M,Lago Titicaca,La Libertad,2025-10-13,6,3052,Auto
+V1739,España,43,F,Caral,La Libertad,2025-09-01,2,1841,
+V1740,Argentina,18,F,Chan Chan,Cusco,2025-04-11,9,4064,
+V1741,Ecuador,31,F,Amazonas,Cusco,2025-05-23,8,1057,Avión
+V1742,EEUU,66,F,Cajamarca,Cajamarca,2025-10-01,7,3181,Auto
+V1743,Colombia,30,F,Cajamarca,Ica,2025-04-04,8,3246,Tren
+V1744,Chile,63,M,Cajamarca,Lima,2025-03-02,6,4252,Auto
+V1745,España,24,M,Chan Chan,Cusco,2025-05-28,6,2932,Tren
+V1746,Argentina,30,M,Amazonas,Puno,2025-06-01,5,3223,
+V1747,Perú,22,F,Cajamarca,Cajamarca,2025-12-04,1,712,
+V1748,Colombia,27,F,Caral,Lima,2025-06-17,10,2974,
+V1749,Perú,60,M,Líneas de Nazca,Lima,2025-03-16,7,3127,
+V1750,Francia,68,F,Líneas de Nazca,Cajamarca,2025-08-27,7,538,Auto
+V1751,Ecuador,18,M,Machu Picchu,Cusco,2025-08-01,9,1140,Bus
+V1752,Ecuador,69,F,Amazonas,Cajamarca,2025-07-26,6,4494,Avión
+V1753,Francia,40,F,Lago Titicaca,Loreto,2025-01-17,10,4708,Bus
+V1754,Colombia,38,M,Lago Titicaca,La Libertad,2025-07-23,3,2443,
+V1755,Francia,29,F,Líneas de Nazca,Lima,2025-05-25,5,517,Auto
+V1756,Ecuador,40,M,Lago Titicaca,Cusco,2025-05-23,8,1735,
+V1757,Argentina,67,M,Amazonas,Loreto,2025-12-15,10,4586,Tren
+V1758,Chile,27,M,Lago Titicaca,Puno,2025-07-16,4,933,Tren
+V1759,España,33,F,Machu Picchu,Cajamarca,2025-04-21,4,1883,
+V1760,EEUU,23,M,Líneas de Nazca,Loreto,2025-05-16,7,4953,Avión
+V1761,EEUU,41,M,Machu Picchu,La Libertad,2025-10-10,9,3158,Auto
+V1762,Francia,48,M,Chan Chan,Puno,2025-09-04,3,1556,
+V1763,Argentina,31,M,Machu Picchu,La Libertad,2025-03-20,10,4519,Tren
+V1764,Argentina,46,F,Chan Chan,Puno,2025-07-13,6,1066,Auto
+V1765,Argentina,60,F,Líneas de Nazca,Cajamarca,2025-06-01,8,4699,
+V1766,España,41,M,Chan Chan,Cajamarca,2025-08-27,7,1960,
+V1767,EEUU,65,F,Líneas de Nazca,Ica,2025-10-19,7,3737,
+V1768,Argentina,30,F,Chan Chan,Puno,2025-12-26,9,2404,Avión
+V1769,Colombia,54,F,Machu Picchu,La Libertad,2025-03-19,5,2427,Avión
+V1770,Brasil,70,F,Machu Picchu,Loreto,2025-02-02,3,2725,
+V1771,Perú,53,F,Cajamarca,Cajamarca,2025-11-05,6,3788,Auto
+V1772,EEUU,53,F,Amazonas,Cusco,2025-05-10,8,590,Tren
+V1773,EEUU,35,M,Machu Picchu,Loreto,2025-09-20,5,1758,
+V1774,Francia,21,F,Lago Titicaca,Cajamarca,2025-11-06,3,481,Auto
+V1775,Chile,45,M,Amazonas,La Libertad,2025-07-26,6,4100,Auto
+V1776,Francia,63,M,Lago Titicaca,Cajamarca,2025-08-01,4,3585,Tren
+V1777,Perú,47,M,Chan Chan,Loreto,2025-01-02,8,1449,Bus
+V1778,España,53,F,Machu Picchu,La Libertad,2025-12-06,4,3299,Auto
+V1779,Colombia,33,F,Líneas de Nazca,Cusco,2025-05-16,1,1690,Tren
+V1780,Ecuador,48,M,Líneas de Nazca,Ica,2025-06-09,10,4678,Avión
+V1781,Brasil,66,F,Caral,Cajamarca,2025-12-06,3,767,Bus
+V1782,Perú,19,F,Machu Picchu,Ica,2025-01-16,6,3619,
+V1783,Ecuador,62,M,Caral,La Libertad,2025-04-15,1,3461,Auto
+V1784,Francia,19,M,Líneas de Nazca,Loreto,2025-09-28,9,1029,Bus
+V1785,Chile,23,M,Caral,Puno,2025-11-11,10,3885,Auto
+V1786,Ecuador,70,F,Amazonas,Lima,2025-01-19,8,3328,
+V1787,España,26,F,Cajamarca,Lima,2025-11-22,5,3849,Bus
+V1788,Ecuador,47,M,Líneas de Nazca,Cusco,2025-12-03,8,2757,Bus
+V1789,Argentina,39,M,Machu Picchu,Ica,2025-01-26,7,738,
+V1790,Brasil,41,M,,Lima,2025-08-20,2,4489,Tren
+V1791,Argentina,42,M,Cajamarca,La Libertad,2025-11-19,9,2199,Bus
+V1792,Ecuador,46,F,Lago Titicaca,La Libertad,2025-06-13,5,3258,Avión
+V1793,Perú,69,M,,Loreto,2025-01-04,3,1066,Avión
+V1794,España,54,M,Machu Picchu,Loreto,2025-06-26,2,3624,
+V1795,Perú,57,M,Líneas de Nazca,Ica,2025-06-09,9,3207,
+V1796,España,46,M,,Ica,2025-10-28,4,4646,Bus
+V1797,Chile,39,F,Lago Titicaca,Cusco,2025-11-28,2,2603,Bus
+V1798,EEUU,68,F,Machu Picchu,Ica,2025-09-02,9,2428,Auto
+V1799,EEUU,49,M,Chan Chan,Loreto,2025-01-24,8,1765,Auto
+V1800,Colombia,52,M,Machu Picchu,Cusco,2025-05-26,7,4310,Avión
+V1801,Francia,50,F,Líneas de Nazca,Cusco,2025-02-10,9,4929,Auto
+V1802,Brasil,58,F,Lago Titicaca,Cajamarca,2025-02-25,9,1120,Auto
+V1803,Brasil,29,F,Amazonas,Lima,2025-09-24,7,2956,Avión
+V1804,Francia,64,F,Lago Titicaca,La Libertad,2025-04-14,2,1754,Tren
+V1805,Chile,50,F,Machu Picchu,Ica,2025-04-20,6,3644,Tren
+V1806,Francia,28,M,Amazonas,Loreto,2025-05-26,9,1457,Bus
+V1807,Colombia,45,M,Caral,La Libertad,2025-07-26,1,1314,Avión
+V1808,Ecuador,39,M,Chan Chan,Cajamarca,2025-05-25,6,4415,Bus
+V1809,Chile,45,M,,Cusco,2025-11-23,10,1549,Auto
+V1810,Ecuador,52,M,Machu Picchu,Cusco,2025-02-11,4,3986,
+V1811,Francia,33,F,Chan Chan,Cajamarca,2025-01-14,10,4502,Avión
+V1812,EEUU,67,M,Líneas de Nazca,Loreto,2025-02-14,7,4455,Bus
+V1813,EEUU,68,F,Cajamarca,Puno,2025-10-20,2,3452,Avión
+V1814,Chile,67,M,Amazonas,Ica,2025-02-28,4,4726,Tren
+V1815,Francia,32,M,Caral,Cusco,2025-08-01,6,3643,
+V1816,Argentina,63,F,Líneas de Nazca,Ica,2025-10-05,4,3145,
+V1817,España,39,M,Cajamarca,La Libertad,2025-06-17,7,435,Avión
+V1818,Brasil,23,M,Líneas de Nazca,Loreto,2025-05-22,10,3295,Bus
+V1819,Argentina,24,M,,Cajamarca,2025-01-13,4,1546,Auto
+V1820,Ecuador,41,F,Líneas de Nazca,Cajamarca,2025-02-09,7,4637,Avión
+V1821,Ecuador,58,F,Amazonas,Lima,2025-06-14,4,2877,Auto
+V1822,Francia,25,M,Amazonas,Loreto,2025-10-07,7,3459,
+V1823,Chile,22,F,Amazonas,Cajamarca,2025-09-16,10,860,Auto
+V1824,España,44,M,Amazonas,La Libertad,2025-02-03,1,3664,Avión
+V1825,Argentina,70,F,Amazonas,Cusco,2025-11-09,3,2551,
+V1826,Ecuador,27,M,Amazonas,Puno,2025-02-23,2,2516,Avión
+V1827,España,62,F,Cajamarca,Cajamarca,2025-12-24,7,849,Avión
+V1828,EEUU,33,F,Chan Chan,La Libertad,2025-04-18,6,1685,Avión
+V1829,España,31,M,Machu Picchu,Cajamarca,2025-01-17,1,924,
+V1830,España,69,F,Cajamarca,Ica,2025-06-19,1,562,
+V1831,Brasil,27,M,Machu Picchu,Ica,2025-10-16,4,3671,Tren
+V1832,Chile,49,M,Caral,Cajamarca,2025-05-09,8,564,Avión
+V1833,Argentina,70,F,Cajamarca,Cusco,2025-06-06,3,2375,Auto
+V1834,Colombia,33,F,Machu Picchu,Cusco,2025-02-06,6,3453,Tren
+V1835,Ecuador,18,M,Caral,La Libertad,2025-07-06,1,1111,Bus
+V1836,Argentina,63,F,Lago Titicaca,Puno,2025-03-03,1,4833,Tren
+V1837,Perú,63,M,Caral,Loreto,2025-01-05,9,2378,Bus
+V1838,Chile,38,M,Lago Titicaca,Ica,2025-07-12,6,1465,
+V1839,Colombia,50,F,Caral,Lima,2025-07-16,4,3972,Bus
+V1840,EEUU,60,F,Cajamarca,Puno,2025-11-05,4,4532,Auto
+V1841,Brasil,56,M,Caral,Cusco,2025-05-07,2,3591,Tren
+V1842,Perú,61,F,Chan Chan,Cusco,2025-06-01,7,2486,Auto
+V1843,Chile,34,M,Amazonas,La Libertad,2025-02-23,9,2613,Tren
+V1844,Ecuador,43,F,Cajamarca,Loreto,2025-12-28,9,3283,
+V1845,EEUU,35,F,Líneas de Nazca,Ica,2025-12-03,3,3391,Auto
+V1846,Argentina,47,F,Chan Chan,Cusco,2025-04-14,7,4844,Avión
+V1847,Chile,51,M,Lago Titicaca,Ica,2025-01-21,1,3903,Bus
+V1848,Argentina,37,M,Caral,Ica,2025-01-10,3,3189,Avión
+V1849,Perú,24,F,Cajamarca,Cusco,2025-01-16,1,776,Bus
+V1850,Argentina,56,F,Lago Titicaca,Ica,2025-11-08,8,502,Auto
+V1851,Francia,42,F,Cajamarca,Lima,2025-07-05,10,2874,Auto
+V1852,Perú,39,M,Caral,Ica,2025-06-10,10,377,Tren
+V1853,Chile,48,F,Chan Chan,Puno,2025-07-09,9,650,Avión
+V1854,Chile,46,M,Machu Picchu,Cusco,2025-02-11,2,738,Tren
+V1855,Chile,61,M,Machu Picchu,Ica,2025-04-27,2,682,Tren
+V1856,Ecuador,28,F,,Cusco,2025-01-22,7,2305,Auto
+V1857,Colombia,46,M,Líneas de Nazca,Ica,2025-04-02,2,4913,Avión
+V1858,Brasil,62,F,Líneas de Nazca,Ica,2025-11-20,4,314,Bus
+V1859,Chile,60,F,Caral,Puno,2025-08-18,4,3683,
+V1860,Chile,32,M,Caral,Loreto,2025-09-07,3,2831,Tren
+V1861,Argentina,54,M,Cajamarca,La Libertad,2025-06-21,5,3798,Avión
+V1862,Argentina,69,F,Cajamarca,La Libertad,2025-07-02,8,606,
+V1863,Chile,59,M,Cajamarca,La Libertad,2025-01-28,1,4382,
+V1864,Argentina,68,F,Chan Chan,Cajamarca,2025-06-28,5,3404,Auto
+V1865,Francia,56,M,Amazonas,Cajamarca,2025-02-24,8,393,Tren
+V1866,Francia,56,F,Chan Chan,Puno,2025-12-22,6,1172,Tren
+V1867,Colombia,64,M,Cajamarca,Puno,2025-06-27,7,3484,
+V1868,Colombia,39,M,Líneas de Nazca,Cajamarca,2025-02-23,8,3273,
+V1869,Ecuador,42,F,Lago Titicaca,La Libertad,2025-11-20,6,371,Auto
+V1870,Perú,23,F,Chan Chan,La Libertad,2025-10-05,9,1492,
+V1871,Perú,44,M,Machu Picchu,Lima,2025-08-23,2,1395,Tren
+V1872,EEUU,22,M,Líneas de Nazca,Puno,2025-08-21,3,920,
+V1873,Perú,26,M,Chan Chan,Lima,2025-08-26,5,3389,Avión
+V1874,Ecuador,52,M,Caral,Lima,2025-05-06,9,3370,Avión
+V1875,Francia,69,M,Cajamarca,Lima,2025-01-17,1,3017,Auto
+V1876,Perú,65,M,Caral,Loreto,2025-08-01,6,3178,Avión
+V1877,Argentina,19,M,Machu Picchu,Loreto,2025-08-23,7,1823,Avión
+V1878,Colombia,54,F,Líneas de Nazca,Cusco,2025-09-03,8,2133,
+V1879,Ecuador,30,F,Cajamarca,Puno,2025-12-24,7,3309,Tren
+V1880,Chile,25,F,Líneas de Nazca,Ica,2025-10-14,8,3195,Avión
+V1881,Perú,70,F,Machu Picchu,Cajamarca,2025-10-21,7,4054,Bus
+V1882,Perú,39,F,Machu Picchu,Cusco,2025-09-23,3,4812,
+V1883,Brasil,35,M,,Cusco,2025-07-10,10,3688,Auto
+V1884,Argentina,27,M,Cajamarca,Puno,2025-10-20,1,4735,Bus
+V1885,Argentina,47,F,Lago Titicaca,Cajamarca,2025-02-06,6,3809,
+V1886,España,28,M,Líneas de Nazca,Ica,2025-04-24,5,3395,
+V1887,Chile,41,M,Machu Picchu,Ica,2025-05-02,9,4893,Avión
+V1888,España,24,F,Amazonas,Ica,2025-03-05,3,324,Tren
+V1889,Colombia,25,M,Amazonas,Ica,2025-02-02,8,4176,
+V1890,Ecuador,46,M,Caral,Loreto,2025-10-23,9,3061,Tren
+V1891,Perú,54,M,Cajamarca,Lima,2025-10-21,6,1832,Avión
+V1892,España,39,F,Lago Titicaca,Lima,2025-07-12,5,3676,Auto
+V1893,España,50,M,Cajamarca,Ica,2025-09-22,10,4937,Avión
+V1894,Argentina,19,F,Amazonas,Lima,2025-02-23,7,3719,Auto
+V1895,Ecuador,32,F,Amazonas,Cajamarca,2025-10-26,4,1241,Auto
+V1896,Perú,68,M,Lago Titicaca,Cajamarca,2025-04-04,5,3595,
+V1897,EEUU,55,M,Chan Chan,Ica,2025-07-01,7,3780,Avión
+V1898,EEUU,48,F,Líneas de Nazca,Puno,2025-12-28,1,4830,Bus
+V1899,Argentina,19,M,Cajamarca,La Libertad,2025-01-08,5,1027,Tren
+V1900,EEUU,68,F,Lago Titicaca,La Libertad,2025-12-28,8,4798,Auto
+V1901,Chile,59,M,Machu Picchu,Cusco,2025-09-21,5,2093,Tren
+V1902,Ecuador,39,F,Machu Picchu,Loreto,2025-08-19,5,3119,Bus
+V1903,Argentina,54,M,Lago Titicaca,La Libertad,2025-09-27,3,2134,Avión
+V1904,Colombia,26,F,Cajamarca,La Libertad,2025-06-22,10,1737,Auto
+V1905,Francia,43,M,Lago Titicaca,Lima,2025-12-25,2,3156,Bus
+V1906,Colombia,59,M,Lago Titicaca,La Libertad,2025-04-14,2,3919,Tren
+V1907,Brasil,55,F,Chan Chan,La Libertad,2025-06-27,3,4890,
+V1908,Colombia,63,M,Amazonas,Lima,2025-08-06,10,1392,Avión
+V1909,Chile,62,F,Lago Titicaca,Cajamarca,2025-06-27,8,4823,Auto
+V1910,Francia,23,F,Lago Titicaca,Ica,2025-03-07,9,474,
+V1911,Chile,26,F,Chan Chan,Cusco,2025-06-14,9,2415,Avión
+V1912,EEUU,56,M,Amazonas,Puno,2025-05-28,2,1351,Avión
+V1913,Ecuador,36,F,Caral,Lima,2025-06-27,10,3475,Avión
+V1914,EEUU,53,F,Líneas de Nazca,Puno,2025-12-22,5,2302,Auto
+V1915,Colombia,57,F,,Ica,2025-11-14,9,2865,
+V1916,España,51,M,Amazonas,Puno,2025-09-25,6,345,Avión
+V1917,Francia,51,F,Amazonas,La Libertad,2025-05-19,6,943,
+V1918,Colombia,27,F,Caral,Lima,2025-03-17,6,1286,Auto
+V1919,EEUU,26,M,Caral,Puno,2025-12-26,3,3152,Auto
+V1920,Perú,35,F,Lago Titicaca,Cajamarca,2025-10-12,1,2682,Tren
+V1921,Colombia,33,F,Machu Picchu,Cusco,2025-11-06,3,1702,
+V1922,Perú,41,M,Líneas de Nazca,Loreto,2025-03-19,7,4346,Auto
+V1923,Argentina,58,F,Caral,Loreto,2025-09-05,10,1686,Avión
+V1924,Argentina,59,F,Lago Titicaca,Cusco,2025-02-14,8,2613,
+V1925,Colombia,43,F,Líneas de Nazca,Cusco,2025-02-15,6,2284,Bus
+V1926,Perú,55,F,Machu Picchu,Puno,2025-03-19,5,1014,Tren
+V1927,Colombia,49,F,Líneas de Nazca,Lima,2025-09-13,3,380,Tren
+V1928,Brasil,60,F,Amazonas,Cajamarca,2025-01-02,5,4655,Tren
+V1929,Brasil,50,F,Cajamarca,Lima,2025-12-20,6,3633,Avión
+V1930,Perú,47,F,Amazonas,Loreto,2025-06-13,7,4216,Auto
+V1931,Colombia,37,M,Cajamarca,La Libertad,2025-12-18,7,4630,Bus
+V1932,Brasil,49,F,Amazonas,Cajamarca,2025-06-12,9,2139,Avión
+V1933,Colombia,43,M,Líneas de Nazca,Cajamarca,2025-08-01,9,357,Bus
+V1934,Francia,40,M,,La Libertad,2025-11-15,6,4647,Tren
+V1935,España,54,M,,Cajamarca,2025-04-02,2,4768,Avión
+V1936,Argentina,31,M,Líneas de Nazca,Puno,2025-09-19,8,1113,Avión
+V1937,Argentina,70,M,Amazonas,Puno,2025-10-03,8,737,
+V1938,Ecuador,40,F,Cajamarca,Puno,2025-09-09,6,3841,Auto
+V1939,Brasil,63,M,Cajamarca,Puno,2025-03-17,5,2379,Avión
+V1940,Brasil,48,M,Machu Picchu,Cusco,2025-03-04,3,988,Auto
+V1941,Francia,26,M,Líneas de Nazca,Puno,2025-03-07,8,4706,Avión
+V1942,Brasil,23,F,Machu Picchu,Cusco,2025-02-01,5,4508,
+V1943,Colombia,42,F,Lago Titicaca,Cusco,2025-08-23,7,4884,Avión
+V1944,Francia,51,F,Líneas de Nazca,Cusco,2025-03-03,2,621,Bus
+V1945,Argentina,36,M,Lago Titicaca,La Libertad,2025-05-18,6,4604,Avión
+V1946,Colombia,37,F,Caral,Cajamarca,2025-07-08,7,1137,Tren
+V1947,Brasil,40,M,Amazonas,Lima,2025-10-19,2,3281,
+V1948,Chile,42,F,Chan Chan,La Libertad,2025-12-28,6,2388,Bus
+V1949,Ecuador,42,M,Chan Chan,Puno,2025-11-20,1,442,Auto
+V1950,Francia,49,F,Machu Picchu,Loreto,2025-08-23,3,1149,
+V1951,Chile,30,M,Líneas de Nazca,Ica,2025-12-03,9,4635,Auto
+V1952,Ecuador,26,F,,Lima,2025-05-25,8,1975,Bus
+V1953,Chile,24,F,Caral,Cajamarca,2025-09-19,2,2325,Avión
+V1954,Perú,26,M,Caral,Loreto,2025-11-26,9,3266,
+V1955,Argentina,39,M,Amazonas,Ica,2025-04-28,2,2121,Auto
+V1956,Brasil,41,M,Chan Chan,Cajamarca,2025-05-02,9,3041,
+V1957,Ecuador,61,M,Chan Chan,Lima,2025-02-25,9,2247,Tren
+V1958,Argentina,45,M,Amazonas,Puno,2025-09-15,9,4871,
+V1959,Colombia,35,F,Lago Titicaca,Puno,2025-11-06,1,4053,Bus
+V1960,Ecuador,27,M,Lago Titicaca,Ica,2025-05-20,7,1003,Auto
+V1961,Perú,46,M,,Cusco,2025-01-10,3,1739,Auto
+V1962,Ecuador,41,F,Cajamarca,Cajamarca,2025-09-23,7,1603,
+V1963,Argentina,38,F,Chan Chan,Ica,2025-07-22,10,625,Tren
+V1964,Ecuador,67,M,Amazonas,Loreto,2025-11-04,3,4076,Auto
+V1965,Argentina,51,F,Cajamarca,Puno,2025-05-15,9,1621,Tren
+V1966,Perú,51,F,Amazonas,Cajamarca,2025-12-24,4,2892,Auto
+V1967,España,31,M,Machu Picchu,Cusco,2025-08-01,4,2380,Tren
+V1968,España,68,F,Machu Picchu,Cusco,2025-04-26,3,3655,
+V1969,Perú,66,F,Chan Chan,La Libertad,2025-03-25,5,1016,Tren
+V1970,Argentina,53,F,,Cusco,2025-08-18,6,856,
+V1971,Argentina,61,M,Caral,Cusco,2025-04-07,8,2356,Avión
+V1972,Colombia,54,M,Machu Picchu,Ica,2025-02-15,4,3643,Avión
+V1973,España,27,F,Caral,Lima,2025-07-12,2,1924,Avión
+V1974,Colombia,68,F,Lago Titicaca,Puno,2025-04-10,4,3784,Tren
+V1975,Chile,52,M,Líneas de Nazca,La Libertad,2025-03-28,3,1808,Bus
+V1976,Ecuador,70,F,Amazonas,La Libertad,2025-07-27,9,3970,Bus
+V1977,Argentina,34,M,Lago Titicaca,Lima,2025-06-01,7,2824,Auto
+V1978,Chile,62,F,Lago Titicaca,Loreto,2025-09-17,7,2027,
+V1979,Ecuador,58,M,Machu Picchu,Cajamarca,2025-12-02,4,4877,Tren
+V1980,Francia,48,M,Líneas de Nazca,Lima,2025-07-09,10,4065,Bus
+V1981,España,69,F,Cajamarca,Ica,2025-02-07,1,2388,Bus
+V1982,Ecuador,45,F,Caral,Puno,2025-07-20,7,3483,Avión
+V1983,Brasil,49,F,Líneas de Nazca,Ica,2025-07-24,3,2085,
+V1984,Francia,22,F,Machu Picchu,Ica,2025-01-07,6,1446,
+V1985,Perú,31,F,Amazonas,Puno,2025-10-11,4,4368,Auto
+V1986,Francia,20,F,Machu Picchu,Lima,2025-04-06,8,4239,Avión
+V1987,Ecuador,65,F,Líneas de Nazca,Puno,2025-01-09,6,4613,
+V1988,Chile,53,F,Amazonas,Loreto,2025-12-19,6,3926,
+V1989,Argentina,51,F,Machu Picchu,Loreto,2025-01-18,6,1241,Avión
+V1990,Ecuador,55,F,Caral,Lima,2025-05-01,2,1299,Auto
+V1991,Francia,47,F,Líneas de Nazca,Puno,2025-09-23,1,2808,
+V1992,España,66,F,Cajamarca,Cajamarca,2025-07-01,3,3108,Bus
+V1993,EEUU,32,F,Lago Titicaca,La Libertad,2025-11-08,4,2828,Auto
+V1994,Francia,24,M,Machu Picchu,Loreto,2025-11-12,6,451,Tren
+V1995,Brasil,24,F,Machu Picchu,La Libertad,2025-02-03,1,1863,
+V1996,Chile,46,F,Lago Titicaca,Puno,2025-12-15,4,3699,Auto
+V1997,EEUU,69,M,Lago Titicaca,Loreto,2025-05-16,4,4740,Tren
+V1998,Ecuador,68,F,Machu Picchu,Cajamarca,2025-10-19,2,4157,Bus
+V1999,Colombia,55,M,Caral,Lima,2025-02-26,10,766,Bus
+V2000,Francia,67,F,Líneas de Nazca,Loreto,2025-11-04,9,603,
+V2001,Brasil,31,F,Líneas de Nazca,Ica,2025-12-18,9,2598,Auto
+V2002,Ecuador,37,M,Cajamarca,Loreto,2025-04-02,5,2133,
+V2003,EEUU,18,F,Lago Titicaca,Puno,2025-02-26,7,4983,Bus
+V2004,Francia,24,M,,Ica,2025-11-06,2,4688,Avión
+V2005,Francia,42,F,Lago Titicaca,Puno,2025-07-02,5,1344,
+V2006,Ecuador,42,M,Machu Picchu,Cajamarca,2025-01-21,10,4757,Bus
+V2007,España,54,F,Amazonas,Loreto,2025-03-17,2,311,Bus
+V2008,EEUU,62,F,Chan Chan,La Libertad,2025-01-20,1,2794,Avión
+V2009,España,25,F,Lago Titicaca,Ica,2025-05-24,1,4688,Avión
+V2010,Colombia,28,M,Cajamarca,La Libertad,2025-11-15,10,2793,Auto
+V2011,Francia,22,F,Machu Picchu,Puno,2025-06-04,8,473,
+V2012,EEUU,59,F,Caral,Ica,2025-08-26,10,4975,Tren
+V2013,Francia,64,F,Machu Picchu,Lima,2025-04-01,6,3610,Avión
+V2014,Francia,66,M,Lago Titicaca,Puno,2025-11-10,2,1747,Auto
+V2015,España,49,F,Machu Picchu,Lima,2025-11-14,5,1796,Bus
+V2016,EEUU,45,F,Caral,Lima,2025-10-16,4,4352,Avión
+V2017,Perú,21,M,Amazonas,Puno,2025-11-12,5,2185,Tren
+V2018,Argentina,66,F,Machu Picchu,Puno,2025-11-06,4,1157,Auto
+V2019,Chile,21,M,Caral,Loreto,2025-01-03,3,1279,Bus
+V2020,Brasil,66,M,Cajamarca,Cusco,2025-11-02,6,3885,Avión
+V2021,Francia,21,F,,Cusco,2025-06-07,4,4310,Tren
+V2022,Perú,35,M,Cajamarca,Loreto,2025-02-18,7,3456,Tren
+V2023,Ecuador,36,F,Cajamarca,La Libertad,2025-01-01,6,1988,Auto
+V2024,Colombia,63,F,Machu Picchu,Loreto,2025-08-25,2,1104,Auto
+V2025,España,20,M,Líneas de Nazca,Ica,2025-10-12,3,2577,Tren
+V2026,Colombia,25,M,Machu Picchu,Cusco,2025-12-01,7,796,Avión
+V2027,Chile,44,F,Lago Titicaca,Loreto,2025-06-10,8,2206,Auto
+V2028,Ecuador,69,M,Líneas de Nazca,Loreto,2025-03-10,10,1268,Auto
+V2029,Francia,19,F,Amazonas,Puno,2025-08-07,3,3421,Tren
+V2030,Chile,48,M,Chan Chan,Cusco,2025-01-27,9,3477,
+V2031,EEUU,50,F,Lago Titicaca,Puno,2025-06-27,7,941,
+V2032,Brasil,64,F,Líneas de Nazca,Lima,2025-04-05,8,1031,Auto
+V2033,Ecuador,57,M,Amazonas,Cajamarca,2025-03-26,4,2854,Tren
+V2034,Perú,28,M,Caral,Ica,2025-01-25,2,3590,
+V2035,Argentina,31,F,Amazonas,La Libertad,2025-06-25,9,780,
+V2036,Perú,36,M,Líneas de Nazca,Loreto,2025-09-20,2,3396,Avión
+V2037,Francia,31,M,Caral,Cajamarca,2025-02-20,10,4024,Bus
+V2038,EEUU,60,F,Cajamarca,Ica,2025-08-24,9,3340,Avión
+V2039,Francia,58,M,Líneas de Nazca,Cusco,2025-06-13,9,3658,Avión
+V2040,España,56,F,Amazonas,Lima,2025-10-15,3,3353,Tren
+V2041,Brasil,30,M,Cajamarca,Cusco,2025-10-02,10,3946,Bus
+V2042,Argentina,69,F,Machu Picchu,Cajamarca,2025-10-01,3,2535,Tren
+V2043,Chile,70,F,Amazonas,Loreto,2025-08-04,6,4251,Auto
+V2044,Argentina,30,M,Líneas de Nazca,Ica,2025-03-24,7,4270,
+V2045,Colombia,42,F,Amazonas,Lima,2025-02-22,4,4419,Tren
+V2046,Brasil,29,M,Amazonas,Loreto,2025-12-09,5,3673,Bus
+V2047,Colombia,20,F,Machu Picchu,Puno,2025-10-06,4,1259,Auto
+V2048,Ecuador,59,M,Caral,Cajamarca,2025-10-14,4,2750,Avión
+V2049,Ecuador,56,F,Chan Chan,Lima,2025-10-02,9,588,Auto
+V2050,Brasil,49,M,Líneas de Nazca,Puno,2025-09-07,5,2979,Bus
+V2051,Ecuador,62,F,Lago Titicaca,Cusco,2025-09-21,2,3042,Bus
+V2052,Chile,28,M,Machu Picchu,Cajamarca,2025-09-25,1,1683,Bus
+V2053,Ecuador,43,M,Amazonas,Ica,2025-03-04,9,1946,Avión
+V2054,Ecuador,38,M,Amazonas,Cusco,2025-12-05,5,1197,Auto
+V2055,Francia,59,M,Amazonas,La Libertad,2025-01-26,7,863,
+V2056,EEUU,45,F,Machu Picchu,Lima,2025-01-02,2,3413,
+V2057,Perú,54,F,Machu Picchu,Cajamarca,2025-11-28,6,4746,
+V2058,Perú,51,F,Lago Titicaca,La Libertad,2025-07-25,7,2071,Tren
+V2059,Chile,28,M,Lago Titicaca,Loreto,2025-05-06,7,2002,Avión
+V2060,Perú,66,M,Caral,Puno,2025-02-28,8,2100,Bus
+V2061,Chile,19,M,Machu Picchu,Cusco,2025-04-08,6,1770,Bus
+V2062,Colombia,39,M,Amazonas,Loreto,2025-01-11,2,1134,
+V2063,Chile,22,F,Lago Titicaca,Cusco,2025-01-01,1,2088,Tren
+V2064,Chile,45,M,,Cusco,2025-06-07,10,2138,
+V2065,España,65,F,Lago Titicaca,Lima,2025-12-18,9,2131,Tren
+V2066,Perú,22,F,Chan Chan,Lima,2025-09-06,4,4381,
+V2067,Argentina,68,M,Líneas de Nazca,Ica,2025-08-24,3,3876,Auto
+V2068,EEUU,48,M,Chan Chan,La Libertad,2025-06-18,7,1800,Bus
+V2069,Chile,57,M,Cajamarca,Lima,2025-04-15,3,4759,Bus
+V2070,España,18,M,Cajamarca,Lima,2025-01-03,2,1302,Tren
+V2071,Argentina,28,F,Líneas de Nazca,Cajamarca,2025-11-25,3,3852,Tren
+V2072,Brasil,42,F,Machu Picchu,La Libertad,2025-02-11,7,1049,Tren
+V2073,Francia,53,M,Lago Titicaca,Lima,2025-01-09,8,4293,Bus
+V2074,Francia,57,M,Amazonas,Ica,2025-04-09,8,715,Tren
+V2075,Colombia,46,M,Lago Titicaca,Lima,2025-05-21,6,4829,
+V2076,Argentina,28,F,Amazonas,Loreto,2025-09-24,6,441,
+V2077,EEUU,67,M,Amazonas,Cajamarca,2025-03-01,9,3063,Auto
+V2078,España,64,F,Chan Chan,Cajamarca,2025-06-25,10,543,
+V2079,Argentina,22,F,Caral,Puno,2025-01-19,1,3889,Auto
+V2080,España,67,M,Lago Titicaca,Cajamarca,2025-04-27,8,4755,Tren
+V2081,Argentina,31,M,Líneas de Nazca,Cajamarca,2025-07-15,9,1295,Tren
+V2082,Ecuador,43,M,Líneas de Nazca,Puno,2025-07-07,7,476,Bus
+V2083,Ecuador,47,F,Cajamarca,Loreto,2025-12-23,8,4192,Auto
+V2084,Ecuador,45,F,Lago Titicaca,Ica,2025-08-07,2,4792,Tren
+V2085,Brasil,66,F,Lago Titicaca,Loreto,2025-03-11,1,2941,Auto
+V2086,Perú,36,M,Cajamarca,Ica,2025-05-12,3,859,Avión
+V2087,Francia,59,F,Amazonas,Cusco,2025-05-25,10,4765,Tren
+V2088,Brasil,30,M,Caral,La Libertad,2025-05-12,10,3151,Auto
+V2089,Perú,62,F,Cajamarca,Cusco,2025-02-22,6,3311,Avión
+V2090,Chile,51,F,Machu Picchu,Cusco,2025-02-02,3,2864,Avión
+V2091,Brasil,66,M,Chan Chan,Lima,2025-12-21,2,3575,Bus
+V2092,Perú,30,F,Amazonas,Ica,2025-12-01,8,3973,
+V2093,Colombia,29,F,Chan Chan,La Libertad,2025-11-03,4,3782,Tren
+V2094,Chile,38,F,Lago Titicaca,Cajamarca,2025-03-19,9,2652,
+V2095,Perú,61,M,Chan Chan,Cajamarca,2025-10-01,7,2682,Auto
+V2096,EEUU,40,M,Chan Chan,Ica,2025-02-08,5,1741,
+V2097,Chile,43,M,Cajamarca,Cajamarca,2025-12-21,3,3677,Bus
+V2098,Perú,22,F,Machu Picchu,Lima,2025-12-13,6,1361,Tren
+V2099,España,67,M,Cajamarca,La Libertad,2025-06-25,8,3958,
+V2100,Perú,42,F,Lago Titicaca,Loreto,2025-03-08,3,4901,Auto
+V2101,Perú,18,F,Líneas de Nazca,Loreto,2025-06-02,5,1481,
+V2102,Francia,61,F,Caral,Cusco,2025-07-26,4,995,Auto
+V2103,Perú,32,M,Cajamarca,Cajamarca,2025-07-16,3,3175,Tren
+V2104,Chile,25,M,Lago Titicaca,Loreto,2025-07-06,8,4491,
+V2105,Brasil,48,M,Lago Titicaca,Cusco,2025-02-15,7,1186,Avión
+V2106,España,41,F,Caral,Lima,2025-12-12,9,4438,Auto
+V2107,Brasil,41,M,Caral,Lima,2025-06-13,8,4409,
+V2108,Brasil,32,M,Líneas de Nazca,La Libertad,2025-11-02,7,3765,Auto
+V2109,Perú,47,F,Caral,La Libertad,2025-09-11,3,1753,Tren
+V2110,Argentina,35,F,Caral,Puno,2025-02-17,4,3993,Bus
+V2111,Perú,63,M,Cajamarca,Lima,2025-06-09,7,425,Bus
+V2112,Brasil,29,F,Chan Chan,Lima,2025-04-08,4,2002,Tren
+V2113,Perú,33,M,Cajamarca,Puno,2025-11-12,2,2875,
+V2114,Perú,65,M,Amazonas,Lima,2025-10-12,8,3282,Avión
+V2115,Brasil,33,M,Lago Titicaca,Lima,2025-09-18,4,1392,Auto
+V2116,Ecuador,49,M,Lago Titicaca,Loreto,2025-11-20,2,1562,Avión
+V2117,Perú,51,M,Lago Titicaca,La Libertad,2025-05-04,10,4785,Avión
+V2118,Francia,55,M,Caral,La Libertad,2025-12-02,1,2564,Tren
+V2119,Chile,44,F,Lago Titicaca,Puno,2025-06-16,4,576,
+V2120,Francia,39,M,Líneas de Nazca,Lima,2025-09-22,10,1498,
+V2121,Colombia,18,M,Lago Titicaca,Ica,2025-12-02,9,1004,Avión
+V2122,Francia,69,F,Machu Picchu,Cusco,2025-07-10,1,4756,Tren
+V2123,Colombia,35,M,Chan Chan,Puno,2025-09-16,9,1845,Avión
+V2124,Chile,20,F,Lago Titicaca,Cajamarca,2025-02-21,6,1320,
+V2125,Ecuador,30,F,Chan Chan,Puno,2025-07-28,6,3373,Tren
+V2126,Francia,32,F,,Cusco,2025-03-04,5,2177,
+V2127,EEUU,49,F,Machu Picchu,Loreto,2025-07-24,10,2946,Tren
+V2128,Perú,56,M,Chan Chan,Puno,2025-08-03,3,1539,Auto
+V2129,Chile,21,F,Caral,Lima,2025-04-26,3,4371,Tren
+V2130,Perú,34,F,Amazonas,Lima,2025-12-16,5,554,Avión
+V2131,Perú,59,F,Cajamarca,Lima,2025-02-28,1,2506,
+V2132,EEUU,35,M,Chan Chan,La Libertad,2025-09-08,4,1550,Bus
+V2133,Perú,65,F,Lago Titicaca,Loreto,2025-04-09,2,4479,
+V2134,Brasil,58,M,Chan Chan,Puno,2025-06-17,2,890,Avión
+V2135,Perú,67,F,Lago Titicaca,Ica,2025-11-28,2,2186,
+V2136,España,27,F,Amazonas,Puno,2025-07-22,3,3513,Avión
+V2137,Argentina,28,M,Cajamarca,La Libertad,2025-05-16,5,4042,Avión
+V2138,España,51,M,Cajamarca,Cusco,2025-02-20,10,4738,
+V2139,EEUU,31,M,Chan Chan,Ica,2025-11-05,8,1846,
+V2140,Colombia,33,M,Amazonas,Loreto,2025-02-02,4,1552,Avión
+V2141,Colombia,39,M,Amazonas,Loreto,2025-02-10,6,2744,
+V2142,Perú,36,M,Lago Titicaca,Cajamarca,2025-04-14,8,1676,Bus
+V2143,EEUU,51,F,Amazonas,Cusco,2025-02-25,9,4532,Avión
+V2144,Ecuador,40,F,Amazonas,Lima,2025-01-10,9,3660,Auto
+V2145,Francia,54,F,Cajamarca,Lima,2025-03-14,3,4873,Tren
+V2146,Perú,58,M,Amazonas,Cajamarca,2025-08-05,8,1993,Auto
+V2147,Perú,63,F,Amazonas,Loreto,2025-01-21,8,2442,Auto
+V2148,Ecuador,42,M,Chan Chan,Lima,2025-03-14,8,4077,Avión
+V2149,Brasil,36,M,Cajamarca,Ica,2025-07-12,9,4149,Bus
+V2150,Ecuador,43,F,Líneas de Nazca,Ica,2025-10-07,4,2531,Bus
+V2151,Argentina,55,M,Caral,Lima,2025-02-13,10,1967,Tren
+V2152,Francia,42,M,Caral,Loreto,2025-06-14,6,1125,Tren
+V2153,Chile,62,F,,Ica,2025-03-03,4,2498,
+V2154,Perú,35,F,Amazonas,Puno,2025-07-25,2,4542,Auto
+V2155,España,53,M,Lago Titicaca,Cajamarca,2025-11-24,10,1607,Bus
+V2156,EEUU,21,M,Lago Titicaca,La Libertad,2025-12-19,6,4490,Avión
+V2157,Francia,21,F,Caral,Loreto,2025-08-23,4,638,
+V2158,Colombia,24,M,Líneas de Nazca,Puno,2025-02-27,6,739,
+V2159,España,34,F,Líneas de Nazca,Lima,2025-04-10,7,1101,
+V2160,España,65,M,Amazonas,Ica,2025-04-06,1,965,Tren
+V2161,España,68,F,Lago Titicaca,Puno,2025-07-11,8,3575,Tren
+V2162,Ecuador,54,M,Líneas de Nazca,Cajamarca,2025-09-11,6,4948,Bus
+V2163,España,69,M,Machu Picchu,Cusco,2025-09-20,10,1324,Tren
+V2164,Chile,67,F,Machu Picchu,La Libertad,2025-02-27,7,1676,Avión
+V2165,Brasil,45,F,Caral,Cusco,2025-07-13,6,4962,Tren
+V2166,Colombia,52,M,Líneas de Nazca,Puno,2025-11-04,10,3907,
+V2167,Argentina,22,F,Cajamarca,Puno,2025-03-14,8,3974,Avión
+V2168,Colombia,26,M,Líneas de Nazca,Ica,2025-08-26,2,3537,Avión
+V2169,Colombia,44,F,Caral,Ica,2025-01-27,7,2169,Bus
+V2170,Perú,20,F,Líneas de Nazca,La Libertad,2025-09-02,2,3808,Tren
+V2171,Ecuador,23,F,Amazonas,Cajamarca,2025-07-20,1,1674,Avión
+V2172,Colombia,26,M,Chan Chan,Puno,2025-02-19,1,3907,Tren
+V2173,EEUU,54,F,Machu Picchu,Lima,2025-01-28,2,4264,Avión
+V2174,Francia,47,M,Caral,Loreto,2025-02-22,9,929,Tren
+V2175,Brasil,67,F,Líneas de Nazca,Ica,2025-04-01,6,2595,Tren
+V2176,Chile,46,M,Líneas de Nazca,Cusco,2025-12-12,5,4361,Auto
+V2177,Argentina,33,F,Chan Chan,Cajamarca,2025-02-13,1,3242,Bus
+V2178,Ecuador,66,F,Chan Chan,Puno,2025-08-02,8,3582,Auto
+V2179,Chile,44,F,Chan Chan,La Libertad,2025-12-11,4,3827,
+V2180,Brasil,56,M,Cajamarca,Cusco,2025-02-05,2,3578,Tren
+V2181,EEUU,20,F,Machu Picchu,Puno,2025-03-13,2,2637,Tren
+V2182,Brasil,50,F,Amazonas,Cusco,2025-06-20,7,4107,Auto
+V2183,Chile,37,M,Machu Picchu,Cusco,2025-09-28,5,1398,Tren
+V2184,Chile,30,F,Machu Picchu,Lima,2025-09-25,2,2622,Bus
+V2185,Francia,39,M,Chan Chan,Lima,2025-06-25,5,2319,
+V2186,España,47,F,Amazonas,Lima,2025-01-02,8,903,Auto
+V2187,Chile,55,F,Cajamarca,Cusco,2025-10-26,3,3033,Tren
+V2188,Brasil,26,M,Chan Chan,La Libertad,2025-07-16,4,3152,Bus
+V2189,Francia,37,M,Machu Picchu,Lima,2025-10-28,1,4272,Avión
+V2190,Chile,59,F,Amazonas,Puno,2025-05-07,10,1333,Tren
+V2191,Chile,42,M,,Cajamarca,2025-08-10,2,2714,
+V2192,Argentina,39,M,Machu Picchu,Ica,2025-07-04,7,4283,
+V2193,Perú,69,M,Amazonas,La Libertad,2025-08-24,3,2900,
+V2194,EEUU,18,M,Chan Chan,Lima,2025-10-20,10,3180,Bus
+V2195,Perú,52,M,Machu Picchu,Cajamarca,2025-04-10,1,3608,Avión
+V2196,Ecuador,68,F,Caral,Lima,2025-03-12,7,4434,
+V2197,Ecuador,36,F,Líneas de Nazca,Cajamarca,2025-01-25,7,1344,Avión
+V2198,España,39,M,,Puno,2025-11-04,5,2099,
+V2199,Francia,26,M,Chan Chan,Loreto,2025-03-20,5,1036,Tren
+V2200,Francia,52,M,Líneas de Nazca,Ica,2025-04-27,8,1553,Avión
+V2201,Brasil,28,M,Caral,Loreto,2025-04-22,3,1460,
+V2202,Francia,41,M,Lago Titicaca,Ica,2025-12-01,6,3134,Bus
+V2203,Ecuador,27,M,Líneas de Nazca,La Libertad,2025-08-11,5,4870,Bus
+V2204,Ecuador,27,F,Lago Titicaca,Cusco,2025-12-22,3,2950,Avión
+V2205,Chile,29,F,Caral,Ica,2025-02-15,6,3251,
+V2206,Colombia,69,M,Machu Picchu,Lima,2025-03-28,9,1763,Tren
+V2207,España,22,F,Líneas de Nazca,Loreto,2025-09-16,7,4868,Bus
+V2208,Chile,65,M,Líneas de Nazca,Cajamarca,2025-04-27,4,4737,Avión
+V2209,Chile,44,M,Amazonas,Puno,2025-10-13,2,4521,Bus
+V2210,Argentina,32,M,Caral,Lima,2025-07-13,3,3980,Avión
+V2211,Perú,50,F,Amazonas,Cajamarca,2025-02-06,1,2603,Bus
+V2212,Colombia,53,F,Machu Picchu,La Libertad,2025-12-14,10,1628,Auto
+V2213,Brasil,45,F,Líneas de Nazca,Puno,2025-12-05,2,3417,Tren
+V2214,Colombia,40,F,Caral,Cajamarca,2025-07-01,10,916,Auto
+V2215,Colombia,42,F,Cajamarca,Lima,2025-06-14,1,4144,Auto
+V2216,Colombia,20,F,Machu Picchu,Loreto,2025-12-13,7,4304,Tren
+V2217,Francia,24,M,Amazonas,Puno,2025-12-04,9,3158,
+V2218,Brasil,54,M,Chan Chan,La Libertad,2025-02-06,6,480,Bus
+V2219,EEUU,57,F,Machu Picchu,Puno,2025-10-01,4,4057,Avión
+V2220,España,28,F,Amazonas,Lima,2025-11-12,9,2223,Auto
+V2221,Argentina,62,M,Lago Titicaca,Lima,2025-04-16,4,2090,
+V2222,Brasil,22,F,Cajamarca,Cusco,2025-05-28,7,3505,Avión
+V2223,Colombia,59,M,Amazonas,Cusco,2025-08-26,1,1889,Avión
+V2224,EEUU,70,M,Caral,Cajamarca,2025-07-07,7,1286,Auto
+V2225,Argentina,70,M,Cajamarca,Ica,2025-08-21,7,1357,Tren
+V2226,Francia,58,M,Caral,Ica,2025-06-03,2,1768,
+V2227,Colombia,43,F,Lago Titicaca,Loreto,2025-06-05,1,2066,Tren
+V2228,Argentina,28,M,Machu Picchu,Cusco,2025-07-27,1,3529,Bus
+V2229,Chile,33,F,Caral,La Libertad,2025-10-05,1,1387,
+V2230,EEUU,38,F,Chan Chan,Cajamarca,2025-05-02,9,2304,Bus
+V2231,Chile,69,F,Cajamarca,La Libertad,2025-10-05,4,2934,Tren
+V2232,España,55,F,Caral,Loreto,2025-10-06,3,2315,Auto
+V2233,Ecuador,62,F,Líneas de Nazca,Cajamarca,2025-11-28,10,4067,Auto
+V2234,Argentina,27,M,,Loreto,2025-07-26,7,4396,Bus
+V2235,Francia,69,M,Líneas de Nazca,Cusco,2025-06-01,9,3749,Avión
+V2236,Chile,65,M,Cajamarca,Puno,2025-01-24,8,4773,Avión
+V2237,España,47,F,Amazonas,La Libertad,2025-06-27,5,1501,Tren
+V2238,España,57,F,Chan Chan,La Libertad,2025-12-19,9,1282,Tren
+V2239,Chile,24,M,Líneas de Nazca,Loreto,2025-03-08,1,3193,
+V2240,EEUU,24,F,Chan Chan,Puno,2025-12-09,8,3991,Auto
+V2241,EEUU,69,M,Líneas de Nazca,Cusco,2025-05-14,4,2986,Auto
+V2242,Colombia,25,F,Machu Picchu,Ica,2025-06-28,3,4127,Bus
+V2243,Brasil,40,F,Machu Picchu,Lima,2025-12-14,2,4755,
+V2244,Chile,28,F,,Puno,2025-02-06,5,816,Tren
+V2245,Francia,54,M,Machu Picchu,Loreto,2025-11-19,10,719,Bus
+V2246,Ecuador,70,M,Cajamarca,Cusco,2025-11-19,10,2113,Auto
+V2247,Colombia,37,M,Cajamarca,Loreto,2025-12-08,6,541,
+V2248,EEUU,27,F,Machu Picchu,Cusco,2025-01-15,5,2749,Avión
+V2249,Perú,52,F,Caral,Lima,2025-11-23,5,2234,
+V2250,EEUU,62,M,Caral,La Libertad,2025-07-26,8,2883,Bus
+V2251,Francia,67,M,Amazonas,La Libertad,2025-05-20,2,896,Auto
+V2252,Colombia,63,F,Chan Chan,Cusco,2025-11-27,8,4118,
+V2253,EEUU,70,M,Machu Picchu,Puno,2025-04-12,2,3897,Auto
+V2254,Ecuador,52,F,Machu Picchu,Cusco,2025-12-26,8,2443,Auto
+V2255,Perú,30,F,Chan Chan,Lima,2025-07-10,7,4600,Auto
+V2256,Argentina,50,F,Líneas de Nazca,Lima,2025-09-21,2,1085,Tren
+V2257,Chile,34,F,Líneas de Nazca,Cusco,2025-12-08,3,4486,Bus
+V2258,Ecuador,68,M,Chan Chan,Cajamarca,2025-01-02,4,4203,Auto
+V2259,Francia,60,F,Lago Titicaca,Cajamarca,2025-11-08,2,1417,Auto
+V2260,Francia,31,F,Chan Chan,Ica,2025-03-21,8,1328,Tren
+V2261,Chile,35,F,Caral,Loreto,2025-12-25,6,3592,Tren
+V2262,Argentina,21,F,Caral,Ica,2025-06-05,8,3115,Bus
+V2263,Colombia,20,M,Lago Titicaca,Lima,2025-04-10,4,3305,Auto
+V2264,Argentina,67,F,Caral,La Libertad,2025-01-23,10,4085,Bus
+V2265,Perú,33,M,Amazonas,Cusco,2025-11-02,6,2959,
+V2266,España,30,F,,Cajamarca,2025-12-17,1,887,Avión
+V2267,EEUU,65,F,Chan Chan,Cajamarca,2025-03-05,4,3344,Bus
+V2268,Argentina,37,M,Caral,Ica,2025-02-28,8,1178,
+V2269,Perú,22,M,Machu Picchu,Ica,2025-02-24,9,755,Bus
+V2270,Brasil,18,F,Chan Chan,La Libertad,2025-04-17,9,3067,Auto
+V2271,Francia,45,F,Machu Picchu,Ica,2025-07-27,2,565,Avión
+V2272,Perú,44,M,Cajamarca,Loreto,2025-11-12,6,2161,Tren
+V2273,Brasil,70,M,Chan Chan,Loreto,2025-10-06,3,1356,
+V2274,Argentina,41,M,Cajamarca,Cusco,2025-09-07,8,4574,Avión
+V2275,Perú,45,F,Machu Picchu,Lima,2025-01-26,1,1292,Avión
+V2276,Perú,58,F,Cajamarca,Ica,2025-06-03,2,3390,
+V2277,Perú,58,F,Caral,Cajamarca,2025-02-04,2,3591,
+V2278,Brasil,21,M,Machu Picchu,La Libertad,2025-09-11,1,4413,Auto
+V2279,Brasil,59,M,Machu Picchu,Cajamarca,2025-06-14,5,1429,Tren
+V2280,Perú,37,F,Cajamarca,Cajamarca,2025-12-20,9,4493,Avión
+V2281,Perú,58,M,Caral,Loreto,2025-03-04,5,2296,Avión
+V2282,Chile,28,F,Chan Chan,Lima,2025-11-27,10,3465,Bus
+V2283,Francia,25,M,Amazonas,Cajamarca,2025-02-24,5,1137,Avión
+V2284,Perú,18,M,Amazonas,Lima,2025-03-16,6,4397,Auto
+V2285,Perú,25,F,Caral,Loreto,2025-01-28,6,2949,Auto
+V2286,Colombia,29,M,Chan Chan,Cusco,2025-10-19,4,4986,Avión
+V2287,Perú,29,F,Caral,Ica,2025-05-01,4,3359,
+V2288,Chile,62,F,,Ica,2025-03-24,5,4175,Avión
+V2289,Colombia,36,F,Cajamarca,Cusco,2025-02-24,9,858,Tren
+V2290,Perú,51,M,Líneas de Nazca,La Libertad,2025-04-05,7,2511,Tren
+V2291,Ecuador,30,F,Machu Picchu,Loreto,2025-06-15,1,3664,Bus
+V2292,Argentina,42,M,Amazonas,Puno,2025-09-10,9,4629,Auto
+V2293,Chile,41,M,Caral,Puno,2025-12-09,8,1193,Tren
+V2294,Brasil,54,F,Amazonas,Cusco,2025-10-11,3,3311,
+V2295,Francia,57,F,Lago Titicaca,Puno,2025-09-03,6,2742,Bus
+V2296,Colombia,46,F,Lago Titicaca,La Libertad,2025-03-16,4,495,Auto
+V2297,Chile,47,M,Machu Picchu,La Libertad,2025-11-01,7,1131,Auto
+V2298,Chile,19,F,Chan Chan,Cajamarca,2025-06-12,1,4871,Tren
+V2299,Perú,48,M,Machu Picchu,Cajamarca,2025-01-04,4,4267,Bus
+V2300,Perú,21,F,Amazonas,Cusco,2025-04-02,4,1625,Bus
+V2301,España,46,F,Caral,La Libertad,2025-05-02,5,650,Bus
+V2302,Ecuador,68,M,Lago Titicaca,La Libertad,2025-05-19,9,762,Tren
+V2303,Argentina,29,F,Líneas de Nazca,Loreto,2025-10-08,8,2676,Auto
+V2304,Brasil,65,F,Machu Picchu,Cajamarca,2025-07-18,3,1662,Tren
+V2305,Chile,31,F,Caral,Loreto,2025-07-03,4,2823,Auto
+V2306,España,58,M,Amazonas,Cajamarca,2025-03-23,7,1595,Auto
+V2307,EEUU,41,F,Cajamarca,Cusco,2025-09-19,5,2689,Tren
+V2308,Chile,31,M,Amazonas,Loreto,2025-09-22,10,2101,Avión
+V2309,Brasil,21,F,Líneas de Nazca,Cajamarca,2025-10-07,10,2626,Tren
+V2310,Perú,31,M,Chan Chan,La Libertad,2025-02-14,9,1240,
+V2311,Chile,50,M,Amazonas,Cusco,2025-09-12,8,2756,Tren
+V2312,Brasil,68,F,Líneas de Nazca,Lima,2025-01-08,2,3323,Avión
+V2313,Francia,58,M,Lago Titicaca,Loreto,2025-04-25,2,3920,
+V2314,Francia,63,M,Amazonas,Lima,2025-09-03,4,2220,Avión
+V2315,España,27,F,Cajamarca,La Libertad,2025-03-18,7,2648,Avión
+V2316,Francia,20,M,Caral,Cusco,2025-09-17,3,2734,Auto
+V2317,Colombia,54,F,Líneas de Nazca,Lima,2025-10-10,3,3798,
+V2318,España,58,M,Amazonas,Cusco,2025-11-13,8,1622,
+V2319,Chile,44,M,,Lima,2025-02-16,2,1654,Avión
+V2320,Francia,41,M,Amazonas,Cajamarca,2025-12-16,9,4390,
+V2321,Perú,48,F,,Ica,2025-08-22,9,864,
+V2322,Chile,69,M,Cajamarca,La Libertad,2025-06-16,3,3168,Auto
+V2323,Brasil,29,M,Machu Picchu,La Libertad,2025-03-20,5,867,Tren
+V2324,Perú,65,M,Amazonas,Lima,2025-05-27,10,2855,Bus
+V2325,España,56,M,Caral,Puno,2025-06-07,8,1690,Tren
+V2326,Chile,19,M,Lago Titicaca,Lima,2025-12-11,1,3477,Auto
+V2327,Ecuador,51,F,Chan Chan,Ica,2025-10-02,4,2680,Avión
+V2328,EEUU,18,M,Caral,Loreto,2025-07-05,5,1761,Auto
+V2329,Argentina,36,M,Cajamarca,Cusco,2025-12-24,3,3781,Avión
+V2330,Chile,23,M,Cajamarca,Puno,2025-12-20,2,3699,Avión
+V2331,Francia,22,M,Lago Titicaca,Ica,2025-08-04,10,4299,Avión
+V2332,EEUU,34,M,Amazonas,Lima,2025-07-07,3,629,Avión
+V2333,Colombia,31,F,Líneas de Nazca,Lima,2025-10-11,3,4455,Avión
+V2334,Ecuador,50,M,Cajamarca,La Libertad,2025-10-02,9,2986,Tren
+V2335,Colombia,43,M,Chan Chan,La Libertad,2025-09-20,4,3806,Bus
+V2336,España,45,M,Machu Picchu,Puno,2025-08-21,7,1395,Avión
+V2337,Colombia,45,M,Cajamarca,La Libertad,2025-09-02,1,4518,Auto
+V2338,Colombia,24,M,,Cusco,2025-10-19,10,2082,Tren
+V2339,Perú,26,M,Cajamarca,Cajamarca,2025-02-26,4,2622,Avión
+V2340,EEUU,53,F,Lago Titicaca,Ica,2025-07-23,8,4733,
+V2341,España,64,M,Lago Titicaca,Ica,2025-06-18,9,2692,Auto
+V2342,Argentina,30,F,Machu Picchu,Lima,2025-06-20,8,4461,
+V2343,Colombia,31,F,Chan Chan,Ica,2025-05-05,10,1580,Tren
+V2344,EEUU,42,M,Lago Titicaca,La Libertad,2025-06-22,3,2197,Bus
+V2345,Brasil,50,M,Amazonas,Lima,2025-04-24,5,4123,Tren
+V2346,Brasil,68,F,Amazonas,Puno,2025-10-17,1,2891,
+V2347,EEUU,43,M,Cajamarca,Loreto,2025-12-17,6,2618,Bus
+V2348,Argentina,49,F,Amazonas,La Libertad,2025-01-09,10,3807,Avión
+V2349,Ecuador,35,M,Cajamarca,Loreto,2025-09-15,5,1017,Avión
+V2350,EEUU,51,M,Líneas de Nazca,Puno,2025-01-14,7,2634,Avión
+V2351,Argentina,35,M,Líneas de Nazca,Lima,2025-07-25,6,2872,Tren
+V2352,Brasil,59,M,Lago Titicaca,Cusco,2025-10-27,10,2483,
+V2353,Argentina,32,F,Caral,Cusco,2025-06-06,5,2780,Auto
+V2354,Brasil,62,M,Amazonas,La Libertad,2025-07-24,9,2581,
+V2355,España,24,M,Amazonas,La Libertad,2025-01-02,7,1961,Avión
+V2356,España,47,F,,Puno,2025-09-18,3,604,Auto
+V2357,Francia,53,F,Líneas de Nazca,Cusco,2025-02-19,5,3549,Bus
+V2358,Brasil,41,M,Caral,Cusco,2025-01-04,6,1391,Auto
+V2359,España,62,F,Machu Picchu,Lima,2025-09-28,2,1979,Auto
+V2360,Brasil,51,F,Caral,Ica,2025-06-26,2,3820,
+V2361,Chile,18,F,Cajamarca,La Libertad,2025-04-13,2,1186,Bus
+V2362,Brasil,25,F,Amazonas,Puno,2025-05-12,2,3453,Avión
+V2363,Colombia,39,M,Amazonas,Cusco,2025-05-23,6,4512,Tren
+V2364,Francia,27,F,Líneas de Nazca,Cajamarca,2025-03-25,5,3448,Tren
+V2365,Ecuador,62,M,Amazonas,Ica,2025-05-24,6,3629,
+V2366,Argentina,40,F,Líneas de Nazca,Cajamarca,2025-09-22,8,4425,
+V2367,EEUU,33,M,Cajamarca,Puno,2025-07-28,6,3409,Bus
+V2368,Argentina,24,F,Lago Titicaca,La Libertad,2025-01-10,3,4586,Bus
+V2369,Perú,36,M,Lago Titicaca,La Libertad,2025-02-04,10,4145,Tren
+V2370,Perú,25,M,Cajamarca,Lima,2025-10-13,2,1254,Auto
+V2371,Argentina,64,M,Machu Picchu,La Libertad,2025-11-14,6,2071,Bus
+V2372,Brasil,51,F,Chan Chan,Lima,2025-02-08,9,3015,Auto
+V2373,Chile,25,F,Lago Titicaca,La Libertad,2025-02-01,2,3204,Bus
+V2374,Brasil,52,M,Lago Titicaca,Cusco,2025-10-07,4,2769,
+V2375,España,44,M,Lago Titicaca,Ica,2025-10-19,7,518,
+V2376,Ecuador,49,F,Machu Picchu,Puno,2025-03-13,5,2433,Bus
+V2377,EEUU,48,M,Chan Chan,Cajamarca,2025-03-09,4,2084,Bus
+V2378,España,63,M,Machu Picchu,Puno,2025-05-08,3,4925,Auto
+V2379,Argentina,23,M,Lago Titicaca,Cusco,2025-04-01,8,4160,Auto
+V2380,EEUU,55,M,Machu Picchu,Puno,2025-10-02,5,2713,Auto
+V2381,Perú,58,M,Chan Chan,Loreto,2025-10-24,7,4796,Tren
+V2382,Ecuador,56,M,Chan Chan,La Libertad,2025-09-10,10,4858,
+V2383,Ecuador,26,F,Cajamarca,Loreto,2025-01-05,10,2661,Bus
+V2384,Argentina,36,M,Lago Titicaca,Cajamarca,2025-12-21,1,1230,Avión
+V2385,Ecuador,63,M,Caral,Ica,2025-02-24,1,3092,Bus
+V2386,Argentina,48,F,Chan Chan,Cajamarca,2025-09-19,5,2980,Auto
+V2387,Brasil,53,M,Caral,Cajamarca,2025-02-06,2,3048,Bus
+V2388,España,67,F,Caral,Cajamarca,2025-12-20,6,3571,Avión
+V2389,Perú,18,M,Lago Titicaca,La Libertad,2025-08-01,8,3069,Avión
+V2390,Perú,51,F,Cajamarca,Loreto,2025-03-18,8,4304,Tren
+V2391,Perú,35,M,Machu Picchu,Cajamarca,2025-02-19,1,1194,Auto
+V2392,Colombia,33,F,Caral,Cusco,2025-06-02,4,2868,Tren
+V2393,Francia,47,M,Machu Picchu,Loreto,2025-07-22,7,888,Bus
+V2394,España,19,M,Caral,Ica,2025-06-22,10,1254,
+V2395,Ecuador,34,F,Cajamarca,Cusco,2025-08-21,2,2915,Tren
+V2396,Perú,48,F,Cajamarca,La Libertad,2025-09-19,8,3677,Auto
+V2397,Brasil,69,F,Cajamarca,Lima,2025-04-26,10,2310,Tren
+V2398,Chile,36,M,Caral,Ica,2025-01-11,6,4647,Tren
+V2399,Colombia,70,F,Lago Titicaca,Lima,2025-03-06,2,2499,
+V2400,Chile,66,F,Cajamarca,Ica,2025-03-28,3,1209,Bus
+V2401,Francia,21,M,Chan Chan,Ica,2025-04-25,8,4933,Avión
+V2402,EEUU,26,F,Chan Chan,Ica,2025-05-22,7,456,Auto
+V2403,España,32,M,Caral,Cajamarca,2025-07-06,2,1357,Auto
+V2404,Brasil,68,F,Chan Chan,Cajamarca,2025-12-25,1,2699,Bus
+V2405,Perú,49,F,Amazonas,Cajamarca,2025-05-26,10,3008,
+V2406,Ecuador,66,M,Chan Chan,Ica,2025-10-12,6,1158,Avión
+V2407,Francia,27,M,Machu Picchu,Ica,2025-02-04,8,3398,Bus
+V2408,EEUU,26,M,Lago Titicaca,Ica,2025-03-02,3,2719,Auto
+V2409,Francia,55,F,Caral,Cajamarca,2025-10-27,1,3952,Tren
+V2410,Francia,35,F,Amazonas,Lima,2025-06-23,10,2785,Tren
+V2411,Argentina,22,F,Lago Titicaca,Loreto,2025-01-25,3,2215,
+V2412,Chile,19,M,Cajamarca,La Libertad,2025-01-01,9,4148,Bus
+V2413,Brasil,50,F,Lago Titicaca,Loreto,2025-02-23,6,729,Auto
+V2414,Argentina,70,F,Machu Picchu,Cusco,2025-02-28,1,2482,Avión
+V2415,Perú,39,M,Lago Titicaca,Loreto,2025-08-27,6,3718,Bus
+V2416,España,59,F,Amazonas,Loreto,2025-12-09,9,1027,Auto
+V2417,Ecuador,64,F,Líneas de Nazca,Puno,2025-04-10,6,1580,Tren
+V2418,España,66,M,Amazonas,La Libertad,2025-09-14,1,856,Tren
+V2419,EEUU,60,M,Amazonas,Ica,2025-09-08,7,3627,Bus
+V2420,Colombia,60,F,Chan Chan,Cusco,2025-04-07,8,4591,
+V2421,Francia,47,F,Caral,Loreto,2025-10-06,1,2853,Tren
+V2422,Ecuador,58,F,Machu Picchu,La Libertad,2025-04-11,5,3935,Tren
+V2423,Colombia,52,M,Machu Picchu,Puno,2025-02-18,6,3094,Tren
+V2424,España,30,M,Amazonas,Puno,2025-08-22,9,4527,Bus
+V2425,Brasil,35,F,Chan Chan,Lima,2025-06-17,3,827,Auto
+V2426,Colombia,67,M,Chan Chan,La Libertad,2025-11-05,2,599,
+V2427,Perú,57,F,Amazonas,La Libertad,2025-12-24,4,4262,Tren
+V2428,España,20,F,Lago Titicaca,Ica,2025-09-17,10,2838,Bus
+V2429,EEUU,51,M,Lago Titicaca,Lima,2025-02-17,3,3049,Avión
+V2430,Chile,70,M,Caral,Cajamarca,2025-03-17,10,2400,Avión
+V2431,Francia,43,F,Líneas de Nazca,Lima,2025-11-22,6,3895,Auto
+V2432,Francia,32,F,Chan Chan,Cusco,2025-01-07,5,3103,Auto
+V2433,Chile,22,F,Caral,Ica,2025-11-08,9,3743,Auto
+V2434,Chile,61,M,Líneas de Nazca,Ica,2025-03-28,8,2351,Auto
+V2435,Perú,21,F,Chan Chan,Cajamarca,2025-07-21,4,3383,Bus
+V2436,Ecuador,33,F,Chan Chan,Lima,2025-06-21,2,780,Avión
+V2437,Argentina,39,F,Líneas de Nazca,Ica,2025-01-17,6,2969,Tren
+V2438,Perú,28,F,Machu Picchu,La Libertad,2025-11-03,5,2249,Auto
+V2439,Argentina,35,F,Líneas de Nazca,La Libertad,2025-08-02,4,963,Bus
+V2440,Ecuador,30,M,Lago Titicaca,Ica,2025-09-20,7,1220,Auto
+V2441,EEUU,25,M,,Puno,2025-08-05,3,1166,
+V2442,Argentina,53,M,Líneas de Nazca,Ica,2025-02-19,10,427,Tren
+V2443,Ecuador,40,F,Chan Chan,Cusco,2025-04-04,1,4509,Tren
+V2444,Perú,22,F,,Loreto,2025-02-07,2,4172,Auto
+V2445,Brasil,61,F,,Ica,2025-03-11,6,431,Auto
+V2446,Argentina,49,M,Machu Picchu,La Libertad,2025-04-03,5,4869,Bus
+V2447,Argentina,31,M,Chan Chan,Ica,2025-05-13,8,3742,
+V2448,Chile,47,M,Amazonas,Loreto,2025-06-19,4,3134,Bus
+V2449,EEUU,67,M,Amazonas,La Libertad,2025-08-03,3,817,Tren
+V2450,Perú,56,M,Machu Picchu,Cusco,2025-08-07,8,2413,Tren
+V2451,España,54,M,Amazonas,Cusco,2025-09-17,10,3455,Tren
+V2452,Ecuador,67,F,Caral,Loreto,2025-11-20,1,1372,Auto
+V2453,Perú,60,F,Caral,Loreto,2025-07-23,4,310,
+V2454,Francia,39,F,Machu Picchu,Puno,2025-05-23,7,3797,
+V2455,Argentina,37,F,Líneas de Nazca,La Libertad,2025-02-11,3,2749,Avión
+V2456,Ecuador,65,M,Amazonas,Ica,2025-01-06,9,3253,Auto
+V2457,Colombia,45,F,,Loreto,2025-11-21,3,2087,
+V2458,España,60,M,Amazonas,Ica,2025-02-13,9,3551,Auto
+V2459,Colombia,37,F,Amazonas,Cusco,2025-02-26,7,806,Bus
+V2460,Colombia,19,F,Líneas de Nazca,Ica,2025-10-27,3,2879,Tren
+V2461,Chile,54,M,Chan Chan,Cusco,2025-03-09,5,3175,Avión
+V2462,Francia,26,M,Amazonas,La Libertad,2025-10-09,10,2176,Avión
+V2463,Perú,63,F,Lago Titicaca,Ica,2025-12-06,7,822,
+V2464,Francia,33,F,Amazonas,Cusco,2025-04-18,3,3499,Avión
+V2465,Chile,62,M,Caral,Lima,2025-11-13,1,2260,Bus
+V2466,Colombia,37,M,Lago Titicaca,Loreto,2025-07-17,7,2267,Bus
+V2467,Brasil,43,M,Cajamarca,Lima,2025-02-26,6,687,Auto
+V2468,Brasil,27,M,Líneas de Nazca,Puno,2025-05-26,5,396,Tren
+V2469,Colombia,48,F,Cajamarca,Puno,2025-09-01,5,978,
+V2470,Chile,49,M,Machu Picchu,Puno,2025-09-06,5,555,
+V2471,EEUU,58,M,Machu Picchu,Lima,2025-01-08,10,1694,Bus
+V2472,Perú,39,F,Caral,Ica,2025-09-25,5,1796,Bus
+V2473,España,43,M,Lago Titicaca,Lima,2025-04-17,6,1823,Auto
+V2474,Perú,67,M,Caral,La Libertad,2025-09-04,1,1177,Bus
+V2475,Chile,66,F,Chan Chan,La Libertad,2025-03-12,10,1358,Bus
+V2476,Perú,29,F,Lago Titicaca,La Libertad,2025-09-15,3,619,Bus
+V2477,Argentina,54,F,Cajamarca,Cajamarca,2025-04-02,10,2528,Auto
+V2478,Ecuador,52,M,Chan Chan,Loreto,2025-03-04,5,770,Avión
+V2479,Francia,65,F,Chan Chan,Puno,2025-01-04,2,4454,Tren
+V2480,España,33,M,Cajamarca,Ica,2025-04-11,1,2628,Auto
+V2481,EEUU,23,M,Machu Picchu,Puno,2025-11-24,1,4699,
+V2482,Ecuador,45,M,Machu Picchu,Loreto,2025-03-22,4,3742,Tren
+V2483,Colombia,20,M,Amazonas,La Libertad,2025-06-21,10,3351,
+V2484,Chile,32,M,Lago Titicaca,Cajamarca,2025-02-15,4,885,Avión
+V2485,Brasil,37,M,Caral,Cajamarca,2025-02-04,3,1987,Bus
+V2486,Colombia,30,F,Amazonas,Puno,2025-03-18,3,3366,Auto
+V2487,España,60,F,Líneas de Nazca,Cajamarca,2025-12-26,3,2361,Auto
+V2488,EEUU,39,F,Amazonas,Cusco,2025-04-05,1,2178,Avión
+V2489,España,19,F,Machu Picchu,Cajamarca,2025-09-13,4,2215,
+V2490,Ecuador,43,F,Caral,Cusco,2025-05-02,1,4322,Avión
+V2491,EEUU,62,M,Amazonas,Puno,2025-07-01,5,4924,Avión
+V2492,Francia,28,F,Líneas de Nazca,Ica,2025-05-05,3,3540,Tren
+V2493,Chile,46,M,Amazonas,Ica,2025-07-19,6,4542,Bus
+V2494,Argentina,25,F,Lago Titicaca,Cajamarca,2025-09-07,1,2468,
+V2495,EEUU,55,F,Machu Picchu,La Libertad,2025-11-10,10,3030,
+V2496,EEUU,29,F,Machu Picchu,Loreto,2025-04-10,7,4722,Tren
+V2497,Chile,21,M,Machu Picchu,Cusco,2025-02-06,5,4620,
+V2498,Brasil,68,M,,Cusco,2025-11-11,7,1325,Auto
+V2499,Perú,31,F,Amazonas,Cusco,2025-09-11,6,3709,
+V2500,EEUU,64,M,Chan Chan,Ica,2025-08-24,3,2830,Avión
+V2501,Perú,44,F,Chan Chan,Cajamarca,2025-07-23,10,1540,Auto
+V2502,Colombia,54,F,Cajamarca,Loreto,2025-08-16,1,2389,Tren
+V2503,Brasil,18,F,Cajamarca,Ica,2025-09-15,6,3304,Avión
+V2504,Argentina,31,M,Líneas de Nazca,Loreto,2025-10-05,7,632,
+V2505,España,38,M,Líneas de Nazca,Lima,2025-06-08,8,4118,
+V2506,Brasil,67,F,Chan Chan,Cusco,2025-11-15,5,4290,Bus
+V2507,Argentina,21,F,Chan Chan,Lima,2025-12-15,9,4067,Bus
+V2508,EEUU,68,M,Chan Chan,La Libertad,2025-05-23,6,560,Tren
+V2509,Ecuador,57,F,Chan Chan,Cusco,2025-04-18,9,895,Auto
+V2510,Perú,33,F,Lago Titicaca,Ica,2025-10-23,10,2213,Tren
+V2511,Colombia,69,F,Caral,Loreto,2025-01-26,4,1839,Bus
+V2512,Brasil,26,F,Chan Chan,Cajamarca,2025-01-15,6,3196,
+V2513,Francia,53,M,Líneas de Nazca,Puno,2025-05-27,8,2878,
+V2514,Argentina,28,M,Machu Picchu,Loreto,2025-03-10,7,3508,Avión
+V2515,Colombia,54,M,Lago Titicaca,Puno,2025-01-04,3,3987,Auto
+V2516,Argentina,36,M,Amazonas,Ica,2025-01-07,8,1548,Avión
+V2517,Perú,43,M,Caral,Cajamarca,2025-07-21,6,3721,Avión
+V2518,España,44,M,Lago Titicaca,Ica,2025-04-11,2,1668,
+V2519,EEUU,43,M,Cajamarca,Lima,2025-03-25,6,3433,Avión
+V2520,Perú,55,M,Amazonas,La Libertad,2025-12-03,1,4467,Tren
+V2521,España,22,F,Líneas de Nazca,Lima,2025-04-01,5,4519,Auto
+V2522,Brasil,44,M,Machu Picchu,Loreto,2025-04-25,7,1085,Tren
+V2523,Perú,19,M,Lago Titicaca,Lima,2025-06-06,7,3921,Tren
+V2524,Francia,42,F,Cajamarca,Puno,2025-09-27,2,1570,Bus
+V2525,Ecuador,59,F,Machu Picchu,Puno,2025-11-10,8,1017,Auto
+V2526,Colombia,48,F,Líneas de Nazca,La Libertad,2025-10-20,10,1799,Bus
+V2527,Francia,64,F,Machu Picchu,Lima,2025-06-22,4,4822,Auto
+V2528,Perú,30,M,Cajamarca,Lima,2025-11-10,4,1430,Avión
+V2529,EEUU,24,M,Chan Chan,Lima,2025-01-10,8,3550,Tren
+V2530,Francia,20,M,Chan Chan,Puno,2025-08-28,7,3396,Auto
+V2531,EEUU,55,M,Caral,Lima,2025-03-08,8,3608,Bus
+V2532,Colombia,33,M,Amazonas,La Libertad,2025-10-23,5,4128,Auto
+V2533,Ecuador,70,M,Lago Titicaca,Puno,2025-03-26,8,2142,Avión
+V2534,EEUU,19,F,Líneas de Nazca,Ica,2025-09-28,4,2506,
+V2535,España,70,F,Líneas de Nazca,Ica,2025-05-07,7,3384,Tren
+V2536,Ecuador,20,F,Caral,Lima,2025-04-19,1,4113,Tren
+V2537,Argentina,39,M,Cajamarca,Loreto,2025-08-08,10,959,
+V2538,Brasil,52,M,Cajamarca,Lima,2025-10-15,3,712,Tren
+V2539,Argentina,58,M,Chan Chan,Cajamarca,2025-07-09,4,4297,Tren
+V2540,Chile,43,F,Chan Chan,Lima,2025-08-17,10,1473,Avión
+V2541,Perú,39,M,Lago Titicaca,La Libertad,2025-05-10,3,2988,
+V2542,Argentina,57,F,Amazonas,Puno,2025-03-23,7,3021,Tren
+V2543,Argentina,33,M,Líneas de Nazca,Ica,2025-07-21,5,362,Bus
+V2544,EEUU,39,M,Cajamarca,Ica,2025-04-05,2,1331,Tren
+V2545,Argentina,21,F,Chan Chan,Cusco,2025-07-15,7,3804,
+V2546,Argentina,29,M,Líneas de Nazca,La Libertad,2025-08-02,2,904,Auto
+V2547,EEUU,36,F,Machu Picchu,Loreto,2025-10-01,5,1183,Bus
+V2548,España,45,F,Cajamarca,Cusco,2025-06-25,5,1638,Tren
+V2549,Chile,32,M,Cajamarca,Cusco,2025-10-27,2,2654,Bus
+V2550,Perú,18,M,Caral,Ica,2025-07-16,7,4630,Auto
+V2551,España,67,F,Amazonas,Loreto,2025-11-10,8,1842,Bus
+V2552,Ecuador,68,F,Líneas de Nazca,Lima,2025-03-22,8,813,Auto
+V2553,España,56,M,Caral,Cajamarca,2025-03-13,1,1676,Bus
+V2554,España,30,F,Caral,Cajamarca,2025-01-26,3,1020,Auto
+V2555,Perú,42,M,Lago Titicaca,Loreto,2025-06-09,10,3155,Bus
+V2556,Chile,44,M,Cajamarca,La Libertad,2025-11-11,4,2808,Avión
+V2557,España,36,F,Machu Picchu,Ica,2025-05-02,1,1269,Auto
+V2558,España,56,F,Líneas de Nazca,La Libertad,2025-07-10,1,4298,Avión
+V2559,EEUU,25,F,Lago Titicaca,La Libertad,2025-06-27,5,665,
+V2560,Perú,57,M,Machu Picchu,Cusco,2025-08-08,3,358,Avión
+V2561,Francia,42,F,Amazonas,Cusco,2025-11-05,5,1207,Avión
+V2562,Colombia,28,F,Caral,Cusco,2025-03-21,10,1049,Bus
+V2563,EEUU,47,F,,Cajamarca,2025-10-18,2,2356,Bus
+V2564,Francia,46,F,Cajamarca,Puno,2025-08-08,4,4920,Avión
+V2565,Francia,52,F,Cajamarca,Puno,2025-05-05,4,2776,Avión
+V2566,España,33,M,Chan Chan,La Libertad,2025-01-21,10,1460,Auto
+V2567,Perú,48,F,Amazonas,Ica,2025-01-18,3,2853,
+V2568,Francia,21,M,Lago Titicaca,Ica,2025-01-05,6,4056,Avión
+V2569,Chile,41,M,Líneas de Nazca,Ica,2025-08-10,3,3997,Bus
+V2570,España,70,M,Chan Chan,Cajamarca,2025-01-25,8,689,
+V2571,Colombia,33,F,Lago Titicaca,Loreto,2025-04-09,5,3257,Bus
+V2572,España,38,F,Cajamarca,Cajamarca,2025-10-20,8,4253,
+V2573,Colombia,28,M,Caral,Loreto,2025-12-17,2,1358,Auto
+V2574,Chile,50,M,Cajamarca,Loreto,2025-02-01,2,1378,Bus
+V2575,EEUU,70,M,Machu Picchu,Puno,2025-01-26,9,385,Tren
+V2576,Perú,26,F,Cajamarca,Ica,2025-03-10,6,2575,Bus
+V2577,Argentina,23,M,Cajamarca,Cusco,2025-04-07,1,4503,
+V2578,Argentina,37,M,Caral,Cajamarca,2025-07-11,6,1303,Bus
+V2579,EEUU,27,M,Cajamarca,Puno,2025-11-21,4,3270,Bus
+V2580,EEUU,51,F,Machu Picchu,Puno,2025-01-04,2,3511,Avión
+V2581,Argentina,64,M,Chan Chan,Puno,2025-08-18,1,3380,
+V2582,Argentina,54,F,Amazonas,Loreto,2025-11-24,5,487,Bus
+V2583,Chile,23,F,Caral,La Libertad,2025-01-17,2,4823,Tren
+V2584,Perú,58,F,Líneas de Nazca,La Libertad,2025-04-28,7,4382,Tren
+V2585,Colombia,36,M,Cajamarca,Cusco,2025-11-17,7,1208,Tren
+V2586,Perú,48,F,Caral,La Libertad,2025-11-02,7,3687,
+V2587,Argentina,70,F,Líneas de Nazca,Puno,2025-08-18,4,810,
+V2588,Francia,20,F,Caral,Ica,2025-03-18,6,3202,Tren
+V2589,Francia,62,F,Lago Titicaca,Cusco,2025-03-16,1,3736,Bus
+V2590,Colombia,21,F,Lago Titicaca,Loreto,2025-03-15,7,4028,Tren
+V2591,Chile,48,F,Cajamarca,Loreto,2025-10-26,5,1404,Bus
+V2592,Brasil,29,F,Caral,Cajamarca,2025-11-09,3,1278,Bus
+V2593,España,46,M,Chan Chan,Cajamarca,2025-05-18,9,1219,Tren
+V2594,Colombia,44,F,Chan Chan,Cajamarca,2025-01-20,8,1406,Tren
+V2595,Francia,37,F,Líneas de Nazca,Cusco,2025-10-04,7,997,Auto
+V2596,Francia,27,F,Lago Titicaca,Loreto,2025-03-18,7,2355,Avión
+V2597,Chile,45,F,Lago Titicaca,Lima,2025-04-20,2,4416,Bus
+V2598,Brasil,34,M,Amazonas,Ica,2025-07-22,10,1735,Bus
+V2599,Argentina,70,F,Machu Picchu,Loreto,2025-12-02,5,2447,Avión
+V2600,Perú,29,F,Caral,Cajamarca,2025-01-09,1,3796,Avión
+V2601,Argentina,53,M,Amazonas,Cusco,2025-07-11,2,2395,Tren
+V2602,Perú,66,F,Cajamarca,Lima,2025-06-16,9,1311,Tren
+V2603,España,61,F,Caral,Lima,2025-04-19,3,2273,
+V2604,Perú,45,F,Caral,Puno,2025-08-08,1,4535,Auto
+V2605,Colombia,59,F,Líneas de Nazca,La Libertad,2025-04-28,10,3802,Bus
+V2606,Perú,56,F,Machu Picchu,Lima,2025-07-07,9,1709,Bus
+V2607,Argentina,19,F,Lago Titicaca,Cajamarca,2025-08-12,7,2797,Avión
+V2608,Ecuador,43,F,Chan Chan,Cusco,2025-06-04,10,3685,Auto
+V2609,EEUU,70,M,Chan Chan,Cusco,2025-11-02,3,4512,Avión
+V2610,Perú,48,F,Líneas de Nazca,La Libertad,2025-12-24,8,4468,Auto
+V2611,Chile,34,F,Machu Picchu,La Libertad,2025-11-09,4,4497,Avión
+V2612,Perú,19,M,Cajamarca,Cajamarca,2025-02-09,6,379,Bus
+V2613,Argentina,65,F,Líneas de Nazca,Cajamarca,2025-11-24,1,1499,
+V2614,Francia,38,M,Lago Titicaca,Puno,2025-07-07,7,2360,Avión
+V2615,Francia,56,M,Chan Chan,Ica,2025-08-21,4,3141,
+V2616,España,64,F,Líneas de Nazca,Lima,2025-05-25,6,3325,Bus
+V2617,Francia,27,F,Lago Titicaca,Loreto,2025-10-24,1,4599,Bus
+V2618,España,36,M,Chan Chan,Loreto,2025-10-04,6,2546,Avión
+V2619,Brasil,39,M,Amazonas,Puno,2025-11-19,1,2635,Bus
+V2620,Brasil,37,F,Machu Picchu,Cajamarca,2025-04-26,5,3104,Bus
+V2621,Francia,48,M,Líneas de Nazca,La Libertad,2025-06-03,10,1391,
+V2622,Ecuador,23,M,Amazonas,Ica,2025-10-21,8,2075,Auto
+V2623,EEUU,63,M,Machu Picchu,La Libertad,2025-05-18,3,2650,Tren
+V2624,Colombia,38,F,Cajamarca,Cajamarca,2025-07-02,6,1735,Tren
+V2625,Colombia,33,M,Machu Picchu,Cajamarca,2025-11-14,1,2600,Tren
+V2626,EEUU,23,M,Amazonas,Cusco,2025-12-06,8,1591,Tren
+V2627,EEUU,42,F,Caral,Ica,2025-04-06,1,1580,Auto
+V2628,Brasil,27,F,Líneas de Nazca,Lima,2025-08-28,4,2969,
+V2629,Argentina,24,F,Cajamarca,Puno,2025-12-27,9,965,Bus
+V2630,Brasil,50,M,Cajamarca,Lima,2025-08-16,6,4368,Tren
+V2631,Perú,20,M,Amazonas,Ica,2025-03-17,3,1649,Avión
+V2632,Colombia,37,M,Lago Titicaca,Ica,2025-01-08,2,1845,
+V2633,Ecuador,58,M,Cajamarca,Cajamarca,2025-11-02,7,2975,Tren
+V2634,Ecuador,58,F,Cajamarca,Puno,2025-12-20,4,327,Auto
+V2635,Francia,41,M,Chan Chan,Loreto,2025-08-05,4,4579,
+V2636,Colombia,66,F,Lago Titicaca,Lima,2025-04-07,10,1224,Tren
+V2637,EEUU,27,M,Lago Titicaca,Cajamarca,2025-10-11,9,4557,Tren
+V2638,Perú,64,F,,Puno,2025-11-16,4,2130,
+V2639,Colombia,32,F,Caral,La Libertad,2025-09-16,8,2222,Bus
+V2640,Perú,25,F,Lago Titicaca,Cusco,2025-10-15,8,720,
+V2641,Perú,37,M,Caral,La Libertad,2025-01-20,2,1341,Auto
+V2642,Colombia,55,F,Cajamarca,Lima,2025-01-15,2,1411,Tren
+V2643,Chile,69,M,Caral,Cajamarca,2025-02-07,4,1444,
+V2644,Brasil,67,F,Cajamarca,Ica,2025-04-01,7,3586,Auto
+V2645,Perú,36,F,Lago Titicaca,Lima,2025-05-04,4,3703,Auto
+V2646,Colombia,67,M,Caral,Cusco,2025-10-12,8,646,
+V2647,Francia,47,F,Líneas de Nazca,Cusco,2025-07-08,5,1044,Auto
+V2648,Perú,20,M,Machu Picchu,Lima,2025-09-03,4,1897,Tren
+V2649,EEUU,20,F,Caral,Puno,2025-10-27,2,2705,
+V2650,Argentina,26,M,Lago Titicaca,Lima,2025-08-14,10,3162,Bus
+V2651,Argentina,34,F,Machu Picchu,La Libertad,2025-06-05,2,722,Bus
+V2652,Perú,48,M,Lago Titicaca,Lima,2025-12-13,8,1831,Tren
+V2653,EEUU,23,F,Caral,La Libertad,2025-03-23,7,2597,Bus
+V2654,Ecuador,47,F,Caral,Cajamarca,2025-11-25,5,4433,Tren
+V2655,Perú,38,M,Cajamarca,Cajamarca,2025-04-26,4,2012,
+V2656,España,47,F,Amazonas,Puno,2025-10-07,4,845,Avión
+V2657,Perú,50,F,Amazonas,Ica,2025-09-02,2,4219,
+V2658,España,21,F,Cajamarca,Ica,2025-06-23,9,549,Auto
+V2659,Brasil,28,M,Lago Titicaca,Lima,2025-10-26,1,4703,
+V2660,Francia,57,F,Chan Chan,Cusco,2025-08-22,6,2581,
+V2661,Francia,56,F,Cajamarca,Ica,2025-12-14,7,3655,
+V2662,España,21,M,Líneas de Nazca,Loreto,2025-09-17,1,1620,Avión
+V2663,Brasil,51,M,Cajamarca,Cusco,2025-10-05,4,3223,Bus
+V2664,Brasil,38,F,Lago Titicaca,Cajamarca,2025-06-16,7,4045,Auto
+V2665,Perú,65,F,Machu Picchu,Lima,2025-10-11,10,2414,
+V2666,Brasil,42,F,Líneas de Nazca,Cusco,2025-08-18,4,3640,Auto
+V2667,Brasil,37,M,Líneas de Nazca,Lima,2025-02-28,9,2813,Tren
+V2668,Chile,42,F,Lago Titicaca,Cusco,2025-01-17,5,3213,Auto
+V2669,EEUU,48,M,Líneas de Nazca,Loreto,2025-05-20,1,1016,Tren
+V2670,Argentina,42,M,Chan Chan,Lima,2025-12-02,10,2983,
+V2671,Perú,27,M,Cajamarca,Lima,2025-11-17,8,4691,Tren
+V2672,Perú,51,F,Cajamarca,Cusco,2025-11-27,7,3611,Auto
+V2673,Argentina,58,M,Amazonas,Puno,2025-05-17,9,3934,Tren
+V2674,Colombia,43,M,Chan Chan,Cusco,2025-08-22,2,553,
+V2675,Argentina,19,F,Lago Titicaca,Lima,2025-11-26,6,1903,Avión
+V2676,EEUU,21,M,Chan Chan,Ica,2025-05-21,1,4674,Bus
+V2677,EEUU,27,M,Lago Titicaca,Loreto,2025-06-10,4,4515,Bus
+V2678,EEUU,34,F,Líneas de Nazca,La Libertad,2025-12-18,6,3940,Avión
+V2679,EEUU,55,F,Lago Titicaca,La Libertad,2025-06-16,4,2152,
+V2680,Chile,34,M,Lago Titicaca,Cusco,2025-10-20,3,823,
+V2681,Colombia,33,F,Machu Picchu,Ica,2025-08-06,8,4730,Tren
+V2682,Colombia,36,M,Líneas de Nazca,Puno,2025-11-22,5,4221,Tren
+V2683,Francia,49,M,Caral,Cajamarca,2025-07-10,2,3478,Auto
+V2684,España,57,M,Caral,La Libertad,2025-01-22,9,4659,Auto
+V2685,Chile,43,F,Lago Titicaca,Cajamarca,2025-09-05,10,3854,Bus
+V2686,Argentina,51,F,Machu Picchu,Loreto,2025-01-06,6,3787,Tren
+V2687,Ecuador,45,F,Chan Chan,Cajamarca,2025-03-24,5,2658,Avión
+V2688,Chile,42,F,Líneas de Nazca,Cajamarca,2025-03-18,1,2047,Auto
+V2689,Colombia,60,F,Chan Chan,Cusco,2025-09-20,6,4072,
+V2690,Perú,49,F,Cajamarca,Ica,2025-05-02,4,1613,Auto
+V2691,Chile,46,F,,Puno,2025-07-14,8,4828,Auto
+V2692,Francia,44,M,Amazonas,Puno,2025-08-13,6,2925,
+V2693,Brasil,27,F,Cajamarca,Cusco,2025-06-03,8,2807,Bus
+V2694,España,63,M,Caral,Ica,2025-02-16,2,4516,Avión
+V2695,Colombia,70,M,Cajamarca,Puno,2025-01-11,7,1119,Tren
+V2696,Brasil,28,F,Caral,Puno,2025-03-15,2,497,
+V2697,Colombia,45,F,Líneas de Nazca,Cajamarca,2025-04-03,10,1498,Auto
+V2698,España,56,F,Chan Chan,Cajamarca,2025-07-11,9,3635,Tren
+V2699,Colombia,62,M,Lago Titicaca,La Libertad,2025-12-04,6,2273,Tren
+V2700,España,67,M,Caral,Cajamarca,2025-07-27,10,4033,Tren
+V2701,Chile,30,F,Machu Picchu,Cajamarca,2025-01-05,7,609,Auto
+V2702,Chile,62,M,,Ica,2025-03-08,3,2120,
+V2703,Argentina,54,F,Cajamarca,Loreto,2025-10-24,6,4280,Auto
+V2704,España,27,F,Machu Picchu,Cusco,2025-08-16,10,4828,Auto
+V2705,Francia,26,M,Chan Chan,La Libertad,2025-08-22,1,1883,Bus
+V2706,Colombia,61,M,Lago Titicaca,Cajamarca,2025-12-27,7,906,Bus
+V2707,Francia,68,F,Líneas de Nazca,La Libertad,2025-10-17,5,2443,Auto
+V2708,Colombia,54,F,Cajamarca,Lima,2025-10-03,4,1176,Auto
+V2709,Chile,43,F,Chan Chan,Cusco,2025-07-04,3,4110,
+V2710,España,18,F,Chan Chan,Ica,2025-04-25,4,4224,
+V2711,España,51,M,Caral,La Libertad,2025-09-13,7,3487,Avión
+V2712,España,47,M,Lago Titicaca,Loreto,2025-01-15,6,497,Auto
+V2713,EEUU,62,F,Líneas de Nazca,Loreto,2025-01-13,5,2637,Bus
+V2714,España,50,F,Chan Chan,Loreto,2025-12-16,5,3355,Avión
+V2715,Argentina,38,M,Líneas de Nazca,Lima,2025-09-10,3,1220,Avión
+V2716,España,40,F,Lago Titicaca,Loreto,2025-09-20,4,4855,Bus
+V2717,Colombia,55,F,Amazonas,Ica,2025-07-27,3,4193,Bus
+V2718,Perú,45,F,Amazonas,Ica,2025-07-13,3,2716,Avión
+V2719,Colombia,32,F,Lago Titicaca,Loreto,2025-02-16,3,1080,Auto
+V2720,Francia,69,M,Caral,Cusco,2025-07-05,1,2657,
+V2721,Ecuador,36,M,Amazonas,Cusco,2025-07-02,7,2279,Avión
+V2722,Francia,19,F,Lago Titicaca,Loreto,2025-07-17,10,3266,Tren
+V2723,Argentina,55,F,Lago Titicaca,Lima,2025-06-27,7,3202,Auto
+V2724,Brasil,21,F,Cajamarca,Loreto,2025-11-21,7,2139,
+V2725,EEUU,19,F,Líneas de Nazca,Cajamarca,2025-03-28,8,1646,Tren
+V2726,Argentina,41,F,Chan Chan,Cusco,2025-07-06,4,1576,Avión
+V2727,EEUU,20,M,Cajamarca,Loreto,2025-01-20,10,2247,Avión
+V2728,Chile,66,M,Líneas de Nazca,Puno,2025-11-17,4,544,
+V2729,Argentina,51,M,Caral,Puno,2025-10-05,2,2007,Auto
+V2730,Francia,57,M,Cajamarca,Cusco,2025-09-14,7,2607,
+V2731,Ecuador,40,F,Chan Chan,Puno,2025-06-01,5,1261,
+V2732,Francia,49,F,Chan Chan,Puno,2025-10-12,9,2275,Auto
+V2733,Francia,69,M,Lago Titicaca,Lima,2025-09-25,10,905,
+V2734,EEUU,29,M,Chan Chan,Lima,2025-05-28,10,2002,Avión
+V2735,Ecuador,29,M,Caral,Cajamarca,2025-03-15,5,3236,Avión
+V2736,EEUU,43,F,Machu Picchu,Puno,2025-01-25,5,2162,Avión
+V2737,Perú,24,F,Amazonas,Ica,2025-02-20,5,3688,Avión
+V2738,Perú,30,F,Machu Picchu,Cajamarca,2025-02-21,8,4757,Bus
+V2739,Colombia,36,F,Amazonas,Puno,2025-03-17,6,4422,
+V2740,Perú,67,M,Chan Chan,Loreto,2025-06-23,1,3686,Avión
+V2741,España,64,F,Lago Titicaca,Puno,2025-09-26,1,1546,Bus
+V2742,Chile,55,F,Líneas de Nazca,Loreto,2025-03-06,4,470,
+V2743,Perú,59,F,Lago Titicaca,Loreto,2025-12-05,2,2893,Bus
+V2744,Brasil,46,F,Lago Titicaca,Cusco,2025-11-14,1,460,Bus
+V2745,EEUU,62,M,Amazonas,Cusco,2025-08-11,9,965,
+V2746,Argentina,62,M,Machu Picchu,Cajamarca,2025-04-19,2,2798,
+V2747,Chile,37,F,Lago Titicaca,Loreto,2025-11-22,4,4378,
+V2748,Argentina,40,F,Machu Picchu,La Libertad,2025-08-27,7,3705,Tren
+V2749,Chile,43,F,Machu Picchu,Loreto,2025-04-01,5,4427,
+V2750,EEUU,46,M,Machu Picchu,Ica,2025-08-17,6,3369,Auto
+V2751,Colombia,27,F,Caral,Puno,2025-08-10,9,4345,
+V2752,Ecuador,28,F,Lago Titicaca,Puno,2025-03-20,3,3500,
+V2753,Argentina,49,F,Amazonas,La Libertad,2025-06-23,1,4638,Bus
+V2754,Francia,24,F,Caral,La Libertad,2025-12-13,9,2137,Tren
+V2755,Francia,50,M,Caral,Ica,2025-06-27,3,618,Avión
+V2756,EEUU,18,M,Cajamarca,Lima,2025-08-13,2,407,Auto
+V2757,EEUU,62,M,Amazonas,Ica,2025-05-28,5,4531,Avión
+V2758,Argentina,51,F,Machu Picchu,Loreto,2025-10-14,1,2080,Auto
+V2759,Colombia,36,F,Cajamarca,Cusco,2025-06-21,3,1325,Auto
+V2760,Brasil,45,F,Líneas de Nazca,Lima,2025-05-03,8,3700,Bus
+V2761,España,38,F,Cajamarca,Lima,2025-05-05,10,2825,Auto
+V2762,Francia,28,M,,Ica,2025-12-22,5,1256,Auto
+V2763,Perú,59,F,Chan Chan,La Libertad,2025-04-14,9,1494,Auto
+V2764,Francia,51,F,Amazonas,Cajamarca,2025-09-14,1,1479,Avión
+V2765,Colombia,68,M,Cajamarca,Loreto,2025-03-03,8,4667,Auto
+V2766,Argentina,50,F,Líneas de Nazca,Puno,2025-02-15,10,3812,
+V2767,Chile,40,F,Lago Titicaca,La Libertad,2025-07-12,4,326,Bus
+V2768,Colombia,59,M,Líneas de Nazca,Puno,2025-11-02,8,3017,Bus
+V2769,Chile,64,F,Lago Titicaca,Loreto,2025-12-26,2,4222,Avión
+V2770,Chile,49,M,Machu Picchu,Puno,2025-11-23,4,336,Tren
+V2771,Colombia,23,F,Machu Picchu,Cusco,2025-09-08,9,2385,Tren
+V2772,Ecuador,58,M,Cajamarca,Puno,2025-02-14,2,2862,Bus
+V2773,Chile,35,M,Cajamarca,Ica,2025-02-12,4,2888,Avión
+V2774,EEUU,23,M,Caral,Puno,2025-12-17,9,1347,
+V2775,Chile,47,M,Cajamarca,Ica,2025-02-04,8,4373,Auto
+V2776,Colombia,40,M,Caral,Cajamarca,2025-12-13,10,4056,Avión
+V2777,Brasil,50,M,Lago Titicaca,Ica,2025-09-07,3,306,Tren
+V2778,Chile,20,M,,Cusco,2025-12-26,9,1838,Auto
+V2779,Argentina,22,M,Amazonas,Puno,2025-05-02,4,3430,Auto
+V2780,Colombia,47,M,Machu Picchu,Lima,2025-01-22,8,3496,Avión
+V2781,Perú,33,M,Machu Picchu,Cusco,2025-10-05,10,1883,Avión
+V2782,Chile,36,F,Machu Picchu,Lima,2025-10-21,5,1079,Auto
+V2783,Brasil,67,F,Chan Chan,Cajamarca,2025-08-06,2,2317,Auto
+V2784,EEUU,49,M,Caral,Loreto,2025-06-15,8,2134,Tren
+V2785,Brasil,48,F,Chan Chan,Puno,2025-03-13,1,2562,Auto
+V2786,Brasil,27,F,Lago Titicaca,Ica,2025-11-27,8,3583,
+V2787,Argentina,52,F,Cajamarca,Lima,2025-01-15,5,4831,Bus
+V2788,Ecuador,66,M,Lago Titicaca,Ica,2025-07-13,4,1395,Bus
+V2789,Chile,21,F,Amazonas,Puno,2025-04-27,8,4765,
+V2790,Brasil,62,F,,Ica,2025-01-11,3,2744,Tren
+V2791,Perú,28,F,Amazonas,La Libertad,2025-03-17,10,2240,Tren
+V2792,España,60,F,Lago Titicaca,La Libertad,2025-02-14,8,4751,
+V2793,Brasil,24,F,Machu Picchu,Puno,2025-08-20,2,382,Avión
+V2794,Brasil,45,M,Caral,Lima,2025-12-20,10,2370,Tren
+V2795,EEUU,44,M,Caral,Loreto,2025-02-10,2,925,
+V2796,EEUU,56,F,Chan Chan,Ica,2025-12-02,4,3376,
+V2797,Francia,57,F,Caral,Cajamarca,2025-10-05,7,827,Auto
+V2798,España,50,M,Machu Picchu,Puno,2025-08-10,8,4270,Bus
+V2799,Brasil,48,F,Chan Chan,Puno,2025-03-21,9,3029,Auto
+V2800,Chile,22,M,Lago Titicaca,Lima,2025-08-01,5,3526,
+V2801,España,59,M,Líneas de Nazca,La Libertad,2025-10-04,4,2077,Auto
+V2802,Brasil,35,F,Amazonas,Cusco,2025-12-11,9,1695,Auto
+V2803,Argentina,33,M,,Cajamarca,2025-06-13,10,2766,Tren
+V2804,Francia,67,F,Líneas de Nazca,Puno,2025-08-16,8,3147,
+V2805,EEUU,34,M,Caral,La Libertad,2025-11-27,2,1325,Avión
+V2806,Chile,28,F,Amazonas,Ica,2025-02-13,1,1519,Tren
+V2807,Brasil,64,F,Amazonas,Puno,2025-06-10,7,2006,Avión
+V2808,EEUU,49,F,Caral,Loreto,2025-03-13,7,3049,Avión
+V2809,EEUU,51,M,Chan Chan,Cusco,2025-11-25,6,3876,
+V2810,Argentina,57,F,Amazonas,Cajamarca,2025-02-28,9,3938,Bus
+V2811,Chile,30,M,Amazonas,Cusco,2025-06-08,3,4265,Avión
+V2812,Perú,52,M,Caral,La Libertad,2025-10-11,8,2025,Avión
+V2813,Chile,50,M,Machu Picchu,Loreto,2025-05-03,1,400,Avión
+V2814,Colombia,43,M,Lago Titicaca,La Libertad,2025-08-01,1,4478,
+V2815,Perú,44,F,Lago Titicaca,Lima,2025-01-26,8,2285,Auto
+V2816,Ecuador,25,F,Chan Chan,La Libertad,2025-12-23,7,2937,Tren
+V2817,Ecuador,51,F,Líneas de Nazca,Cusco,2025-04-11,1,653,Auto
+V2818,Argentina,43,F,Chan Chan,Cusco,2025-11-27,3,4180,Auto
+V2819,España,28,M,Lago Titicaca,Cajamarca,2025-01-01,8,1049,
+V2820,Chile,57,M,Chan Chan,Puno,2025-05-13,8,4993,Bus
+V2821,Argentina,70,M,Chan Chan,Puno,2025-07-07,7,3864,Avión
+V2822,Ecuador,30,F,Líneas de Nazca,Puno,2025-09-10,5,1612,
+V2823,Brasil,67,F,Chan Chan,Lima,2025-07-05,2,4243,Avión
+V2824,Francia,53,F,Amazonas,Loreto,2025-10-02,5,4541,Tren
+V2825,Colombia,49,F,Caral,Loreto,2025-12-25,6,3791,Auto
+V2826,Argentina,51,F,Cajamarca,Loreto,2025-04-22,1,1532,Tren
+V2827,Brasil,31,F,Machu Picchu,Cajamarca,2025-03-18,3,4777,Auto
+V2828,Francia,60,F,Machu Picchu,Loreto,2025-07-17,3,4553,
+V2829,Francia,24,M,Chan Chan,Loreto,2025-09-26,7,1181,Tren
+V2830,Brasil,47,F,Lago Titicaca,Puno,2025-06-18,2,738,Avión
+V2831,Brasil,67,M,Líneas de Nazca,Cusco,2025-09-21,8,3143,Tren
+V2832,Argentina,30,M,Amazonas,Loreto,2025-09-18,7,3102,Tren
+V2833,Francia,46,M,Machu Picchu,La Libertad,2025-10-09,5,3065,
+V2834,Brasil,69,F,Líneas de Nazca,Lima,2025-11-16,3,3548,
+V2835,Colombia,41,F,Líneas de Nazca,Cusco,2025-05-15,5,1664,Auto
+V2836,Francia,27,F,Chan Chan,Lima,2025-04-03,2,4235,
+V2837,Argentina,26,F,Machu Picchu,Ica,2025-01-09,1,4291,Auto
+V2838,España,62,M,Chan Chan,Cusco,2025-02-26,10,3358,
+V2839,España,60,M,Chan Chan,Loreto,2025-01-17,4,2369,Bus
+V2840,Colombia,36,F,Cajamarca,Cajamarca,2025-04-16,4,507,Auto
+V2841,Ecuador,48,M,Machu Picchu,Puno,2025-08-07,7,4699,Tren
+V2842,Ecuador,35,F,Lago Titicaca,Ica,2025-10-06,1,3090,
+V2843,EEUU,31,F,Amazonas,Cajamarca,2025-01-16,8,1152,
+V2844,Perú,42,M,Cajamarca,Loreto,2025-02-20,5,3100,Auto
+V2845,Chile,43,M,Cajamarca,Ica,2025-09-11,3,742,Tren
+V2846,Brasil,19,M,Líneas de Nazca,Loreto,2025-01-16,7,994,
+V2847,España,35,F,Líneas de Nazca,La Libertad,2025-10-22,10,1993,Bus
+V2848,Colombia,51,M,Líneas de Nazca,Cusco,2025-10-21,6,2705,Bus
+V2849,España,26,F,Chan Chan,Ica,2025-11-15,6,2621,Auto
+V2850,Ecuador,39,F,Lago Titicaca,Cajamarca,2025-10-13,7,4233,Tren
+V2851,España,59,M,Caral,Ica,2025-10-04,7,910,Tren
+V2852,Francia,63,M,Lago Titicaca,Lima,2025-12-24,2,2522,Bus
+V2853,Perú,38,F,Lago Titicaca,La Libertad,2025-07-25,8,2162,Tren
+V2854,Colombia,56,M,Cajamarca,La Libertad,2025-06-17,3,4044,
+V2855,EEUU,55,M,Cajamarca,Ica,2025-03-02,6,2048,Bus
+V2856,EEUU,43,F,Machu Picchu,Ica,2025-01-01,7,3227,Tren
+V2857,Argentina,69,F,Chan Chan,La Libertad,2025-10-02,8,2268,
+V2858,Chile,19,F,Cajamarca,Lima,2025-12-02,1,2486,Auto
+V2859,España,31,M,Amazonas,Lima,2025-03-16,6,4043,Tren
+V2860,Francia,41,M,Chan Chan,Cajamarca,2025-03-11,6,2892,
+V2861,Chile,36,M,Chan Chan,Puno,2025-01-11,8,1761,Auto
+V2862,España,38,F,Caral,Cajamarca,2025-02-10,4,1607,Tren
+V2863,Francia,56,M,Lago Titicaca,Cusco,2025-08-01,8,739,
+V2864,Ecuador,60,M,Cajamarca,Lima,2025-04-26,4,783,Tren
+V2865,Colombia,25,M,Cajamarca,Cusco,2025-09-04,6,4904,Tren
+V2866,España,30,F,Caral,Lima,2025-03-22,9,3505,Auto
+V2867,Brasil,20,M,Machu Picchu,Loreto,2025-07-22,4,2189,Auto
+V2868,España,23,M,Lago Titicaca,Lima,2025-04-02,5,2047,Bus
+V2869,Chile,62,F,Cajamarca,Cusco,2025-06-24,3,3818,
+V2870,Perú,37,F,Caral,La Libertad,2025-12-15,7,469,Avión
+V2871,Colombia,39,F,Chan Chan,Loreto,2025-02-23,1,1666,Auto
+V2872,Colombia,65,F,Machu Picchu,Lima,2025-12-14,7,4393,Tren
+V2873,Brasil,57,F,Caral,Cajamarca,2025-09-27,8,2307,Auto
+V2874,Ecuador,20,F,,Lima,2025-02-07,6,3332,
+V2875,Argentina,23,M,Lago Titicaca,Cusco,2025-09-03,3,4566,Avión
+V2876,Brasil,25,F,Lago Titicaca,Ica,2025-11-13,6,2760,Auto
+V2877,España,56,F,Lago Titicaca,Cusco,2025-03-15,2,4465,
+V2878,Colombia,68,M,Chan Chan,Cusco,2025-11-13,7,483,Tren
+V2879,EEUU,22,M,Machu Picchu,Loreto,2025-12-15,3,359,Bus
+V2880,EEUU,43,F,Amazonas,Cajamarca,2025-12-18,4,2096,Bus
+V2881,Brasil,57,M,Chan Chan,Cusco,2025-08-08,8,386,Bus
+V2882,Perú,40,M,Líneas de Nazca,Cusco,2025-04-12,9,2425,Tren
+V2883,Ecuador,30,F,Chan Chan,La Libertad,2025-10-02,9,4517,
+V2884,Brasil,52,F,Líneas de Nazca,Cusco,2025-08-08,3,766,Tren
+V2885,Argentina,44,M,Caral,Loreto,2025-02-04,8,2157,
+V2886,Francia,48,M,Caral,Lima,2025-03-02,4,2976,Auto
+V2887,España,30,F,Amazonas,Loreto,2025-08-09,9,1987,
+V2888,Francia,36,M,Amazonas,Puno,2025-01-12,1,495,Tren
+V2889,EEUU,69,M,Caral,Lima,2025-01-06,6,4967,Tren
+V2890,Perú,40,F,Caral,Loreto,2025-06-20,5,3802,Avión
+V2891,Argentina,38,F,Amazonas,La Libertad,2025-12-12,9,4063,Avión
+V2892,Perú,26,F,Amazonas,Lima,2025-04-25,6,601,Bus
+V2893,Francia,44,M,Lago Titicaca,Lima,2025-08-24,2,3869,Auto
+V2894,EEUU,26,F,Cajamarca,Ica,2025-09-27,9,2617,Tren
+V2895,España,62,F,Caral,Cajamarca,2025-07-16,10,2686,Avión
+V2896,EEUU,41,F,Líneas de Nazca,Puno,2025-03-06,7,910,Bus
+V2897,Ecuador,70,F,Caral,Cajamarca,2025-11-18,5,3597,Auto
+V2898,Colombia,57,F,Machu Picchu,Puno,2025-10-01,1,2047,Auto
+V2899,Colombia,25,M,Machu Picchu,Ica,2025-08-05,3,1000,Avión
+V2900,España,51,M,Chan Chan,Cusco,2025-06-17,8,2339,Tren
+V2901,Brasil,64,F,Líneas de Nazca,Ica,2025-06-14,1,3944,Tren
+V2902,Argentina,66,F,Caral,Cajamarca,2025-01-18,10,3198,Auto
+V2903,Argentina,62,F,Chan Chan,Lima,2025-02-04,4,4578,Bus
+V2904,Ecuador,44,F,Amazonas,Ica,2025-04-22,6,2313,Avión
+V2905,EEUU,25,M,Lago Titicaca,Puno,2025-12-17,5,1168,Auto
+V2906,España,58,F,Machu Picchu,Cusco,2025-04-04,1,851,Auto
+V2907,Colombia,45,M,Lago Titicaca,Cajamarca,2025-11-23,5,4905,
+V2908,Francia,30,F,Amazonas,Cajamarca,2025-12-19,3,1413,Avión
+V2909,EEUU,27,M,Amazonas,Cajamarca,2025-08-09,2,3058,Auto
+V2910,Chile,32,F,Caral,Puno,2025-12-10,3,3271,Bus
+V2911,Perú,49,F,Caral,La Libertad,2025-08-11,1,3368,Auto
+V2912,Ecuador,23,F,Caral,Cajamarca,2025-12-17,2,664,Tren
+V2913,Brasil,55,F,Líneas de Nazca,Cajamarca,2025-01-27,5,4382,Auto
+V2914,Chile,52,M,Amazonas,Loreto,2025-06-22,8,1884,Auto
+V2915,EEUU,19,M,Caral,La Libertad,2025-10-24,5,1835,Auto
+V2916,Francia,63,M,Machu Picchu,Loreto,2025-09-12,10,3968,Auto
+V2917,EEUU,42,M,Cajamarca,Lima,2025-05-23,2,4156,Bus
+V2918,EEUU,60,M,Machu Picchu,Ica,2025-04-24,7,1441,
+V2919,Francia,24,F,Machu Picchu,Lima,2025-02-17,4,3590,Bus
+V2920,Perú,34,M,Líneas de Nazca,Loreto,2025-12-05,6,2235,Bus
+V2921,EEUU,37,F,Amazonas,Loreto,2025-06-23,4,1321,Tren
+V2922,Francia,44,M,Lago Titicaca,Puno,2025-07-02,4,3334,
+V2923,Francia,23,M,Machu Picchu,Puno,2025-04-10,5,4700,Bus
+V2924,Francia,25,M,Cajamarca,La Libertad,2025-11-26,6,1997,Tren
+V2925,EEUU,44,F,Caral,Ica,2025-02-12,3,429,Tren
+V2926,Brasil,43,M,Chan Chan,Loreto,2025-04-07,1,3173,
+V2927,Francia,68,F,Chan Chan,Ica,2025-08-04,8,3907,Auto
+V2928,Brasil,34,F,Lago Titicaca,La Libertad,2025-10-01,9,611,Bus
+V2929,España,36,M,Amazonas,Cajamarca,2025-04-22,5,499,Auto
+V2930,España,52,M,Chan Chan,Lima,2025-08-06,5,2758,Tren
+V2931,Colombia,28,F,Lago Titicaca,Cajamarca,2025-05-09,5,2600,Bus
+V2932,Ecuador,22,F,Chan Chan,Cusco,2025-09-15,9,3926,
+V2933,Colombia,59,M,Chan Chan,La Libertad,2025-01-03,9,4070,Tren
+V2934,Colombia,44,M,Caral,Cajamarca,2025-07-02,8,1982,Tren
+V2935,Colombia,23,F,Chan Chan,Cusco,2025-10-18,9,4297,Tren
+V2936,Argentina,60,F,Chan Chan,La Libertad,2025-10-19,10,2006,Bus
+V2937,EEUU,31,M,Cajamarca,Lima,2025-03-16,6,1289,Bus
+V2938,Argentina,19,F,Cajamarca,Loreto,2025-05-16,9,2250,Auto
+V2939,Perú,36,M,Líneas de Nazca,Lima,2025-09-16,6,4776,Bus
+V2940,Ecuador,54,M,Cajamarca,Ica,2025-01-20,2,3910,
+V2941,España,41,M,Caral,Puno,2025-07-02,10,4109,Bus
+V2942,Francia,43,F,Chan Chan,Ica,2025-09-01,3,1245,Bus
+V2943,Perú,65,M,Lago Titicaca,Cusco,2025-08-28,4,652,
+V2944,EEUU,21,M,Amazonas,Cusco,2025-02-20,6,4023,Auto
+V2945,Ecuador,61,F,Caral,Loreto,2025-09-10,2,4272,Auto
+V2946,EEUU,34,F,Machu Picchu,Lima,2025-09-13,2,1466,Bus
+V2947,España,55,M,Líneas de Nazca,Cajamarca,2025-04-23,10,1288,Avión
+V2948,EEUU,33,M,Caral,Lima,2025-05-25,4,1136,
+V2949,Colombia,65,F,Lago Titicaca,Cusco,2025-04-09,5,1467,Bus
+V2950,España,69,M,Lago Titicaca,Puno,2025-03-06,9,1947,Bus
+V2951,Colombia,62,F,Chan Chan,Loreto,2025-02-01,9,1469,
+V2952,Chile,24,F,Líneas de Nazca,Loreto,2025-06-21,3,347,Bus
+V2953,Ecuador,37,F,Amazonas,Ica,2025-12-05,4,3244,
+V2954,Brasil,22,F,Cajamarca,La Libertad,2025-08-02,9,4156,Bus
+V2955,España,31,M,Chan Chan,Puno,2025-10-17,8,2242,
+V2956,Colombia,55,F,Cajamarca,Lima,2025-03-14,2,3823,Auto
+V2957,Colombia,21,F,Machu Picchu,La Libertad,2025-07-07,6,4331,Avión
+V2958,EEUU,27,F,Caral,Ica,2025-01-02,2,755,Bus
+V2959,Chile,67,F,Líneas de Nazca,Cajamarca,2025-11-28,2,3346,Tren
+V2960,EEUU,41,F,Machu Picchu,Lima,2025-04-18,2,430,Auto
+V2961,EEUU,42,M,Amazonas,La Libertad,2025-07-14,7,2846,Avión
+V2962,Ecuador,49,F,Machu Picchu,Lima,2025-11-22,10,989,
+V2963,EEUU,60,M,Caral,Lima,2025-11-27,5,1202,Auto
+V2964,Chile,70,F,Chan Chan,Ica,2025-04-18,10,1776,
+V2965,Brasil,49,M,Caral,Ica,2025-04-28,5,2746,Tren
+V2966,Francia,59,M,,Ica,2025-12-10,4,4593,Tren
+V2967,Colombia,70,F,Lago Titicaca,Cusco,2025-10-19,9,4868,
+V2968,Colombia,63,F,Machu Picchu,Cusco,2025-08-06,10,662,Tren
+V2969,Colombia,24,M,Líneas de Nazca,Lima,2025-05-05,9,1131,Tren
+V2970,Brasil,31,F,Machu Picchu,Loreto,2025-09-15,6,2703,
+V2971,Perú,52,F,Caral,Ica,2025-07-14,7,4560,Auto
+V2972,Ecuador,47,F,Lago Titicaca,Cusco,2025-07-02,9,4667,Avión
+V2973,Perú,43,F,Cajamarca,Cajamarca,2025-12-12,9,1896,Avión
+V2974,EEUU,23,F,Machu Picchu,Loreto,2025-12-24,2,2614,Avión
+V2975,Brasil,40,M,Cajamarca,Cajamarca,2025-12-09,1,2814,Bus
+V2976,Brasil,29,M,Lago Titicaca,Loreto,2025-04-14,9,4866,Auto
+V2977,Brasil,52,F,Cajamarca,Cajamarca,2025-11-02,4,1705,Auto
+V2978,Colombia,68,F,Lago Titicaca,Puno,2025-06-11,2,2743,Bus
+V2979,Colombia,55,M,Cajamarca,Cajamarca,2025-07-18,10,1995,
+V2980,Colombia,25,M,Lago Titicaca,La Libertad,2025-12-09,8,668,Avión
+V2981,Colombia,41,F,Líneas de Nazca,Ica,2025-12-26,3,1432,
+V2982,Ecuador,23,F,Amazonas,Cajamarca,2025-01-13,7,957,Avión
+V2983,Chile,44,F,Machu Picchu,Loreto,2025-11-20,6,1044,Bus
+V2984,Colombia,60,M,Caral,Puno,2025-03-08,8,3219,Avión
+V2985,España,27,M,Caral,Lima,2025-01-05,8,2899,Bus
+V2986,Perú,56,F,Lago Titicaca,Cusco,2025-10-12,2,3954,
+V2987,Argentina,55,F,Cajamarca,Puno,2025-07-28,3,2244,
+V2988,Colombia,70,M,Amazonas,Ica,2025-12-02,6,1722,Avión
+V2989,España,54,F,Lago Titicaca,Loreto,2025-04-26,3,3974,Tren
+V2990,EEUU,51,M,Chan Chan,Lima,2025-04-04,9,2219,Bus
+V2991,Brasil,64,M,Cajamarca,Puno,2025-05-12,4,1969,
+V2992,Ecuador,43,M,Chan Chan,Cusco,2025-08-12,2,2029,Avión
+V2993,Argentina,60,M,Lago Titicaca,Cusco,2025-12-18,5,4893,Bus
+V2994,Chile,54,F,Cajamarca,Lima,2025-06-07,6,2195,Tren
+V2995,España,24,M,Caral,Ica,2025-03-13,10,622,Avión
+V2996,EEUU,35,F,Caral,Puno,2025-04-01,1,499,Bus
+V2997,Chile,29,F,Chan Chan,Ica,2025-03-12,6,346,Tren
+V2998,Chile,56,F,Cajamarca,La Libertad,2025-06-16,7,2888,Auto
+V2999,Chile,30,M,Chan Chan,Ica,2025-09-28,4,2241,Bus
+V3000,España,45,F,Chan Chan,Loreto,2025-03-28,3,3658,Avión
