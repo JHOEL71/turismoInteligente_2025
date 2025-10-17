@@ -1,0 +1,19 @@
+# 🧩 2_Crear_Estructura.ipynb
+# Crear el archivo base.csv con la estructura de columnas del proyecto Turismo Inteligente 2025
+
+from pathlib import Path
+
+# Crear la carpeta 'data' si no existe
+data_path = Path.cwd() / "../data"
+data_path.mkdir(parents=True, exist_ok=True)
+
+# Definir la ruta del archivo base
+archivo_csv = data_path / "base.csv"
+
+# Crear el archivo CSV con las columnas base
+if not archivo_csv.exists():
+    with open(archivo_csv, "w", encoding="utf-8") as f:
+        f.write("id_visitante,pais_origen,edad,genero,destino,region,fecha_visita,dias_estadia,gasto_total,medio_transporte\n")
+    print("✅ Archivo 'base.csv' creado correctamente.")
+else:
+    print("⚠️ El archivo 'base.csv' ya existe.")
